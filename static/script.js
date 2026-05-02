@@ -44,8 +44,15 @@ document.getElementById('uploadForm').addEventListener('submit', async (e) => {
         });
 
         if (!response.ok) {
-            const data = await response.json();
-            throw new Error(data.error || "Something went wrong.");
+            let errorText = "Something went wrong.";
+            try {
+                const data = await response.json();
+                errorText = data.error || errorText;
+            } catch (e) {
+                // If the server returns an HTML page (like a 502 Bad Gateway or 413 Payload Too Large)
+                errorText = `Server error (${response.status}). Please check your Render logs!`;
+            }
+            throw new Error(errorText);
         }
 
         // Handle file preview

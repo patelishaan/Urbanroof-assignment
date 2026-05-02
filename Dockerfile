@@ -2,6 +2,9 @@ FROM python:3.11-slim
 
 # Install system dependencies required for xhtml2pdf and PyMuPDF
 RUN apt-get update && apt-get install -y \
+    gcc \
+    pkg-config \
+    libcairo2-dev \
     libffi-dev \
     libssl-dev \
     libjpeg-dev \

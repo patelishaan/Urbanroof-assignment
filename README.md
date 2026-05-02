@@ -1,3 +1,13 @@
+---
+title: AI DDR Generator
+emoji: 🏢
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+pinned: false
+app_port: 7860
+---
+
 # AI Generalist | Applied AI Builder - DDR Generation
 
 This repository contains the solution for the **Applied AI Builder (DDR Report Generation)** assignment. The goal of this project is to build an AI workflow that ingests raw site inspection documents and thermal reports (PDFs) and synthesizes them into a highly structured, client-ready **Detailed Diagnostic Report (DDR)**.
