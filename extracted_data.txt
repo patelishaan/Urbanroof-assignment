@@ -1,0 +1,8913 @@
+=== SAMPLE REPORT ===
+--- Page 1 ---
+[IMAGE: sample_p1_1.png]
+
+Inspection Form
+
+Complete
+
+Score 
+85.71% 
+Flagged items 
+1 Actions 
+0
+
+Customer Name
+
+Mobile:
+
+Email:
+
+Address:
+
+Property Age (In years):
+
+Property Type: 
+Flat
+
+Floors: 
+11
+
+Previous Structural audit done 
+No
+
+Previous Repair work done 
+No
+
+Inspection Date and Time: 
+27.09.2022 14:28 IST
+
+Inspected By: 
+Krushna & Mahesh
+
+
+--- Page 2 ---
+[IMAGE: sample_p2_1.png]
+
+Flagged items 
+1 flagged
+
+Checklists / Inspection Checklists
+
+WC
+
+Checklist:
+
+External wall
+
+
+--- Page 3 ---
+[IMAGE: sample_p3_1.png]
+
+Site Details
+
+Hall, Bedroom, Kitchen, Master
+
+Bedroom, Parking Area,
+
+Impacted Areas/Rooms
+
+Common bathroom
+
+Impacted Area
+
+Impacted Area 1
+
+Negative side Description 
+Hall Skirting level Dampness
+
+Negative side photographs
+
+[IMAGE: sample_p3_2.jpeg]
+
+[IMAGE: sample_p3_3.jpeg]
+
+[IMAGE: sample_p3_4.jpeg]
+
+[IMAGE: sample_p3_5.jpeg]
+
+[IMAGE: sample_p3_6.jpeg]
+
+[IMAGE: sample_p3_7.jpeg]
+
+Photo 1 
+Photo 2 
+Photo 3 
+Photo 4 
+Photo 5 
+Photo 6
+
+[IMAGE: sample_p3_8.jpeg]
+
+Photo 7
+
+Positive side Description 
+Common Bathroom tile
+
+hollowness
+
+Positive side photographs
+
+[IMAGE: sample_p3_9.jpeg]
+
+[IMAGE: sample_p3_10.jpeg]
+
+[IMAGE: sample_p3_11.jpeg]
+
+[IMAGE: sample_p3_12.jpeg]
+
+Photo 8 
+Photo 9 
+Photo 10 
+Photo 11
+
+Impacted Area 2
+
+Negative side Description 
+Bedroom Skirting level
+
+Dampness
+
+Negative side photographs
+
+[IMAGE: sample_p3_13.jpeg]
+
+[IMAGE: sample_p3_14.jpeg]
+
+[IMAGE: sample_p3_15.jpeg]
+
+
+--- Page 4 ---
+[IMAGE: sample_p4_1.png]
+
+Positive side Description 
+Common Bathroom tile
+
+hollowness
+
+Positive side photographs
+
+[IMAGE: sample_p4_2.jpeg]
+
+[IMAGE: sample_p4_3.jpeg]
+
+[IMAGE: sample_p4_4.jpeg]
+
+[IMAGE: sample_p4_5.jpeg]
+
+[IMAGE: sample_p4_6.jpeg]
+
+Photo 15 
+Photo 16 
+Photo 17 
+Photo 18 
+Photo 19
+
+Impacted Area 3
+
+Negative side Description 
+Master bedroom Skirting level
+
+Dampness
+
+Negative side photographs
+
+[IMAGE: sample_p4_7.jpeg]
+
+[IMAGE: sample_p4_8.jpeg]
+
+[IMAGE: sample_p4_9.jpeg]
+
+[IMAGE: sample_p4_10.jpeg]
+
+[IMAGE: sample_p4_11.jpeg]
+
+[IMAGE: sample_p4_12.jpeg]
+
+Photo 20 
+Photo 21 
+Photo 22 
+Photo 23 
+Photo 24 
+Photo 25
+
+Positive side Description 
+MB Bathroom tile hollowness
+
+Positive side photographs
+
+[IMAGE: sample_p4_14.jpeg]
+
+[IMAGE: sample_p4_13.jpeg]
+
+[IMAGE: sample_p4_15.jpeg]
+
+[IMAGE: sample_p4_16.jpeg]
+
+[IMAGE: sample_p4_17.jpeg]
+
+Photo 26 
+Photo 27 
+Photo 28 
+Photo 29 
+Photo 30
+
+Impacted Area 4
+
+Negative side Description 
+Kitchen Skirting level
+
+Dampness
+
+Negative side photographs
+
+[IMAGE: sample_p4_18.jpeg]
+
+[IMAGE: sample_p4_19.jpeg]
+
+Photo 31 
+Photo 32
+
+
+--- Page 5 ---
+[IMAGE: sample_p5_1.png]
+
+Positive side Description 
+Master bedroom bathroom
+
+Positive side photographs
+
+[IMAGE: sample_p5_3.jpeg]
+
+[IMAGE: sample_p5_2.jpeg]
+
+[IMAGE: sample_p5_4.jpeg]
+
+[IMAGE: sample_p5_5.jpeg]
+
+[IMAGE: sample_p5_6.jpeg]
+
+Photo 33 
+Photo 34 
+Photo 35 
+Photo 36 
+Photo 37
+
+Impacted Area 5
+
+Negative side Description 
+Master bedroom wall damness
+
+Negative side photographs
+
+[IMAGE: sample_p5_10.jpeg]
+
+[IMAGE: sample_p5_7.jpeg]
+
+[IMAGE: sample_p5_8.jpeg]
+
+[IMAGE: sample_p5_9.jpeg]
+
+Photo 38 
+Photo 39 
+Photo 40 
+Photo 41
+
+Positive side Description 
+External wall crack and Duct
+
+Issue
+
+Positive side photographs
+
+[IMAGE: sample_p5_11.jpeg]
+
+[IMAGE: sample_p5_12.jpeg]
+
+[IMAGE: sample_p5_13.jpeg]
+
+[IMAGE: sample_p5_14.jpeg]
+
+[IMAGE: sample_p5_15.jpeg]
+
+[IMAGE: sample_p5_16.jpeg]
+
+Photo 42 
+Photo 43 
+Photo 44 
+Photo 45 
+Photo 46 
+Photo 47
+
+[IMAGE: sample_p5_17.jpeg]
+
+Photo 48
+
+Impacted Area 6
+
+Negative side Description 
+Parking Area seepage
+
+Negative side photographs
+
+
+--- Page 6 ---
+[IMAGE: sample_p6_1.png]
+
+[IMAGE: sample_p6_3.jpeg]
+
+[IMAGE: sample_p6_4.jpeg]
+
+[IMAGE: sample_p6_5.jpeg]
+
+[IMAGE: sample_p6_2.jpeg]
+
+Photo 49 
+Photo 50 
+Photo 51 
+Photo 52
+
+Common Bathroom tile 
+hollowness and plumbing issue
+
+Positive side Description
+
+Positive side photographs
+
+[IMAGE: sample_p6_7.jpeg]
+
+[IMAGE: sample_p6_6.jpeg]
+
+[IMAGE: sample_p6_8.jpeg]
+
+[IMAGE: sample_p6_9.jpeg]
+
+[IMAGE: sample_p6_10.jpeg]
+
+Photo 53 
+Photo 54 
+Photo 55 
+Photo 56 
+Photo 57
+
+Impacted Area 7
+
+Negative side Description 
+Common Bathroom Ceiling
+
+Dampness
+
+Negative side photographs
+
+[IMAGE: sample_p6_17.jpeg]
+
+Photo 58 
+outlet Leakage
+
+Positive side Description 
+Flat no 203 tile joint open and
+
+Positive side photographs
+
+[IMAGE: sample_p6_11.jpeg]
+
+[IMAGE: sample_p6_12.jpeg]
+
+[IMAGE: sample_p6_13.jpeg]
+
+[IMAGE: sample_p6_14.jpeg]
+
+[IMAGE: sample_p6_15.jpeg]
+
+[IMAGE: sample_p6_16.jpeg]
+
+Photo 59 
+Photo 60 
+Photo 61 
+Photo 62 
+Photo 63 
+Photo 64
+
+
+--- Page 7 ---
+[IMAGE: sample_p7_1.png]
+
+Checklists 
+1 flagged, 84.21%
+
+Inspection Checklists 
+1 flagged, 84.21%
+
+Checklist: 
+WC
+
+External wall
+
+Condition of leakage at adjacent walls
+
+Condition of leakage below WC
+
+Leakage during: 
+All time
+
+Leakage due to concealed plumbing 
+Yes
+
+Leakage due to damage in Nahani trap/Brickbat coba under 
+tile flooring
+
+Yes
+
+Positive Side Inputs For WC 
+100%
+
+Gaps/Blackish dirt Observed in tile joints 
+Yes
+
+Gaps around Nahani Trap Joints 
+Yes
+
+Tiles Broken/Loosed anywhere 
+No
+
+Loose Plumbing joints/rust around joints and edges (Flush 
+  
+Yes 
+ 
+  Tank/shower/angle cock/bibcock, washbasin, etc)
+
+Type of tile
+
+Moderate
+
+Negative Side Inputs For External Wall 
+75%
+
+Condition of leakage at interior side
+
+Leakage during: 
+All time
+
+Leakage due to concealed plumbing 
+Yes
+
+Internal WC/Bath/Balcony leakage observed 
+Yes
+
+Positive Side Inputs for External Wall 
+100%
+
+Existing type of paint and manufacturer 
+Not sure
+
+Stuctural Condition of RCC Members 
+100%
+
+
+--- Page 8 ---
+[IMAGE: sample_p8_1.png]
+
+Condition of cracks observed on RCC Column and Beam 
+Moderate
+
+Condition of rust marks observed in RCC Beam and Column 
+N/A
+
+Condition of corrosion/spalling of concrete/exposed 
+reinforcement observed in column/beams/roof slab ceiling
+
+N/A
+
+Expansion joints condition if any 
+  
+N/A
+
+Condition of External wall 
+100%
+
+Are there any major or minor cracks observed over external 
+surface?
+
+Moderate
+
+Are the sealants applied on the window frame joints intact? 
+  
+N/A
+
+Condition of wall mounted AC Frames, holes, drain pipes over 
+the wall.
+
+N/A
+
+Are the external plumbing pipes cracked and leaked? If yes its 
+condition.
+
+Moderate
+
+Are the openings around the pipes in external wall properly 
+grouted? If not its condition.
+
+N/A
+
+Condition of any vegetation growth, dish antennas fixed on 
+parapet wall observed?
+
+N/A
+
+Condition of Adhesion of old paint 
+100%
+
+Chalking and flaking in paint film. 
+N/A
+
+Algae fungus and Moss observed on external wall? 
+Moderate
+
+Bird droppings condition observed on external wall and Chajja 
+N/A
+
+Condition of corrosion on metal rods and MS window grills 
+N/A
+
+Substrate condition of Plaster
+
+Patchwork plaster required? if yes its condition? 
+N/A
+
+Entire replaster required? if yes its condition? 
+N/A
+
+Condition of separation cracks observed at beam-column 
+  
+N/A 
+ 
+  junction
+
+Condition of leakage observed from overhead water tank 
+N/A
+
+
+--- Page 9 ---
+[IMAGE: sample_p9_1.jpeg]
+
+Loose plaster/hollow sond on external surfaces?if observed, 
+N/A
+
+
+--- Page 10 ---
+[IMAGE: sample_p10_1.png]
+
+SUMMARY TABLE
+
+Impacted area (-ve side) 
+Point
+
+Exposed area (+ve side)
+
+Point
+
+No
+
+No
+
+1.1
+
+Observed gaps between the tile joints of
+
+1 
+Observed dampness at the skirting level
+
+of Hall of Flat No. 103
+
+Common Bathroom of Flat No. 103 
+ 
+2
+
+2.1
+
+Observed dampness at the skirting level 
+of the Common Bedroom of Flat No. 103
+
+Observed gaps between the tile joints of
+
+Common Bathroom of Flat No. 103
+
+3.1
+
+Observed dampness at the skirting level
+
+Observed gaps between the tile joints of Master
+
+3
+
+of Master Bedroom of Flat No. 103
+
+Bedroom Bathroom of Flat No. 103
+
+4.1
+
+Observed dampness at the skirting level
+
+Observed gaps between the tile joints of Master
+
+4
+
+of Kitchen of Flat No. 103
+
+Bedroom Bathroom of Flat No. 103
+
+5.1
+
+Observed dampness & efflorescence on
+
+Observed cracks on the External wall of building
+
+5
+
+the wall surface of Master Bedroom of
+
+near Master Bedroom of Flat No. 103
+
+Flat No. 103
+
+Observed leakage at the Parking ceiling
+
+6.1
+
+Observed plumbing issue & gaps between the 
+tile joints of Common Bathroom of Flat No. 103
+
+6
+
+below Flat No. 103
+
+7.1
+
+Observed mild dampness at the ceiling of
+
+Observed gap between tile joints of Common &
+
+7
+
+Common Bathroom of Flat No. 103
+
+Master Bedroom Bathrooms of Flat No. 203.
+
+
+--- Page 11 ---
+[IMAGE: sample_p11_1.png]
+
+Appendix
+
+[IMAGE: sample_p11_2.jpeg]
+
+[IMAGE: sample_p11_3.jpeg]
+
+Photo 1 
+Photo 2
+
+[IMAGE: sample_p11_4.jpeg]
+
+[IMAGE: sample_p11_5.jpeg]
+
+Photo 3 
+Photo 4
+
+[IMAGE: sample_p11_6.jpeg]
+
+[IMAGE: sample_p11_7.jpeg]
+
+Photo 5 
+Photo 6
+
+
+--- Page 12 ---
+[IMAGE: sample_p12_1.png]
+
+Photo 7 
+Photo 8
+
+[IMAGE: sample_p12_2.jpeg]
+
+[IMAGE: sample_p12_3.jpeg]
+
+Photo 9 
+Photo 10
+
+[IMAGE: sample_p12_4.jpeg]
+
+[IMAGE: sample_p12_5.jpeg]
+
+Photo 11 
+Photo 12
+
+[IMAGE: sample_p12_6.jpeg]
+
+[IMAGE: sample_p12_7.jpeg]
+
+Photo 13 
+Photo 14
+
+
+--- Page 13 ---
+[IMAGE: sample_p13_1.png]
+
+[IMAGE: sample_p13_3.jpeg]
+
+[IMAGE: sample_p13_2.jpeg]
+
+[IMAGE: sample_p13_4.jpeg]
+
+Photo 15 
+Photo 16
+
+[IMAGE: sample_p13_5.jpeg]
+
+[IMAGE: sample_p13_6.jpeg]
+
+Photo 17 
+Photo 18
+
+[IMAGE: sample_p13_8.jpeg]
+
+[IMAGE: sample_p13_7.jpeg]
+
+Photo 19 
+Photo 20
+
+
+--- Page 14 ---
+[IMAGE: sample_p14_1.png]
+
+Photo 21 
+Photo 22
+
+[IMAGE: sample_p14_2.jpeg]
+
+[IMAGE: sample_p14_3.jpeg]
+
+Photo 23 
+Photo 24
+
+[IMAGE: sample_p14_5.jpeg]
+
+[IMAGE: sample_p14_4.jpeg]
+
+Photo 25 
+Photo 26
+
+
+--- Page 15 ---
+[IMAGE: sample_p15_1.png]
+
+[IMAGE: sample_p15_5.jpeg]
+
+[IMAGE: sample_p15_4.jpeg]
+
+[IMAGE: sample_p15_6.jpeg]
+
+[IMAGE: sample_p15_7.jpeg]
+
+Photo 27 
+Photo 28
+
+[IMAGE: sample_p15_3.jpeg]
+
+[IMAGE: sample_p15_2.jpeg]
+
+Photo 29 
+Photo 30
+
+
+--- Page 16 ---
+[IMAGE: sample_p16_1.png]
+
+Photo 31 
+Photo 32
+
+[IMAGE: sample_p16_2.jpeg]
+
+[IMAGE: sample_p16_3.jpeg]
+
+Photo 33 
+Photo 34
+
+
+--- Page 17 ---
+[IMAGE: sample_p17_1.png]
+
+[IMAGE: sample_p17_4.jpeg]
+
+[IMAGE: sample_p17_2.jpeg]
+
+[IMAGE: sample_p17_3.jpeg]
+
+[IMAGE: sample_p17_5.jpeg]
+
+Photo 35 
+Photo 36
+
+[IMAGE: sample_p17_6.jpeg]
+
+[IMAGE: sample_p17_7.jpeg]
+
+Photo 37 
+Photo 38
+
+
+--- Page 18 ---
+[IMAGE: sample_p18_1.png]
+
+Photo 39 
+Photo 40
+
+[IMAGE: sample_p18_2.jpeg]
+
+[IMAGE: sample_p18_3.jpeg]
+
+Photo 41 
+Photo 42
+
+
+--- Page 19 ---
+[IMAGE: sample_p19_1.png]
+
+[IMAGE: sample_p19_4.jpeg]
+
+[IMAGE: sample_p19_2.jpeg]
+
+[IMAGE: sample_p19_3.jpeg]
+
+[IMAGE: sample_p19_5.jpeg]
+
+Photo 43 
+Photo 44
+
+[IMAGE: sample_p19_7.jpeg]
+
+[IMAGE: sample_p19_6.jpeg]
+
+Photo 45 
+Photo 46
+
+
+--- Page 20 ---
+[IMAGE: sample_p20_1.png]
+
+[IMAGE: sample_p20_4.jpeg]
+
+[IMAGE: sample_p20_2.jpeg]
+
+[IMAGE: sample_p20_3.jpeg]
+
+[IMAGE: sample_p20_5.jpeg]
+
+Photo 47 
+Photo 48
+
+[IMAGE: sample_p20_6.jpeg]
+
+[IMAGE: sample_p20_7.jpeg]
+
+Photo 49 
+Photo 50
+
+
+--- Page 21 ---
+[IMAGE: sample_p21_1.png]
+
+Photo 51 
+Photo 52
+
+[IMAGE: sample_p21_2.jpeg]
+
+[IMAGE: sample_p21_3.jpeg]
+
+Photo 53 
+Photo 54
+
+
+--- Page 22 ---
+[IMAGE: sample_p22_1.png]
+
+[IMAGE: sample_p22_4.jpeg]
+
+[IMAGE: sample_p22_2.jpeg]
+
+[IMAGE: sample_p22_3.jpeg]
+
+[IMAGE: sample_p22_5.jpeg]
+
+Photo 55 
+Photo 56
+
+[IMAGE: sample_p22_6.jpeg]
+
+[IMAGE: sample_p22_7.jpeg]
+
+Photo 57 
+Photo 58
+
+
+--- Page 23 ---
+[IMAGE: sample_p23_1.png]
+
+Photo 59 
+Photo 60
+
+[IMAGE: sample_p23_2.jpeg]
+
+[IMAGE: sample_p23_3.jpeg]
+
+Photo 61 
+Photo 62
+
+[IMAGE: sample_p23_4.jpeg]
+
+[IMAGE: sample_p23_5.jpeg]
+
+Photo 63 
+Photo 64
+
+
+
+=== THERMAL IMAGES ===
+--- Page 1 ---
+[IMAGE: thermal_p1_4.jpeg]
+
+[IMAGE: thermal_p1_5.jpeg]
+
+[IMAGE: thermal_p1_10.jpeg]
+
+[IMAGE: thermal_p1_11.jpeg]
+
+[IMAGE: thermal_p1_16.jpeg]
+
+[IMAGE: thermal_p1_17.jpeg]
+
+[IMAGE: thermal_p1_22.jpeg]
+
+[IMAGE: thermal_p1_23.jpeg]
+
+[IMAGE: thermal_p1_28.jpeg]
+
+[IMAGE: thermal_p1_29.jpeg]
+
+[IMAGE: thermal_p1_34.jpeg]
+
+[IMAGE: thermal_p1_35.jpeg]
+
+[IMAGE: thermal_p1_40.jpeg]
+
+[IMAGE: thermal_p1_41.jpeg]
+
+[IMAGE: thermal_p1_46.jpeg]
+
+[IMAGE: thermal_p1_47.jpeg]
+
+[IMAGE: thermal_p1_52.jpeg]
+
+[IMAGE: thermal_p1_53.jpeg]
+
+[IMAGE: thermal_p1_58.jpeg]
+
+[IMAGE: thermal_p1_59.jpeg]
+
+[IMAGE: thermal_p1_64.jpeg]
+
+[IMAGE: thermal_p1_65.jpeg]
+
+[IMAGE: thermal_p1_70.jpeg]
+
+[IMAGE: thermal_p1_71.jpeg]
+
+[IMAGE: thermal_p1_76.jpeg]
+
+[IMAGE: thermal_p1_77.jpeg]
+
+[IMAGE: thermal_p1_82.jpeg]
+
+[IMAGE: thermal_p1_83.jpeg]
+
+[IMAGE: thermal_p1_88.jpeg]
+
+[IMAGE: thermal_p1_89.jpeg]
+
+[IMAGE: thermal_p1_95.jpeg]
+
+[IMAGE: thermal_p1_96.jpeg]
+
+[IMAGE: thermal_p1_102.jpeg]
+
+[IMAGE: thermal_p1_103.jpeg]
+
+[IMAGE: thermal_p1_108.jpeg]
+
+[IMAGE: thermal_p1_109.jpeg]
+
+[IMAGE: thermal_p1_115.jpeg]
+
+[IMAGE: thermal_p1_116.jpeg]
+
+[IMAGE: thermal_p1_121.jpeg]
+
+[IMAGE: thermal_p1_122.jpeg]
+
+[IMAGE: thermal_p1_128.jpeg]
+
+[IMAGE: thermal_p1_129.jpeg]
+
+[IMAGE: thermal_p1_134.jpeg]
+
+[IMAGE: thermal_p1_135.jpeg]
+
+[IMAGE: thermal_p1_142.jpeg]
+
+[IMAGE: thermal_p1_143.jpeg]
+
+[IMAGE: thermal_p1_148.jpeg]
+
+[IMAGE: thermal_p1_149.jpeg]
+
+[IMAGE: thermal_p1_154.jpeg]
+
+[IMAGE: thermal_p1_155.jpeg]
+
+[IMAGE: thermal_p1_160.jpeg]
+
+[IMAGE: thermal_p1_161.jpeg]
+
+[IMAGE: thermal_p1_166.jpeg]
+
+[IMAGE: thermal_p1_167.jpeg]
+
+[IMAGE: thermal_p1_172.jpeg]
+
+[IMAGE: thermal_p1_173.jpeg]
+
+[IMAGE: thermal_p1_178.jpeg]
+
+[IMAGE: thermal_p1_179.jpeg]
+
+Thermal image : RB02380X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+28.8 °C
+
+[IMAGE: thermal_p1_91.jpeg]
+
+27/09/22
+
+Hotspot : 
+28.8 °C
+
+[IMAGE: thermal_p1_6.png]
+
+[IMAGE: thermal_p1_12.png]
+
+[IMAGE: thermal_p1_18.png]
+
+[IMAGE: thermal_p1_24.png]
+
+[IMAGE: thermal_p1_30.png]
+
+[IMAGE: thermal_p1_36.png]
+
+[IMAGE: thermal_p1_42.png]
+
+[IMAGE: thermal_p1_48.png]
+
+[IMAGE: thermal_p1_54.png]
+
+[IMAGE: thermal_p1_60.png]
+
+[IMAGE: thermal_p1_66.png]
+
+[IMAGE: thermal_p1_72.png]
+
+[IMAGE: thermal_p1_78.png]
+
+[IMAGE: thermal_p1_84.png]
+
+[IMAGE: thermal_p1_90.png]
+
+[IMAGE: thermal_p1_97.png]
+
+[IMAGE: thermal_p1_104.png]
+
+[IMAGE: thermal_p1_110.png]
+
+[IMAGE: thermal_p1_111.png]
+
+[IMAGE: thermal_p1_117.png]
+
+[IMAGE: thermal_p1_123.png]
+
+[IMAGE: thermal_p1_130.png]
+
+[IMAGE: thermal_p1_136.png]
+
+[IMAGE: thermal_p1_144.png]
+
+[IMAGE: thermal_p1_150.png]
+
+[IMAGE: thermal_p1_156.png]
+
+[IMAGE: thermal_p1_162.png]
+
+[IMAGE: thermal_p1_168.png]
+
+[IMAGE: thermal_p1_174.png]
+
+[IMAGE: thermal_p1_180.png]
+
+Coldspot : 
+23.4 °C
+
+[IMAGE: thermal_p1_1.png]
+
+[IMAGE: thermal_p1_7.png]
+
+[IMAGE: thermal_p1_13.png]
+
+[IMAGE: thermal_p1_19.png]
+
+[IMAGE: thermal_p1_25.png]
+
+[IMAGE: thermal_p1_31.png]
+
+[IMAGE: thermal_p1_37.png]
+
+[IMAGE: thermal_p1_43.png]
+
+[IMAGE: thermal_p1_49.png]
+
+[IMAGE: thermal_p1_55.png]
+
+[IMAGE: thermal_p1_61.png]
+
+[IMAGE: thermal_p1_67.png]
+
+[IMAGE: thermal_p1_73.png]
+
+[IMAGE: thermal_p1_79.png]
+
+[IMAGE: thermal_p1_85.png]
+
+[IMAGE: thermal_p1_92.png]
+
+[IMAGE: thermal_p1_99.png]
+
+[IMAGE: thermal_p1_105.png]
+
+[IMAGE: thermal_p1_112.png]
+
+[IMAGE: thermal_p1_118.png]
+
+[IMAGE: thermal_p1_124.png]
+
+[IMAGE: thermal_p1_125.png]
+
+[IMAGE: thermal_p1_131.png]
+
+[IMAGE: thermal_p1_138.png]
+
+[IMAGE: thermal_p1_145.png]
+
+[IMAGE: thermal_p1_151.png]
+
+[IMAGE: thermal_p1_157.png]
+
+[IMAGE: thermal_p1_163.png]
+
+[IMAGE: thermal_p1_169.png]
+
+[IMAGE: thermal_p1_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+23.4 °C
+
+[IMAGE: thermal_p1_98.jpeg]
+
+1
+
+
+--- Page 2 ---
+[IMAGE: thermal_p2_4.jpeg]
+
+[IMAGE: thermal_p2_5.jpeg]
+
+[IMAGE: thermal_p2_10.jpeg]
+
+[IMAGE: thermal_p2_11.jpeg]
+
+[IMAGE: thermal_p2_16.jpeg]
+
+[IMAGE: thermal_p2_17.jpeg]
+
+[IMAGE: thermal_p2_22.jpeg]
+
+[IMAGE: thermal_p2_23.jpeg]
+
+[IMAGE: thermal_p2_28.jpeg]
+
+[IMAGE: thermal_p2_29.jpeg]
+
+[IMAGE: thermal_p2_34.jpeg]
+
+[IMAGE: thermal_p2_35.jpeg]
+
+[IMAGE: thermal_p2_40.jpeg]
+
+[IMAGE: thermal_p2_41.jpeg]
+
+[IMAGE: thermal_p2_46.jpeg]
+
+[IMAGE: thermal_p2_47.jpeg]
+
+[IMAGE: thermal_p2_52.jpeg]
+
+[IMAGE: thermal_p2_53.jpeg]
+
+[IMAGE: thermal_p2_58.jpeg]
+
+[IMAGE: thermal_p2_59.jpeg]
+
+[IMAGE: thermal_p2_64.jpeg]
+
+[IMAGE: thermal_p2_65.jpeg]
+
+[IMAGE: thermal_p2_70.jpeg]
+
+[IMAGE: thermal_p2_71.jpeg]
+
+[IMAGE: thermal_p2_76.jpeg]
+
+[IMAGE: thermal_p2_77.jpeg]
+
+[IMAGE: thermal_p2_82.jpeg]
+
+[IMAGE: thermal_p2_83.jpeg]
+
+[IMAGE: thermal_p2_88.jpeg]
+
+[IMAGE: thermal_p2_89.jpeg]
+
+[IMAGE: thermal_p2_91.jpeg]
+
+[IMAGE: thermal_p2_95.jpeg]
+
+[IMAGE: thermal_p2_96.jpeg]
+
+[IMAGE: thermal_p2_98.jpeg]
+
+[IMAGE: thermal_p2_102.jpeg]
+
+[IMAGE: thermal_p2_103.jpeg]
+
+[IMAGE: thermal_p2_108.jpeg]
+
+[IMAGE: thermal_p2_109.jpeg]
+
+[IMAGE: thermal_p2_115.jpeg]
+
+[IMAGE: thermal_p2_116.jpeg]
+
+[IMAGE: thermal_p2_121.jpeg]
+
+[IMAGE: thermal_p2_122.jpeg]
+
+[IMAGE: thermal_p2_128.jpeg]
+
+[IMAGE: thermal_p2_129.jpeg]
+
+[IMAGE: thermal_p2_134.jpeg]
+
+[IMAGE: thermal_p2_135.jpeg]
+
+[IMAGE: thermal_p2_148.jpeg]
+
+[IMAGE: thermal_p2_149.jpeg]
+
+[IMAGE: thermal_p2_154.jpeg]
+
+[IMAGE: thermal_p2_155.jpeg]
+
+[IMAGE: thermal_p2_160.jpeg]
+
+[IMAGE: thermal_p2_161.jpeg]
+
+[IMAGE: thermal_p2_166.jpeg]
+
+[IMAGE: thermal_p2_167.jpeg]
+
+[IMAGE: thermal_p2_172.jpeg]
+
+[IMAGE: thermal_p2_173.jpeg]
+
+[IMAGE: thermal_p2_178.jpeg]
+
+[IMAGE: thermal_p2_179.jpeg]
+
+Thermal image : RB02386X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+27.4 °C
+
+[IMAGE: thermal_p2_142.jpeg]
+
+27/09/22
+
+Hotspot : 
+27.4 °C
+
+[IMAGE: thermal_p2_6.png]
+
+[IMAGE: thermal_p2_12.png]
+
+[IMAGE: thermal_p2_18.png]
+
+[IMAGE: thermal_p2_24.png]
+
+[IMAGE: thermal_p2_30.png]
+
+[IMAGE: thermal_p2_36.png]
+
+[IMAGE: thermal_p2_42.png]
+
+[IMAGE: thermal_p2_48.png]
+
+[IMAGE: thermal_p2_54.png]
+
+[IMAGE: thermal_p2_60.png]
+
+[IMAGE: thermal_p2_66.png]
+
+[IMAGE: thermal_p2_72.png]
+
+[IMAGE: thermal_p2_78.png]
+
+[IMAGE: thermal_p2_84.png]
+
+[IMAGE: thermal_p2_90.png]
+
+[IMAGE: thermal_p2_97.png]
+
+[IMAGE: thermal_p2_104.png]
+
+[IMAGE: thermal_p2_110.png]
+
+[IMAGE: thermal_p2_111.png]
+
+[IMAGE: thermal_p2_117.png]
+
+[IMAGE: thermal_p2_123.png]
+
+[IMAGE: thermal_p2_130.png]
+
+[IMAGE: thermal_p2_136.png]
+
+[IMAGE: thermal_p2_144.png]
+
+[IMAGE: thermal_p2_150.png]
+
+[IMAGE: thermal_p2_156.png]
+
+[IMAGE: thermal_p2_162.png]
+
+[IMAGE: thermal_p2_168.png]
+
+[IMAGE: thermal_p2_174.png]
+
+[IMAGE: thermal_p2_180.png]
+
+Coldspot : 
+22.4 °C
+
+[IMAGE: thermal_p2_1.png]
+
+[IMAGE: thermal_p2_7.png]
+
+[IMAGE: thermal_p2_13.png]
+
+[IMAGE: thermal_p2_19.png]
+
+[IMAGE: thermal_p2_25.png]
+
+[IMAGE: thermal_p2_31.png]
+
+[IMAGE: thermal_p2_37.png]
+
+[IMAGE: thermal_p2_43.png]
+
+[IMAGE: thermal_p2_49.png]
+
+[IMAGE: thermal_p2_55.png]
+
+[IMAGE: thermal_p2_61.png]
+
+[IMAGE: thermal_p2_67.png]
+
+[IMAGE: thermal_p2_73.png]
+
+[IMAGE: thermal_p2_79.png]
+
+[IMAGE: thermal_p2_85.png]
+
+[IMAGE: thermal_p2_92.png]
+
+[IMAGE: thermal_p2_99.png]
+
+[IMAGE: thermal_p2_105.png]
+
+[IMAGE: thermal_p2_112.png]
+
+[IMAGE: thermal_p2_118.png]
+
+[IMAGE: thermal_p2_124.png]
+
+[IMAGE: thermal_p2_125.png]
+
+[IMAGE: thermal_p2_131.png]
+
+[IMAGE: thermal_p2_138.png]
+
+[IMAGE: thermal_p2_145.png]
+
+[IMAGE: thermal_p2_151.png]
+
+[IMAGE: thermal_p2_157.png]
+
+[IMAGE: thermal_p2_163.png]
+
+[IMAGE: thermal_p2_169.png]
+
+[IMAGE: thermal_p2_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+22.4 °C
+
+[IMAGE: thermal_p2_143.jpeg]
+
+2
+
+
+--- Page 3 ---
+[IMAGE: thermal_p3_4.jpeg]
+
+[IMAGE: thermal_p3_5.jpeg]
+
+[IMAGE: thermal_p3_10.jpeg]
+
+[IMAGE: thermal_p3_11.jpeg]
+
+[IMAGE: thermal_p3_16.jpeg]
+
+[IMAGE: thermal_p3_17.jpeg]
+
+[IMAGE: thermal_p3_22.jpeg]
+
+[IMAGE: thermal_p3_23.jpeg]
+
+[IMAGE: thermal_p3_28.jpeg]
+
+[IMAGE: thermal_p3_29.jpeg]
+
+[IMAGE: thermal_p3_34.jpeg]
+
+[IMAGE: thermal_p3_35.jpeg]
+
+[IMAGE: thermal_p3_40.jpeg]
+
+[IMAGE: thermal_p3_41.jpeg]
+
+[IMAGE: thermal_p3_46.jpeg]
+
+[IMAGE: thermal_p3_47.jpeg]
+
+[IMAGE: thermal_p3_52.jpeg]
+
+[IMAGE: thermal_p3_53.jpeg]
+
+[IMAGE: thermal_p3_58.jpeg]
+
+[IMAGE: thermal_p3_59.jpeg]
+
+[IMAGE: thermal_p3_64.jpeg]
+
+[IMAGE: thermal_p3_65.jpeg]
+
+[IMAGE: thermal_p3_70.jpeg]
+
+[IMAGE: thermal_p3_71.jpeg]
+
+[IMAGE: thermal_p3_76.jpeg]
+
+[IMAGE: thermal_p3_77.jpeg]
+
+[IMAGE: thermal_p3_82.jpeg]
+
+[IMAGE: thermal_p3_83.jpeg]
+
+[IMAGE: thermal_p3_88.jpeg]
+
+[IMAGE: thermal_p3_89.jpeg]
+
+[IMAGE: thermal_p3_91.jpeg]
+
+[IMAGE: thermal_p3_95.jpeg]
+
+[IMAGE: thermal_p3_96.jpeg]
+
+[IMAGE: thermal_p3_98.jpeg]
+
+[IMAGE: thermal_p3_102.jpeg]
+
+[IMAGE: thermal_p3_103.jpeg]
+
+[IMAGE: thermal_p3_108.jpeg]
+
+[IMAGE: thermal_p3_109.jpeg]
+
+[IMAGE: thermal_p3_115.jpeg]
+
+[IMAGE: thermal_p3_116.jpeg]
+
+[IMAGE: thermal_p3_121.jpeg]
+
+[IMAGE: thermal_p3_122.jpeg]
+
+[IMAGE: thermal_p3_128.jpeg]
+
+[IMAGE: thermal_p3_129.jpeg]
+
+[IMAGE: thermal_p3_134.jpeg]
+
+[IMAGE: thermal_p3_135.jpeg]
+
+[IMAGE: thermal_p3_142.jpeg]
+
+[IMAGE: thermal_p3_143.jpeg]
+
+[IMAGE: thermal_p3_154.jpeg]
+
+[IMAGE: thermal_p3_155.jpeg]
+
+[IMAGE: thermal_p3_160.jpeg]
+
+[IMAGE: thermal_p3_161.jpeg]
+
+[IMAGE: thermal_p3_166.jpeg]
+
+[IMAGE: thermal_p3_167.jpeg]
+
+[IMAGE: thermal_p3_172.jpeg]
+
+[IMAGE: thermal_p3_173.jpeg]
+
+[IMAGE: thermal_p3_178.jpeg]
+
+[IMAGE: thermal_p3_179.jpeg]
+
+Thermal image : RB02395X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+27 °C
+
+[IMAGE: thermal_p3_148.jpeg]
+
+27/09/22
+
+Hotspot : 
+27 °C
+
+[IMAGE: thermal_p3_6.png]
+
+[IMAGE: thermal_p3_12.png]
+
+[IMAGE: thermal_p3_18.png]
+
+[IMAGE: thermal_p3_24.png]
+
+[IMAGE: thermal_p3_30.png]
+
+[IMAGE: thermal_p3_36.png]
+
+[IMAGE: thermal_p3_42.png]
+
+[IMAGE: thermal_p3_48.png]
+
+[IMAGE: thermal_p3_54.png]
+
+[IMAGE: thermal_p3_60.png]
+
+[IMAGE: thermal_p3_66.png]
+
+[IMAGE: thermal_p3_72.png]
+
+[IMAGE: thermal_p3_78.png]
+
+[IMAGE: thermal_p3_84.png]
+
+[IMAGE: thermal_p3_90.png]
+
+[IMAGE: thermal_p3_97.png]
+
+[IMAGE: thermal_p3_104.png]
+
+[IMAGE: thermal_p3_110.png]
+
+[IMAGE: thermal_p3_111.png]
+
+[IMAGE: thermal_p3_117.png]
+
+[IMAGE: thermal_p3_123.png]
+
+[IMAGE: thermal_p3_130.png]
+
+[IMAGE: thermal_p3_136.png]
+
+[IMAGE: thermal_p3_144.png]
+
+[IMAGE: thermal_p3_150.png]
+
+[IMAGE: thermal_p3_156.png]
+
+[IMAGE: thermal_p3_162.png]
+
+[IMAGE: thermal_p3_168.png]
+
+[IMAGE: thermal_p3_174.png]
+
+[IMAGE: thermal_p3_180.png]
+
+Coldspot : 
+22 °C
+
+[IMAGE: thermal_p3_1.png]
+
+[IMAGE: thermal_p3_7.png]
+
+[IMAGE: thermal_p3_13.png]
+
+[IMAGE: thermal_p3_19.png]
+
+[IMAGE: thermal_p3_25.png]
+
+[IMAGE: thermal_p3_31.png]
+
+[IMAGE: thermal_p3_37.png]
+
+[IMAGE: thermal_p3_43.png]
+
+[IMAGE: thermal_p3_49.png]
+
+[IMAGE: thermal_p3_55.png]
+
+[IMAGE: thermal_p3_61.png]
+
+[IMAGE: thermal_p3_67.png]
+
+[IMAGE: thermal_p3_73.png]
+
+[IMAGE: thermal_p3_79.png]
+
+[IMAGE: thermal_p3_85.png]
+
+[IMAGE: thermal_p3_92.png]
+
+[IMAGE: thermal_p3_99.png]
+
+[IMAGE: thermal_p3_105.png]
+
+[IMAGE: thermal_p3_112.png]
+
+[IMAGE: thermal_p3_118.png]
+
+[IMAGE: thermal_p3_124.png]
+
+[IMAGE: thermal_p3_125.png]
+
+[IMAGE: thermal_p3_131.png]
+
+[IMAGE: thermal_p3_138.png]
+
+[IMAGE: thermal_p3_145.png]
+
+[IMAGE: thermal_p3_151.png]
+
+[IMAGE: thermal_p3_157.png]
+
+[IMAGE: thermal_p3_163.png]
+
+[IMAGE: thermal_p3_169.png]
+
+[IMAGE: thermal_p3_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+22 °C
+
+[IMAGE: thermal_p3_149.jpeg]
+
+3
+
+
+--- Page 4 ---
+[IMAGE: thermal_p4_4.jpeg]
+
+[IMAGE: thermal_p4_5.jpeg]
+
+[IMAGE: thermal_p4_10.jpeg]
+
+[IMAGE: thermal_p4_11.jpeg]
+
+[IMAGE: thermal_p4_16.jpeg]
+
+[IMAGE: thermal_p4_17.jpeg]
+
+[IMAGE: thermal_p4_22.jpeg]
+
+[IMAGE: thermal_p4_23.jpeg]
+
+[IMAGE: thermal_p4_28.jpeg]
+
+[IMAGE: thermal_p4_29.jpeg]
+
+[IMAGE: thermal_p4_34.jpeg]
+
+[IMAGE: thermal_p4_35.jpeg]
+
+[IMAGE: thermal_p4_40.jpeg]
+
+[IMAGE: thermal_p4_41.jpeg]
+
+[IMAGE: thermal_p4_46.jpeg]
+
+[IMAGE: thermal_p4_47.jpeg]
+
+[IMAGE: thermal_p4_52.jpeg]
+
+[IMAGE: thermal_p4_53.jpeg]
+
+[IMAGE: thermal_p4_58.jpeg]
+
+[IMAGE: thermal_p4_59.jpeg]
+
+[IMAGE: thermal_p4_64.jpeg]
+
+[IMAGE: thermal_p4_65.jpeg]
+
+[IMAGE: thermal_p4_70.jpeg]
+
+[IMAGE: thermal_p4_71.jpeg]
+
+[IMAGE: thermal_p4_76.jpeg]
+
+[IMAGE: thermal_p4_77.jpeg]
+
+[IMAGE: thermal_p4_82.jpeg]
+
+[IMAGE: thermal_p4_83.jpeg]
+
+[IMAGE: thermal_p4_88.jpeg]
+
+[IMAGE: thermal_p4_89.jpeg]
+
+[IMAGE: thermal_p4_91.jpeg]
+
+[IMAGE: thermal_p4_95.jpeg]
+
+[IMAGE: thermal_p4_96.jpeg]
+
+[IMAGE: thermal_p4_98.jpeg]
+
+[IMAGE: thermal_p4_102.jpeg]
+
+[IMAGE: thermal_p4_103.jpeg]
+
+[IMAGE: thermal_p4_108.jpeg]
+
+[IMAGE: thermal_p4_109.jpeg]
+
+[IMAGE: thermal_p4_115.jpeg]
+
+[IMAGE: thermal_p4_116.jpeg]
+
+[IMAGE: thermal_p4_121.jpeg]
+
+[IMAGE: thermal_p4_122.jpeg]
+
+[IMAGE: thermal_p4_128.jpeg]
+
+[IMAGE: thermal_p4_129.jpeg]
+
+[IMAGE: thermal_p4_134.jpeg]
+
+[IMAGE: thermal_p4_135.jpeg]
+
+[IMAGE: thermal_p4_142.jpeg]
+
+[IMAGE: thermal_p4_143.jpeg]
+
+[IMAGE: thermal_p4_148.jpeg]
+
+[IMAGE: thermal_p4_149.jpeg]
+
+[IMAGE: thermal_p4_160.jpeg]
+
+[IMAGE: thermal_p4_161.jpeg]
+
+[IMAGE: thermal_p4_166.jpeg]
+
+[IMAGE: thermal_p4_167.jpeg]
+
+[IMAGE: thermal_p4_172.jpeg]
+
+[IMAGE: thermal_p4_173.jpeg]
+
+[IMAGE: thermal_p4_178.jpeg]
+
+[IMAGE: thermal_p4_179.jpeg]
+
+Thermal image : RB02402X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.7 °C
+
+[IMAGE: thermal_p4_154.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.7 °C
+
+[IMAGE: thermal_p4_6.png]
+
+[IMAGE: thermal_p4_12.png]
+
+[IMAGE: thermal_p4_18.png]
+
+[IMAGE: thermal_p4_24.png]
+
+[IMAGE: thermal_p4_30.png]
+
+[IMAGE: thermal_p4_36.png]
+
+[IMAGE: thermal_p4_42.png]
+
+[IMAGE: thermal_p4_48.png]
+
+[IMAGE: thermal_p4_54.png]
+
+[IMAGE: thermal_p4_60.png]
+
+[IMAGE: thermal_p4_66.png]
+
+[IMAGE: thermal_p4_72.png]
+
+[IMAGE: thermal_p4_78.png]
+
+[IMAGE: thermal_p4_84.png]
+
+[IMAGE: thermal_p4_90.png]
+
+[IMAGE: thermal_p4_97.png]
+
+[IMAGE: thermal_p4_104.png]
+
+[IMAGE: thermal_p4_110.png]
+
+[IMAGE: thermal_p4_111.png]
+
+[IMAGE: thermal_p4_117.png]
+
+[IMAGE: thermal_p4_123.png]
+
+[IMAGE: thermal_p4_130.png]
+
+[IMAGE: thermal_p4_136.png]
+
+[IMAGE: thermal_p4_144.png]
+
+[IMAGE: thermal_p4_150.png]
+
+[IMAGE: thermal_p4_156.png]
+
+[IMAGE: thermal_p4_162.png]
+
+[IMAGE: thermal_p4_168.png]
+
+[IMAGE: thermal_p4_174.png]
+
+[IMAGE: thermal_p4_180.png]
+
+Coldspot : 
+20.7 °C
+
+[IMAGE: thermal_p4_1.png]
+
+[IMAGE: thermal_p4_7.png]
+
+[IMAGE: thermal_p4_13.png]
+
+[IMAGE: thermal_p4_19.png]
+
+[IMAGE: thermal_p4_25.png]
+
+[IMAGE: thermal_p4_31.png]
+
+[IMAGE: thermal_p4_37.png]
+
+[IMAGE: thermal_p4_43.png]
+
+[IMAGE: thermal_p4_49.png]
+
+[IMAGE: thermal_p4_55.png]
+
+[IMAGE: thermal_p4_61.png]
+
+[IMAGE: thermal_p4_67.png]
+
+[IMAGE: thermal_p4_73.png]
+
+[IMAGE: thermal_p4_79.png]
+
+[IMAGE: thermal_p4_85.png]
+
+[IMAGE: thermal_p4_92.png]
+
+[IMAGE: thermal_p4_99.png]
+
+[IMAGE: thermal_p4_105.png]
+
+[IMAGE: thermal_p4_112.png]
+
+[IMAGE: thermal_p4_118.png]
+
+[IMAGE: thermal_p4_124.png]
+
+[IMAGE: thermal_p4_125.png]
+
+[IMAGE: thermal_p4_131.png]
+
+[IMAGE: thermal_p4_138.png]
+
+[IMAGE: thermal_p4_145.png]
+
+[IMAGE: thermal_p4_151.png]
+
+[IMAGE: thermal_p4_157.png]
+
+[IMAGE: thermal_p4_163.png]
+
+[IMAGE: thermal_p4_169.png]
+
+[IMAGE: thermal_p4_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.7 °C
+
+[IMAGE: thermal_p4_155.jpeg]
+
+4
+
+
+--- Page 5 ---
+[IMAGE: thermal_p5_4.jpeg]
+
+[IMAGE: thermal_p5_5.jpeg]
+
+[IMAGE: thermal_p5_10.jpeg]
+
+[IMAGE: thermal_p5_11.jpeg]
+
+[IMAGE: thermal_p5_16.jpeg]
+
+[IMAGE: thermal_p5_17.jpeg]
+
+[IMAGE: thermal_p5_22.jpeg]
+
+[IMAGE: thermal_p5_23.jpeg]
+
+[IMAGE: thermal_p5_28.jpeg]
+
+[IMAGE: thermal_p5_29.jpeg]
+
+[IMAGE: thermal_p5_34.jpeg]
+
+[IMAGE: thermal_p5_35.jpeg]
+
+[IMAGE: thermal_p5_40.jpeg]
+
+[IMAGE: thermal_p5_41.jpeg]
+
+[IMAGE: thermal_p5_46.jpeg]
+
+[IMAGE: thermal_p5_47.jpeg]
+
+[IMAGE: thermal_p5_52.jpeg]
+
+[IMAGE: thermal_p5_53.jpeg]
+
+[IMAGE: thermal_p5_58.jpeg]
+
+[IMAGE: thermal_p5_59.jpeg]
+
+[IMAGE: thermal_p5_64.jpeg]
+
+[IMAGE: thermal_p5_65.jpeg]
+
+[IMAGE: thermal_p5_70.jpeg]
+
+[IMAGE: thermal_p5_71.jpeg]
+
+[IMAGE: thermal_p5_76.jpeg]
+
+[IMAGE: thermal_p5_77.jpeg]
+
+[IMAGE: thermal_p5_82.jpeg]
+
+[IMAGE: thermal_p5_83.jpeg]
+
+[IMAGE: thermal_p5_88.jpeg]
+
+[IMAGE: thermal_p5_89.jpeg]
+
+[IMAGE: thermal_p5_91.jpeg]
+
+[IMAGE: thermal_p5_95.jpeg]
+
+[IMAGE: thermal_p5_96.jpeg]
+
+[IMAGE: thermal_p5_98.jpeg]
+
+[IMAGE: thermal_p5_102.jpeg]
+
+[IMAGE: thermal_p5_103.jpeg]
+
+[IMAGE: thermal_p5_108.jpeg]
+
+[IMAGE: thermal_p5_109.jpeg]
+
+[IMAGE: thermal_p5_115.jpeg]
+
+[IMAGE: thermal_p5_116.jpeg]
+
+[IMAGE: thermal_p5_121.jpeg]
+
+[IMAGE: thermal_p5_122.jpeg]
+
+[IMAGE: thermal_p5_128.jpeg]
+
+[IMAGE: thermal_p5_129.jpeg]
+
+[IMAGE: thermal_p5_134.jpeg]
+
+[IMAGE: thermal_p5_135.jpeg]
+
+[IMAGE: thermal_p5_142.jpeg]
+
+[IMAGE: thermal_p5_143.jpeg]
+
+[IMAGE: thermal_p5_148.jpeg]
+
+[IMAGE: thermal_p5_149.jpeg]
+
+[IMAGE: thermal_p5_154.jpeg]
+
+[IMAGE: thermal_p5_155.jpeg]
+
+[IMAGE: thermal_p5_166.jpeg]
+
+[IMAGE: thermal_p5_167.jpeg]
+
+[IMAGE: thermal_p5_172.jpeg]
+
+[IMAGE: thermal_p5_173.jpeg]
+
+[IMAGE: thermal_p5_178.jpeg]
+
+[IMAGE: thermal_p5_179.jpeg]
+
+Thermal image : RB02403X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.5 °C
+
+[IMAGE: thermal_p5_160.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.5 °C
+
+[IMAGE: thermal_p5_6.png]
+
+[IMAGE: thermal_p5_12.png]
+
+[IMAGE: thermal_p5_18.png]
+
+[IMAGE: thermal_p5_24.png]
+
+[IMAGE: thermal_p5_30.png]
+
+[IMAGE: thermal_p5_36.png]
+
+[IMAGE: thermal_p5_42.png]
+
+[IMAGE: thermal_p5_48.png]
+
+[IMAGE: thermal_p5_54.png]
+
+[IMAGE: thermal_p5_60.png]
+
+[IMAGE: thermal_p5_66.png]
+
+[IMAGE: thermal_p5_72.png]
+
+[IMAGE: thermal_p5_78.png]
+
+[IMAGE: thermal_p5_84.png]
+
+[IMAGE: thermal_p5_90.png]
+
+[IMAGE: thermal_p5_97.png]
+
+[IMAGE: thermal_p5_104.png]
+
+[IMAGE: thermal_p5_110.png]
+
+[IMAGE: thermal_p5_111.png]
+
+[IMAGE: thermal_p5_117.png]
+
+[IMAGE: thermal_p5_123.png]
+
+[IMAGE: thermal_p5_130.png]
+
+[IMAGE: thermal_p5_136.png]
+
+[IMAGE: thermal_p5_144.png]
+
+[IMAGE: thermal_p5_150.png]
+
+[IMAGE: thermal_p5_156.png]
+
+[IMAGE: thermal_p5_162.png]
+
+[IMAGE: thermal_p5_168.png]
+
+[IMAGE: thermal_p5_174.png]
+
+[IMAGE: thermal_p5_180.png]
+
+Coldspot : 
+20.5 °C
+
+[IMAGE: thermal_p5_1.png]
+
+[IMAGE: thermal_p5_7.png]
+
+[IMAGE: thermal_p5_13.png]
+
+[IMAGE: thermal_p5_19.png]
+
+[IMAGE: thermal_p5_25.png]
+
+[IMAGE: thermal_p5_31.png]
+
+[IMAGE: thermal_p5_37.png]
+
+[IMAGE: thermal_p5_43.png]
+
+[IMAGE: thermal_p5_49.png]
+
+[IMAGE: thermal_p5_55.png]
+
+[IMAGE: thermal_p5_61.png]
+
+[IMAGE: thermal_p5_67.png]
+
+[IMAGE: thermal_p5_73.png]
+
+[IMAGE: thermal_p5_79.png]
+
+[IMAGE: thermal_p5_85.png]
+
+[IMAGE: thermal_p5_92.png]
+
+[IMAGE: thermal_p5_99.png]
+
+[IMAGE: thermal_p5_105.png]
+
+[IMAGE: thermal_p5_112.png]
+
+[IMAGE: thermal_p5_118.png]
+
+[IMAGE: thermal_p5_124.png]
+
+[IMAGE: thermal_p5_125.png]
+
+[IMAGE: thermal_p5_131.png]
+
+[IMAGE: thermal_p5_138.png]
+
+[IMAGE: thermal_p5_145.png]
+
+[IMAGE: thermal_p5_151.png]
+
+[IMAGE: thermal_p5_157.png]
+
+[IMAGE: thermal_p5_163.png]
+
+[IMAGE: thermal_p5_169.png]
+
+[IMAGE: thermal_p5_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.5 °C
+
+[IMAGE: thermal_p5_161.jpeg]
+
+5
+
+
+--- Page 6 ---
+[IMAGE: thermal_p6_4.jpeg]
+
+[IMAGE: thermal_p6_5.jpeg]
+
+[IMAGE: thermal_p6_10.jpeg]
+
+[IMAGE: thermal_p6_11.jpeg]
+
+[IMAGE: thermal_p6_16.jpeg]
+
+[IMAGE: thermal_p6_17.jpeg]
+
+[IMAGE: thermal_p6_22.jpeg]
+
+[IMAGE: thermal_p6_23.jpeg]
+
+[IMAGE: thermal_p6_28.jpeg]
+
+[IMAGE: thermal_p6_29.jpeg]
+
+[IMAGE: thermal_p6_34.jpeg]
+
+[IMAGE: thermal_p6_35.jpeg]
+
+[IMAGE: thermal_p6_40.jpeg]
+
+[IMAGE: thermal_p6_41.jpeg]
+
+[IMAGE: thermal_p6_46.jpeg]
+
+[IMAGE: thermal_p6_47.jpeg]
+
+[IMAGE: thermal_p6_52.jpeg]
+
+[IMAGE: thermal_p6_53.jpeg]
+
+[IMAGE: thermal_p6_58.jpeg]
+
+[IMAGE: thermal_p6_59.jpeg]
+
+[IMAGE: thermal_p6_64.jpeg]
+
+[IMAGE: thermal_p6_65.jpeg]
+
+[IMAGE: thermal_p6_70.jpeg]
+
+[IMAGE: thermal_p6_71.jpeg]
+
+[IMAGE: thermal_p6_76.jpeg]
+
+[IMAGE: thermal_p6_77.jpeg]
+
+[IMAGE: thermal_p6_82.jpeg]
+
+[IMAGE: thermal_p6_83.jpeg]
+
+[IMAGE: thermal_p6_88.jpeg]
+
+[IMAGE: thermal_p6_89.jpeg]
+
+[IMAGE: thermal_p6_91.jpeg]
+
+[IMAGE: thermal_p6_95.jpeg]
+
+[IMAGE: thermal_p6_96.jpeg]
+
+[IMAGE: thermal_p6_98.jpeg]
+
+[IMAGE: thermal_p6_102.jpeg]
+
+[IMAGE: thermal_p6_103.jpeg]
+
+[IMAGE: thermal_p6_108.jpeg]
+
+[IMAGE: thermal_p6_109.jpeg]
+
+[IMAGE: thermal_p6_115.jpeg]
+
+[IMAGE: thermal_p6_116.jpeg]
+
+[IMAGE: thermal_p6_121.jpeg]
+
+[IMAGE: thermal_p6_122.jpeg]
+
+[IMAGE: thermal_p6_128.jpeg]
+
+[IMAGE: thermal_p6_129.jpeg]
+
+[IMAGE: thermal_p6_134.jpeg]
+
+[IMAGE: thermal_p6_135.jpeg]
+
+[IMAGE: thermal_p6_142.jpeg]
+
+[IMAGE: thermal_p6_143.jpeg]
+
+[IMAGE: thermal_p6_148.jpeg]
+
+[IMAGE: thermal_p6_149.jpeg]
+
+[IMAGE: thermal_p6_154.jpeg]
+
+[IMAGE: thermal_p6_155.jpeg]
+
+[IMAGE: thermal_p6_160.jpeg]
+
+[IMAGE: thermal_p6_161.jpeg]
+
+[IMAGE: thermal_p6_172.jpeg]
+
+[IMAGE: thermal_p6_173.jpeg]
+
+[IMAGE: thermal_p6_178.jpeg]
+
+[IMAGE: thermal_p6_179.jpeg]
+
+Thermal image : RB02404X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.8 °C
+
+[IMAGE: thermal_p6_166.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.8 °C
+
+[IMAGE: thermal_p6_6.png]
+
+[IMAGE: thermal_p6_12.png]
+
+[IMAGE: thermal_p6_18.png]
+
+[IMAGE: thermal_p6_24.png]
+
+[IMAGE: thermal_p6_30.png]
+
+[IMAGE: thermal_p6_36.png]
+
+[IMAGE: thermal_p6_42.png]
+
+[IMAGE: thermal_p6_48.png]
+
+[IMAGE: thermal_p6_54.png]
+
+[IMAGE: thermal_p6_60.png]
+
+[IMAGE: thermal_p6_66.png]
+
+[IMAGE: thermal_p6_72.png]
+
+[IMAGE: thermal_p6_78.png]
+
+[IMAGE: thermal_p6_84.png]
+
+[IMAGE: thermal_p6_90.png]
+
+[IMAGE: thermal_p6_97.png]
+
+[IMAGE: thermal_p6_104.png]
+
+[IMAGE: thermal_p6_110.png]
+
+[IMAGE: thermal_p6_111.png]
+
+[IMAGE: thermal_p6_117.png]
+
+[IMAGE: thermal_p6_123.png]
+
+[IMAGE: thermal_p6_130.png]
+
+[IMAGE: thermal_p6_136.png]
+
+[IMAGE: thermal_p6_144.png]
+
+[IMAGE: thermal_p6_150.png]
+
+[IMAGE: thermal_p6_156.png]
+
+[IMAGE: thermal_p6_162.png]
+
+[IMAGE: thermal_p6_168.png]
+
+[IMAGE: thermal_p6_174.png]
+
+[IMAGE: thermal_p6_180.png]
+
+Coldspot : 
+20.8 °C
+
+[IMAGE: thermal_p6_1.png]
+
+[IMAGE: thermal_p6_7.png]
+
+[IMAGE: thermal_p6_13.png]
+
+[IMAGE: thermal_p6_19.png]
+
+[IMAGE: thermal_p6_25.png]
+
+[IMAGE: thermal_p6_31.png]
+
+[IMAGE: thermal_p6_37.png]
+
+[IMAGE: thermal_p6_43.png]
+
+[IMAGE: thermal_p6_49.png]
+
+[IMAGE: thermal_p6_55.png]
+
+[IMAGE: thermal_p6_61.png]
+
+[IMAGE: thermal_p6_67.png]
+
+[IMAGE: thermal_p6_73.png]
+
+[IMAGE: thermal_p6_79.png]
+
+[IMAGE: thermal_p6_85.png]
+
+[IMAGE: thermal_p6_92.png]
+
+[IMAGE: thermal_p6_99.png]
+
+[IMAGE: thermal_p6_105.png]
+
+[IMAGE: thermal_p6_112.png]
+
+[IMAGE: thermal_p6_118.png]
+
+[IMAGE: thermal_p6_124.png]
+
+[IMAGE: thermal_p6_125.png]
+
+[IMAGE: thermal_p6_131.png]
+
+[IMAGE: thermal_p6_138.png]
+
+[IMAGE: thermal_p6_145.png]
+
+[IMAGE: thermal_p6_151.png]
+
+[IMAGE: thermal_p6_157.png]
+
+[IMAGE: thermal_p6_163.png]
+
+[IMAGE: thermal_p6_169.png]
+
+[IMAGE: thermal_p6_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.8 °C
+
+[IMAGE: thermal_p6_167.jpeg]
+
+6
+
+
+--- Page 7 ---
+[IMAGE: thermal_p7_4.jpeg]
+
+[IMAGE: thermal_p7_5.jpeg]
+
+[IMAGE: thermal_p7_10.jpeg]
+
+[IMAGE: thermal_p7_11.jpeg]
+
+[IMAGE: thermal_p7_16.jpeg]
+
+[IMAGE: thermal_p7_17.jpeg]
+
+[IMAGE: thermal_p7_22.jpeg]
+
+[IMAGE: thermal_p7_23.jpeg]
+
+[IMAGE: thermal_p7_28.jpeg]
+
+[IMAGE: thermal_p7_29.jpeg]
+
+[IMAGE: thermal_p7_34.jpeg]
+
+[IMAGE: thermal_p7_35.jpeg]
+
+[IMAGE: thermal_p7_40.jpeg]
+
+[IMAGE: thermal_p7_41.jpeg]
+
+[IMAGE: thermal_p7_46.jpeg]
+
+[IMAGE: thermal_p7_47.jpeg]
+
+[IMAGE: thermal_p7_52.jpeg]
+
+[IMAGE: thermal_p7_53.jpeg]
+
+[IMAGE: thermal_p7_58.jpeg]
+
+[IMAGE: thermal_p7_59.jpeg]
+
+[IMAGE: thermal_p7_64.jpeg]
+
+[IMAGE: thermal_p7_65.jpeg]
+
+[IMAGE: thermal_p7_70.jpeg]
+
+[IMAGE: thermal_p7_71.jpeg]
+
+[IMAGE: thermal_p7_76.jpeg]
+
+[IMAGE: thermal_p7_77.jpeg]
+
+[IMAGE: thermal_p7_82.jpeg]
+
+[IMAGE: thermal_p7_83.jpeg]
+
+[IMAGE: thermal_p7_88.jpeg]
+
+[IMAGE: thermal_p7_89.jpeg]
+
+[IMAGE: thermal_p7_91.jpeg]
+
+[IMAGE: thermal_p7_95.jpeg]
+
+[IMAGE: thermal_p7_96.jpeg]
+
+[IMAGE: thermal_p7_98.jpeg]
+
+[IMAGE: thermal_p7_102.jpeg]
+
+[IMAGE: thermal_p7_103.jpeg]
+
+[IMAGE: thermal_p7_108.jpeg]
+
+[IMAGE: thermal_p7_109.jpeg]
+
+[IMAGE: thermal_p7_115.jpeg]
+
+[IMAGE: thermal_p7_116.jpeg]
+
+[IMAGE: thermal_p7_121.jpeg]
+
+[IMAGE: thermal_p7_122.jpeg]
+
+[IMAGE: thermal_p7_128.jpeg]
+
+[IMAGE: thermal_p7_129.jpeg]
+
+[IMAGE: thermal_p7_134.jpeg]
+
+[IMAGE: thermal_p7_135.jpeg]
+
+[IMAGE: thermal_p7_142.jpeg]
+
+[IMAGE: thermal_p7_143.jpeg]
+
+[IMAGE: thermal_p7_148.jpeg]
+
+[IMAGE: thermal_p7_149.jpeg]
+
+[IMAGE: thermal_p7_154.jpeg]
+
+[IMAGE: thermal_p7_155.jpeg]
+
+[IMAGE: thermal_p7_160.jpeg]
+
+[IMAGE: thermal_p7_161.jpeg]
+
+[IMAGE: thermal_p7_166.jpeg]
+
+[IMAGE: thermal_p7_167.jpeg]
+
+[IMAGE: thermal_p7_178.jpeg]
+
+[IMAGE: thermal_p7_179.jpeg]
+
+Thermal image : RB02405X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.2 °C
+
+[IMAGE: thermal_p7_172.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.2 °C
+
+[IMAGE: thermal_p7_6.png]
+
+[IMAGE: thermal_p7_12.png]
+
+[IMAGE: thermal_p7_18.png]
+
+[IMAGE: thermal_p7_24.png]
+
+[IMAGE: thermal_p7_30.png]
+
+[IMAGE: thermal_p7_36.png]
+
+[IMAGE: thermal_p7_42.png]
+
+[IMAGE: thermal_p7_48.png]
+
+[IMAGE: thermal_p7_54.png]
+
+[IMAGE: thermal_p7_60.png]
+
+[IMAGE: thermal_p7_66.png]
+
+[IMAGE: thermal_p7_72.png]
+
+[IMAGE: thermal_p7_78.png]
+
+[IMAGE: thermal_p7_84.png]
+
+[IMAGE: thermal_p7_90.png]
+
+[IMAGE: thermal_p7_97.png]
+
+[IMAGE: thermal_p7_104.png]
+
+[IMAGE: thermal_p7_110.png]
+
+[IMAGE: thermal_p7_111.png]
+
+[IMAGE: thermal_p7_117.png]
+
+[IMAGE: thermal_p7_123.png]
+
+[IMAGE: thermal_p7_130.png]
+
+[IMAGE: thermal_p7_136.png]
+
+[IMAGE: thermal_p7_144.png]
+
+[IMAGE: thermal_p7_150.png]
+
+[IMAGE: thermal_p7_156.png]
+
+[IMAGE: thermal_p7_162.png]
+
+[IMAGE: thermal_p7_168.png]
+
+[IMAGE: thermal_p7_174.png]
+
+[IMAGE: thermal_p7_180.png]
+
+Coldspot : 
+21.2 °C
+
+[IMAGE: thermal_p7_1.png]
+
+[IMAGE: thermal_p7_7.png]
+
+[IMAGE: thermal_p7_13.png]
+
+[IMAGE: thermal_p7_19.png]
+
+[IMAGE: thermal_p7_25.png]
+
+[IMAGE: thermal_p7_31.png]
+
+[IMAGE: thermal_p7_37.png]
+
+[IMAGE: thermal_p7_43.png]
+
+[IMAGE: thermal_p7_49.png]
+
+[IMAGE: thermal_p7_55.png]
+
+[IMAGE: thermal_p7_61.png]
+
+[IMAGE: thermal_p7_67.png]
+
+[IMAGE: thermal_p7_73.png]
+
+[IMAGE: thermal_p7_79.png]
+
+[IMAGE: thermal_p7_85.png]
+
+[IMAGE: thermal_p7_92.png]
+
+[IMAGE: thermal_p7_99.png]
+
+[IMAGE: thermal_p7_105.png]
+
+[IMAGE: thermal_p7_112.png]
+
+[IMAGE: thermal_p7_118.png]
+
+[IMAGE: thermal_p7_124.png]
+
+[IMAGE: thermal_p7_125.png]
+
+[IMAGE: thermal_p7_131.png]
+
+[IMAGE: thermal_p7_138.png]
+
+[IMAGE: thermal_p7_145.png]
+
+[IMAGE: thermal_p7_151.png]
+
+[IMAGE: thermal_p7_157.png]
+
+[IMAGE: thermal_p7_163.png]
+
+[IMAGE: thermal_p7_169.png]
+
+[IMAGE: thermal_p7_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.2 °C
+
+[IMAGE: thermal_p7_173.jpeg]
+
+7
+
+
+--- Page 8 ---
+[IMAGE: thermal_p8_4.jpeg]
+
+[IMAGE: thermal_p8_5.jpeg]
+
+[IMAGE: thermal_p8_10.jpeg]
+
+[IMAGE: thermal_p8_11.jpeg]
+
+[IMAGE: thermal_p8_16.jpeg]
+
+[IMAGE: thermal_p8_17.jpeg]
+
+[IMAGE: thermal_p8_22.jpeg]
+
+[IMAGE: thermal_p8_23.jpeg]
+
+[IMAGE: thermal_p8_28.jpeg]
+
+[IMAGE: thermal_p8_29.jpeg]
+
+[IMAGE: thermal_p8_34.jpeg]
+
+[IMAGE: thermal_p8_35.jpeg]
+
+[IMAGE: thermal_p8_40.jpeg]
+
+[IMAGE: thermal_p8_41.jpeg]
+
+[IMAGE: thermal_p8_46.jpeg]
+
+[IMAGE: thermal_p8_47.jpeg]
+
+[IMAGE: thermal_p8_52.jpeg]
+
+[IMAGE: thermal_p8_53.jpeg]
+
+[IMAGE: thermal_p8_58.jpeg]
+
+[IMAGE: thermal_p8_59.jpeg]
+
+[IMAGE: thermal_p8_64.jpeg]
+
+[IMAGE: thermal_p8_65.jpeg]
+
+[IMAGE: thermal_p8_70.jpeg]
+
+[IMAGE: thermal_p8_71.jpeg]
+
+[IMAGE: thermal_p8_76.jpeg]
+
+[IMAGE: thermal_p8_77.jpeg]
+
+[IMAGE: thermal_p8_82.jpeg]
+
+[IMAGE: thermal_p8_83.jpeg]
+
+[IMAGE: thermal_p8_88.jpeg]
+
+[IMAGE: thermal_p8_89.jpeg]
+
+[IMAGE: thermal_p8_91.jpeg]
+
+[IMAGE: thermal_p8_95.jpeg]
+
+[IMAGE: thermal_p8_96.jpeg]
+
+[IMAGE: thermal_p8_98.jpeg]
+
+[IMAGE: thermal_p8_102.jpeg]
+
+[IMAGE: thermal_p8_103.jpeg]
+
+[IMAGE: thermal_p8_108.jpeg]
+
+[IMAGE: thermal_p8_109.jpeg]
+
+[IMAGE: thermal_p8_115.jpeg]
+
+[IMAGE: thermal_p8_116.jpeg]
+
+[IMAGE: thermal_p8_121.jpeg]
+
+[IMAGE: thermal_p8_122.jpeg]
+
+[IMAGE: thermal_p8_128.jpeg]
+
+[IMAGE: thermal_p8_129.jpeg]
+
+[IMAGE: thermal_p8_134.jpeg]
+
+[IMAGE: thermal_p8_135.jpeg]
+
+[IMAGE: thermal_p8_142.jpeg]
+
+[IMAGE: thermal_p8_143.jpeg]
+
+[IMAGE: thermal_p8_148.jpeg]
+
+[IMAGE: thermal_p8_149.jpeg]
+
+[IMAGE: thermal_p8_154.jpeg]
+
+[IMAGE: thermal_p8_155.jpeg]
+
+[IMAGE: thermal_p8_160.jpeg]
+
+[IMAGE: thermal_p8_161.jpeg]
+
+[IMAGE: thermal_p8_166.jpeg]
+
+[IMAGE: thermal_p8_167.jpeg]
+
+[IMAGE: thermal_p8_172.jpeg]
+
+[IMAGE: thermal_p8_173.jpeg]
+
+Thermal image : RB02406X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.5 °C
+
+[IMAGE: thermal_p8_178.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.5 °C
+
+[IMAGE: thermal_p8_6.png]
+
+[IMAGE: thermal_p8_12.png]
+
+[IMAGE: thermal_p8_18.png]
+
+[IMAGE: thermal_p8_24.png]
+
+[IMAGE: thermal_p8_30.png]
+
+[IMAGE: thermal_p8_36.png]
+
+[IMAGE: thermal_p8_42.png]
+
+[IMAGE: thermal_p8_48.png]
+
+[IMAGE: thermal_p8_54.png]
+
+[IMAGE: thermal_p8_60.png]
+
+[IMAGE: thermal_p8_66.png]
+
+[IMAGE: thermal_p8_72.png]
+
+[IMAGE: thermal_p8_78.png]
+
+[IMAGE: thermal_p8_84.png]
+
+[IMAGE: thermal_p8_90.png]
+
+[IMAGE: thermal_p8_97.png]
+
+[IMAGE: thermal_p8_104.png]
+
+[IMAGE: thermal_p8_110.png]
+
+[IMAGE: thermal_p8_111.png]
+
+[IMAGE: thermal_p8_117.png]
+
+[IMAGE: thermal_p8_123.png]
+
+[IMAGE: thermal_p8_130.png]
+
+[IMAGE: thermal_p8_136.png]
+
+[IMAGE: thermal_p8_144.png]
+
+[IMAGE: thermal_p8_150.png]
+
+[IMAGE: thermal_p8_156.png]
+
+[IMAGE: thermal_p8_162.png]
+
+[IMAGE: thermal_p8_168.png]
+
+[IMAGE: thermal_p8_174.png]
+
+[IMAGE: thermal_p8_180.png]
+
+Coldspot : 
+21.5 °C
+
+[IMAGE: thermal_p8_1.png]
+
+[IMAGE: thermal_p8_7.png]
+
+[IMAGE: thermal_p8_13.png]
+
+[IMAGE: thermal_p8_19.png]
+
+[IMAGE: thermal_p8_25.png]
+
+[IMAGE: thermal_p8_31.png]
+
+[IMAGE: thermal_p8_37.png]
+
+[IMAGE: thermal_p8_43.png]
+
+[IMAGE: thermal_p8_49.png]
+
+[IMAGE: thermal_p8_55.png]
+
+[IMAGE: thermal_p8_61.png]
+
+[IMAGE: thermal_p8_67.png]
+
+[IMAGE: thermal_p8_73.png]
+
+[IMAGE: thermal_p8_79.png]
+
+[IMAGE: thermal_p8_85.png]
+
+[IMAGE: thermal_p8_92.png]
+
+[IMAGE: thermal_p8_99.png]
+
+[IMAGE: thermal_p8_105.png]
+
+[IMAGE: thermal_p8_112.png]
+
+[IMAGE: thermal_p8_118.png]
+
+[IMAGE: thermal_p8_124.png]
+
+[IMAGE: thermal_p8_125.png]
+
+[IMAGE: thermal_p8_131.png]
+
+[IMAGE: thermal_p8_138.png]
+
+[IMAGE: thermal_p8_145.png]
+
+[IMAGE: thermal_p8_151.png]
+
+[IMAGE: thermal_p8_157.png]
+
+[IMAGE: thermal_p8_163.png]
+
+[IMAGE: thermal_p8_169.png]
+
+[IMAGE: thermal_p8_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.5 °C
+
+[IMAGE: thermal_p8_179.jpeg]
+
+8
+
+
+--- Page 9 ---
+[IMAGE: thermal_p9_10.jpeg]
+
+[IMAGE: thermal_p9_11.jpeg]
+
+[IMAGE: thermal_p9_16.jpeg]
+
+[IMAGE: thermal_p9_17.jpeg]
+
+[IMAGE: thermal_p9_22.jpeg]
+
+[IMAGE: thermal_p9_23.jpeg]
+
+[IMAGE: thermal_p9_28.jpeg]
+
+[IMAGE: thermal_p9_29.jpeg]
+
+[IMAGE: thermal_p9_34.jpeg]
+
+[IMAGE: thermal_p9_35.jpeg]
+
+[IMAGE: thermal_p9_40.jpeg]
+
+[IMAGE: thermal_p9_41.jpeg]
+
+[IMAGE: thermal_p9_46.jpeg]
+
+[IMAGE: thermal_p9_47.jpeg]
+
+[IMAGE: thermal_p9_52.jpeg]
+
+[IMAGE: thermal_p9_53.jpeg]
+
+[IMAGE: thermal_p9_58.jpeg]
+
+[IMAGE: thermal_p9_59.jpeg]
+
+[IMAGE: thermal_p9_64.jpeg]
+
+[IMAGE: thermal_p9_65.jpeg]
+
+[IMAGE: thermal_p9_70.jpeg]
+
+[IMAGE: thermal_p9_71.jpeg]
+
+[IMAGE: thermal_p9_76.jpeg]
+
+[IMAGE: thermal_p9_77.jpeg]
+
+[IMAGE: thermal_p9_82.jpeg]
+
+[IMAGE: thermal_p9_83.jpeg]
+
+[IMAGE: thermal_p9_88.jpeg]
+
+[IMAGE: thermal_p9_89.jpeg]
+
+[IMAGE: thermal_p9_91.jpeg]
+
+[IMAGE: thermal_p9_95.jpeg]
+
+[IMAGE: thermal_p9_96.jpeg]
+
+[IMAGE: thermal_p9_98.jpeg]
+
+[IMAGE: thermal_p9_102.jpeg]
+
+[IMAGE: thermal_p9_103.jpeg]
+
+[IMAGE: thermal_p9_108.jpeg]
+
+[IMAGE: thermal_p9_109.jpeg]
+
+[IMAGE: thermal_p9_115.jpeg]
+
+[IMAGE: thermal_p9_116.jpeg]
+
+[IMAGE: thermal_p9_121.jpeg]
+
+[IMAGE: thermal_p9_122.jpeg]
+
+[IMAGE: thermal_p9_128.jpeg]
+
+[IMAGE: thermal_p9_129.jpeg]
+
+[IMAGE: thermal_p9_134.jpeg]
+
+[IMAGE: thermal_p9_135.jpeg]
+
+[IMAGE: thermal_p9_142.jpeg]
+
+[IMAGE: thermal_p9_143.jpeg]
+
+[IMAGE: thermal_p9_148.jpeg]
+
+[IMAGE: thermal_p9_149.jpeg]
+
+[IMAGE: thermal_p9_154.jpeg]
+
+[IMAGE: thermal_p9_155.jpeg]
+
+[IMAGE: thermal_p9_160.jpeg]
+
+[IMAGE: thermal_p9_161.jpeg]
+
+[IMAGE: thermal_p9_166.jpeg]
+
+[IMAGE: thermal_p9_167.jpeg]
+
+[IMAGE: thermal_p9_172.jpeg]
+
+[IMAGE: thermal_p9_173.jpeg]
+
+[IMAGE: thermal_p9_178.jpeg]
+
+[IMAGE: thermal_p9_179.jpeg]
+
+Thermal image : RB02392X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.8 °C
+
+[IMAGE: thermal_p9_4.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.8 °C
+
+[IMAGE: thermal_p9_6.png]
+
+[IMAGE: thermal_p9_12.png]
+
+[IMAGE: thermal_p9_18.png]
+
+[IMAGE: thermal_p9_24.png]
+
+[IMAGE: thermal_p9_30.png]
+
+[IMAGE: thermal_p9_36.png]
+
+[IMAGE: thermal_p9_42.png]
+
+[IMAGE: thermal_p9_48.png]
+
+[IMAGE: thermal_p9_54.png]
+
+[IMAGE: thermal_p9_60.png]
+
+[IMAGE: thermal_p9_66.png]
+
+[IMAGE: thermal_p9_72.png]
+
+[IMAGE: thermal_p9_78.png]
+
+[IMAGE: thermal_p9_84.png]
+
+[IMAGE: thermal_p9_90.png]
+
+[IMAGE: thermal_p9_97.png]
+
+[IMAGE: thermal_p9_104.png]
+
+[IMAGE: thermal_p9_110.png]
+
+[IMAGE: thermal_p9_111.png]
+
+[IMAGE: thermal_p9_117.png]
+
+[IMAGE: thermal_p9_123.png]
+
+[IMAGE: thermal_p9_130.png]
+
+[IMAGE: thermal_p9_136.png]
+
+[IMAGE: thermal_p9_144.png]
+
+[IMAGE: thermal_p9_150.png]
+
+[IMAGE: thermal_p9_156.png]
+
+[IMAGE: thermal_p9_162.png]
+
+[IMAGE: thermal_p9_168.png]
+
+[IMAGE: thermal_p9_174.png]
+
+[IMAGE: thermal_p9_180.png]
+
+Coldspot : 
+20.8 °C
+
+[IMAGE: thermal_p9_1.png]
+
+[IMAGE: thermal_p9_7.png]
+
+[IMAGE: thermal_p9_13.png]
+
+[IMAGE: thermal_p9_19.png]
+
+[IMAGE: thermal_p9_25.png]
+
+[IMAGE: thermal_p9_31.png]
+
+[IMAGE: thermal_p9_37.png]
+
+[IMAGE: thermal_p9_43.png]
+
+[IMAGE: thermal_p9_49.png]
+
+[IMAGE: thermal_p9_55.png]
+
+[IMAGE: thermal_p9_61.png]
+
+[IMAGE: thermal_p9_67.png]
+
+[IMAGE: thermal_p9_73.png]
+
+[IMAGE: thermal_p9_79.png]
+
+[IMAGE: thermal_p9_85.png]
+
+[IMAGE: thermal_p9_92.png]
+
+[IMAGE: thermal_p9_99.png]
+
+[IMAGE: thermal_p9_105.png]
+
+[IMAGE: thermal_p9_112.png]
+
+[IMAGE: thermal_p9_118.png]
+
+[IMAGE: thermal_p9_124.png]
+
+[IMAGE: thermal_p9_125.png]
+
+[IMAGE: thermal_p9_131.png]
+
+[IMAGE: thermal_p9_138.png]
+
+[IMAGE: thermal_p9_145.png]
+
+[IMAGE: thermal_p9_151.png]
+
+[IMAGE: thermal_p9_157.png]
+
+[IMAGE: thermal_p9_163.png]
+
+[IMAGE: thermal_p9_169.png]
+
+[IMAGE: thermal_p9_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.8 °C
+
+[IMAGE: thermal_p9_5.jpeg]
+
+9
+
+
+--- Page 10 ---
+[IMAGE: thermal_p10_4.jpeg]
+
+[IMAGE: thermal_p10_5.jpeg]
+
+[IMAGE: thermal_p10_16.jpeg]
+
+[IMAGE: thermal_p10_17.jpeg]
+
+[IMAGE: thermal_p10_22.jpeg]
+
+[IMAGE: thermal_p10_23.jpeg]
+
+[IMAGE: thermal_p10_28.jpeg]
+
+[IMAGE: thermal_p10_29.jpeg]
+
+[IMAGE: thermal_p10_34.jpeg]
+
+[IMAGE: thermal_p10_35.jpeg]
+
+[IMAGE: thermal_p10_40.jpeg]
+
+[IMAGE: thermal_p10_41.jpeg]
+
+[IMAGE: thermal_p10_46.jpeg]
+
+[IMAGE: thermal_p10_47.jpeg]
+
+[IMAGE: thermal_p10_52.jpeg]
+
+[IMAGE: thermal_p10_53.jpeg]
+
+[IMAGE: thermal_p10_58.jpeg]
+
+[IMAGE: thermal_p10_59.jpeg]
+
+[IMAGE: thermal_p10_64.jpeg]
+
+[IMAGE: thermal_p10_65.jpeg]
+
+[IMAGE: thermal_p10_70.jpeg]
+
+[IMAGE: thermal_p10_71.jpeg]
+
+[IMAGE: thermal_p10_76.jpeg]
+
+[IMAGE: thermal_p10_77.jpeg]
+
+[IMAGE: thermal_p10_82.jpeg]
+
+[IMAGE: thermal_p10_83.jpeg]
+
+[IMAGE: thermal_p10_88.jpeg]
+
+[IMAGE: thermal_p10_89.jpeg]
+
+[IMAGE: thermal_p10_91.jpeg]
+
+[IMAGE: thermal_p10_95.jpeg]
+
+[IMAGE: thermal_p10_96.jpeg]
+
+[IMAGE: thermal_p10_98.jpeg]
+
+[IMAGE: thermal_p10_102.jpeg]
+
+[IMAGE: thermal_p10_103.jpeg]
+
+[IMAGE: thermal_p10_108.jpeg]
+
+[IMAGE: thermal_p10_109.jpeg]
+
+[IMAGE: thermal_p10_115.jpeg]
+
+[IMAGE: thermal_p10_116.jpeg]
+
+[IMAGE: thermal_p10_121.jpeg]
+
+[IMAGE: thermal_p10_122.jpeg]
+
+[IMAGE: thermal_p10_128.jpeg]
+
+[IMAGE: thermal_p10_129.jpeg]
+
+[IMAGE: thermal_p10_134.jpeg]
+
+[IMAGE: thermal_p10_135.jpeg]
+
+[IMAGE: thermal_p10_142.jpeg]
+
+[IMAGE: thermal_p10_143.jpeg]
+
+[IMAGE: thermal_p10_148.jpeg]
+
+[IMAGE: thermal_p10_149.jpeg]
+
+[IMAGE: thermal_p10_154.jpeg]
+
+[IMAGE: thermal_p10_155.jpeg]
+
+[IMAGE: thermal_p10_160.jpeg]
+
+[IMAGE: thermal_p10_161.jpeg]
+
+[IMAGE: thermal_p10_166.jpeg]
+
+[IMAGE: thermal_p10_167.jpeg]
+
+[IMAGE: thermal_p10_172.jpeg]
+
+[IMAGE: thermal_p10_173.jpeg]
+
+[IMAGE: thermal_p10_178.jpeg]
+
+[IMAGE: thermal_p10_179.jpeg]
+
+Thermal image : RB02393X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.9 °C
+
+[IMAGE: thermal_p10_10.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.9 °C
+
+[IMAGE: thermal_p10_6.png]
+
+[IMAGE: thermal_p10_12.png]
+
+[IMAGE: thermal_p10_18.png]
+
+[IMAGE: thermal_p10_24.png]
+
+[IMAGE: thermal_p10_30.png]
+
+[IMAGE: thermal_p10_36.png]
+
+[IMAGE: thermal_p10_42.png]
+
+[IMAGE: thermal_p10_48.png]
+
+[IMAGE: thermal_p10_54.png]
+
+[IMAGE: thermal_p10_60.png]
+
+[IMAGE: thermal_p10_66.png]
+
+[IMAGE: thermal_p10_72.png]
+
+[IMAGE: thermal_p10_78.png]
+
+[IMAGE: thermal_p10_84.png]
+
+[IMAGE: thermal_p10_90.png]
+
+[IMAGE: thermal_p10_97.png]
+
+[IMAGE: thermal_p10_104.png]
+
+[IMAGE: thermal_p10_110.png]
+
+[IMAGE: thermal_p10_111.png]
+
+[IMAGE: thermal_p10_117.png]
+
+[IMAGE: thermal_p10_123.png]
+
+[IMAGE: thermal_p10_130.png]
+
+[IMAGE: thermal_p10_136.png]
+
+[IMAGE: thermal_p10_144.png]
+
+[IMAGE: thermal_p10_150.png]
+
+[IMAGE: thermal_p10_156.png]
+
+[IMAGE: thermal_p10_162.png]
+
+[IMAGE: thermal_p10_168.png]
+
+[IMAGE: thermal_p10_174.png]
+
+[IMAGE: thermal_p10_180.png]
+
+Coldspot : 
+20.9 °C
+
+[IMAGE: thermal_p10_1.png]
+
+[IMAGE: thermal_p10_7.png]
+
+[IMAGE: thermal_p10_13.png]
+
+[IMAGE: thermal_p10_19.png]
+
+[IMAGE: thermal_p10_25.png]
+
+[IMAGE: thermal_p10_31.png]
+
+[IMAGE: thermal_p10_37.png]
+
+[IMAGE: thermal_p10_43.png]
+
+[IMAGE: thermal_p10_49.png]
+
+[IMAGE: thermal_p10_55.png]
+
+[IMAGE: thermal_p10_61.png]
+
+[IMAGE: thermal_p10_67.png]
+
+[IMAGE: thermal_p10_73.png]
+
+[IMAGE: thermal_p10_79.png]
+
+[IMAGE: thermal_p10_85.png]
+
+[IMAGE: thermal_p10_92.png]
+
+[IMAGE: thermal_p10_99.png]
+
+[IMAGE: thermal_p10_105.png]
+
+[IMAGE: thermal_p10_112.png]
+
+[IMAGE: thermal_p10_118.png]
+
+[IMAGE: thermal_p10_124.png]
+
+[IMAGE: thermal_p10_125.png]
+
+[IMAGE: thermal_p10_131.png]
+
+[IMAGE: thermal_p10_138.png]
+
+[IMAGE: thermal_p10_145.png]
+
+[IMAGE: thermal_p10_151.png]
+
+[IMAGE: thermal_p10_157.png]
+
+[IMAGE: thermal_p10_163.png]
+
+[IMAGE: thermal_p10_169.png]
+
+[IMAGE: thermal_p10_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.9 °C
+
+[IMAGE: thermal_p10_11.jpeg]
+
+10
+
+
+--- Page 11 ---
+[IMAGE: thermal_p11_4.jpeg]
+
+[IMAGE: thermal_p11_5.jpeg]
+
+[IMAGE: thermal_p11_10.jpeg]
+
+[IMAGE: thermal_p11_11.jpeg]
+
+[IMAGE: thermal_p11_22.jpeg]
+
+[IMAGE: thermal_p11_23.jpeg]
+
+[IMAGE: thermal_p11_28.jpeg]
+
+[IMAGE: thermal_p11_29.jpeg]
+
+[IMAGE: thermal_p11_34.jpeg]
+
+[IMAGE: thermal_p11_35.jpeg]
+
+[IMAGE: thermal_p11_40.jpeg]
+
+[IMAGE: thermal_p11_41.jpeg]
+
+[IMAGE: thermal_p11_46.jpeg]
+
+[IMAGE: thermal_p11_47.jpeg]
+
+[IMAGE: thermal_p11_52.jpeg]
+
+[IMAGE: thermal_p11_53.jpeg]
+
+[IMAGE: thermal_p11_58.jpeg]
+
+[IMAGE: thermal_p11_59.jpeg]
+
+[IMAGE: thermal_p11_64.jpeg]
+
+[IMAGE: thermal_p11_65.jpeg]
+
+[IMAGE: thermal_p11_70.jpeg]
+
+[IMAGE: thermal_p11_71.jpeg]
+
+[IMAGE: thermal_p11_76.jpeg]
+
+[IMAGE: thermal_p11_77.jpeg]
+
+[IMAGE: thermal_p11_82.jpeg]
+
+[IMAGE: thermal_p11_83.jpeg]
+
+[IMAGE: thermal_p11_88.jpeg]
+
+[IMAGE: thermal_p11_89.jpeg]
+
+[IMAGE: thermal_p11_91.jpeg]
+
+[IMAGE: thermal_p11_95.jpeg]
+
+[IMAGE: thermal_p11_96.jpeg]
+
+[IMAGE: thermal_p11_98.jpeg]
+
+[IMAGE: thermal_p11_102.jpeg]
+
+[IMAGE: thermal_p11_103.jpeg]
+
+[IMAGE: thermal_p11_108.jpeg]
+
+[IMAGE: thermal_p11_109.jpeg]
+
+[IMAGE: thermal_p11_115.jpeg]
+
+[IMAGE: thermal_p11_116.jpeg]
+
+[IMAGE: thermal_p11_121.jpeg]
+
+[IMAGE: thermal_p11_122.jpeg]
+
+[IMAGE: thermal_p11_128.jpeg]
+
+[IMAGE: thermal_p11_129.jpeg]
+
+[IMAGE: thermal_p11_134.jpeg]
+
+[IMAGE: thermal_p11_135.jpeg]
+
+[IMAGE: thermal_p11_142.jpeg]
+
+[IMAGE: thermal_p11_143.jpeg]
+
+[IMAGE: thermal_p11_148.jpeg]
+
+[IMAGE: thermal_p11_149.jpeg]
+
+[IMAGE: thermal_p11_154.jpeg]
+
+[IMAGE: thermal_p11_155.jpeg]
+
+[IMAGE: thermal_p11_160.jpeg]
+
+[IMAGE: thermal_p11_161.jpeg]
+
+[IMAGE: thermal_p11_166.jpeg]
+
+[IMAGE: thermal_p11_167.jpeg]
+
+[IMAGE: thermal_p11_172.jpeg]
+
+[IMAGE: thermal_p11_173.jpeg]
+
+[IMAGE: thermal_p11_178.jpeg]
+
+[IMAGE: thermal_p11_179.jpeg]
+
+Thermal image : RB02394X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26 °C
+
+[IMAGE: thermal_p11_16.jpeg]
+
+27/09/22
+
+Hotspot : 
+26 °C
+
+[IMAGE: thermal_p11_6.png]
+
+[IMAGE: thermal_p11_12.png]
+
+[IMAGE: thermal_p11_18.png]
+
+[IMAGE: thermal_p11_24.png]
+
+[IMAGE: thermal_p11_30.png]
+
+[IMAGE: thermal_p11_36.png]
+
+[IMAGE: thermal_p11_42.png]
+
+[IMAGE: thermal_p11_48.png]
+
+[IMAGE: thermal_p11_54.png]
+
+[IMAGE: thermal_p11_60.png]
+
+[IMAGE: thermal_p11_66.png]
+
+[IMAGE: thermal_p11_72.png]
+
+[IMAGE: thermal_p11_78.png]
+
+[IMAGE: thermal_p11_84.png]
+
+[IMAGE: thermal_p11_90.png]
+
+[IMAGE: thermal_p11_97.png]
+
+[IMAGE: thermal_p11_104.png]
+
+[IMAGE: thermal_p11_110.png]
+
+[IMAGE: thermal_p11_111.png]
+
+[IMAGE: thermal_p11_117.png]
+
+[IMAGE: thermal_p11_123.png]
+
+[IMAGE: thermal_p11_130.png]
+
+[IMAGE: thermal_p11_136.png]
+
+[IMAGE: thermal_p11_144.png]
+
+[IMAGE: thermal_p11_150.png]
+
+[IMAGE: thermal_p11_156.png]
+
+[IMAGE: thermal_p11_162.png]
+
+[IMAGE: thermal_p11_168.png]
+
+[IMAGE: thermal_p11_174.png]
+
+[IMAGE: thermal_p11_180.png]
+
+Coldspot : 
+21 °C
+
+[IMAGE: thermal_p11_1.png]
+
+[IMAGE: thermal_p11_7.png]
+
+[IMAGE: thermal_p11_13.png]
+
+[IMAGE: thermal_p11_19.png]
+
+[IMAGE: thermal_p11_25.png]
+
+[IMAGE: thermal_p11_31.png]
+
+[IMAGE: thermal_p11_37.png]
+
+[IMAGE: thermal_p11_43.png]
+
+[IMAGE: thermal_p11_49.png]
+
+[IMAGE: thermal_p11_55.png]
+
+[IMAGE: thermal_p11_61.png]
+
+[IMAGE: thermal_p11_67.png]
+
+[IMAGE: thermal_p11_73.png]
+
+[IMAGE: thermal_p11_79.png]
+
+[IMAGE: thermal_p11_85.png]
+
+[IMAGE: thermal_p11_92.png]
+
+[IMAGE: thermal_p11_99.png]
+
+[IMAGE: thermal_p11_105.png]
+
+[IMAGE: thermal_p11_112.png]
+
+[IMAGE: thermal_p11_118.png]
+
+[IMAGE: thermal_p11_124.png]
+
+[IMAGE: thermal_p11_125.png]
+
+[IMAGE: thermal_p11_131.png]
+
+[IMAGE: thermal_p11_138.png]
+
+[IMAGE: thermal_p11_145.png]
+
+[IMAGE: thermal_p11_151.png]
+
+[IMAGE: thermal_p11_157.png]
+
+[IMAGE: thermal_p11_163.png]
+
+[IMAGE: thermal_p11_169.png]
+
+[IMAGE: thermal_p11_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21 °C
+
+[IMAGE: thermal_p11_17.jpeg]
+
+11
+
+
+--- Page 12 ---
+[IMAGE: thermal_p12_4.jpeg]
+
+[IMAGE: thermal_p12_5.jpeg]
+
+[IMAGE: thermal_p12_10.jpeg]
+
+[IMAGE: thermal_p12_11.jpeg]
+
+[IMAGE: thermal_p12_16.jpeg]
+
+[IMAGE: thermal_p12_17.jpeg]
+
+[IMAGE: thermal_p12_28.jpeg]
+
+[IMAGE: thermal_p12_29.jpeg]
+
+[IMAGE: thermal_p12_34.jpeg]
+
+[IMAGE: thermal_p12_35.jpeg]
+
+[IMAGE: thermal_p12_40.jpeg]
+
+[IMAGE: thermal_p12_41.jpeg]
+
+[IMAGE: thermal_p12_46.jpeg]
+
+[IMAGE: thermal_p12_47.jpeg]
+
+[IMAGE: thermal_p12_52.jpeg]
+
+[IMAGE: thermal_p12_53.jpeg]
+
+[IMAGE: thermal_p12_58.jpeg]
+
+[IMAGE: thermal_p12_59.jpeg]
+
+[IMAGE: thermal_p12_64.jpeg]
+
+[IMAGE: thermal_p12_65.jpeg]
+
+[IMAGE: thermal_p12_70.jpeg]
+
+[IMAGE: thermal_p12_71.jpeg]
+
+[IMAGE: thermal_p12_76.jpeg]
+
+[IMAGE: thermal_p12_77.jpeg]
+
+[IMAGE: thermal_p12_82.jpeg]
+
+[IMAGE: thermal_p12_83.jpeg]
+
+[IMAGE: thermal_p12_88.jpeg]
+
+[IMAGE: thermal_p12_89.jpeg]
+
+[IMAGE: thermal_p12_91.jpeg]
+
+[IMAGE: thermal_p12_95.jpeg]
+
+[IMAGE: thermal_p12_96.jpeg]
+
+[IMAGE: thermal_p12_98.jpeg]
+
+[IMAGE: thermal_p12_102.jpeg]
+
+[IMAGE: thermal_p12_103.jpeg]
+
+[IMAGE: thermal_p12_108.jpeg]
+
+[IMAGE: thermal_p12_109.jpeg]
+
+[IMAGE: thermal_p12_115.jpeg]
+
+[IMAGE: thermal_p12_116.jpeg]
+
+[IMAGE: thermal_p12_121.jpeg]
+
+[IMAGE: thermal_p12_122.jpeg]
+
+[IMAGE: thermal_p12_128.jpeg]
+
+[IMAGE: thermal_p12_129.jpeg]
+
+[IMAGE: thermal_p12_134.jpeg]
+
+[IMAGE: thermal_p12_135.jpeg]
+
+[IMAGE: thermal_p12_142.jpeg]
+
+[IMAGE: thermal_p12_143.jpeg]
+
+[IMAGE: thermal_p12_148.jpeg]
+
+[IMAGE: thermal_p12_149.jpeg]
+
+[IMAGE: thermal_p12_154.jpeg]
+
+[IMAGE: thermal_p12_155.jpeg]
+
+[IMAGE: thermal_p12_160.jpeg]
+
+[IMAGE: thermal_p12_161.jpeg]
+
+[IMAGE: thermal_p12_166.jpeg]
+
+[IMAGE: thermal_p12_167.jpeg]
+
+[IMAGE: thermal_p12_172.jpeg]
+
+[IMAGE: thermal_p12_173.jpeg]
+
+[IMAGE: thermal_p12_178.jpeg]
+
+[IMAGE: thermal_p12_179.jpeg]
+
+Thermal image : RB02396X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.1 °C
+
+[IMAGE: thermal_p12_22.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.1 °C
+
+[IMAGE: thermal_p12_6.png]
+
+[IMAGE: thermal_p12_12.png]
+
+[IMAGE: thermal_p12_18.png]
+
+[IMAGE: thermal_p12_24.png]
+
+[IMAGE: thermal_p12_30.png]
+
+[IMAGE: thermal_p12_36.png]
+
+[IMAGE: thermal_p12_42.png]
+
+[IMAGE: thermal_p12_48.png]
+
+[IMAGE: thermal_p12_54.png]
+
+[IMAGE: thermal_p12_60.png]
+
+[IMAGE: thermal_p12_66.png]
+
+[IMAGE: thermal_p12_72.png]
+
+[IMAGE: thermal_p12_78.png]
+
+[IMAGE: thermal_p12_84.png]
+
+[IMAGE: thermal_p12_90.png]
+
+[IMAGE: thermal_p12_97.png]
+
+[IMAGE: thermal_p12_104.png]
+
+[IMAGE: thermal_p12_110.png]
+
+[IMAGE: thermal_p12_111.png]
+
+[IMAGE: thermal_p12_117.png]
+
+[IMAGE: thermal_p12_123.png]
+
+[IMAGE: thermal_p12_130.png]
+
+[IMAGE: thermal_p12_136.png]
+
+[IMAGE: thermal_p12_144.png]
+
+[IMAGE: thermal_p12_150.png]
+
+[IMAGE: thermal_p12_156.png]
+
+[IMAGE: thermal_p12_162.png]
+
+[IMAGE: thermal_p12_168.png]
+
+[IMAGE: thermal_p12_174.png]
+
+[IMAGE: thermal_p12_180.png]
+
+Coldspot : 
+21.1 °C
+
+[IMAGE: thermal_p12_1.png]
+
+[IMAGE: thermal_p12_7.png]
+
+[IMAGE: thermal_p12_13.png]
+
+[IMAGE: thermal_p12_19.png]
+
+[IMAGE: thermal_p12_25.png]
+
+[IMAGE: thermal_p12_31.png]
+
+[IMAGE: thermal_p12_37.png]
+
+[IMAGE: thermal_p12_43.png]
+
+[IMAGE: thermal_p12_49.png]
+
+[IMAGE: thermal_p12_55.png]
+
+[IMAGE: thermal_p12_61.png]
+
+[IMAGE: thermal_p12_67.png]
+
+[IMAGE: thermal_p12_73.png]
+
+[IMAGE: thermal_p12_79.png]
+
+[IMAGE: thermal_p12_85.png]
+
+[IMAGE: thermal_p12_92.png]
+
+[IMAGE: thermal_p12_99.png]
+
+[IMAGE: thermal_p12_105.png]
+
+[IMAGE: thermal_p12_112.png]
+
+[IMAGE: thermal_p12_118.png]
+
+[IMAGE: thermal_p12_124.png]
+
+[IMAGE: thermal_p12_125.png]
+
+[IMAGE: thermal_p12_131.png]
+
+[IMAGE: thermal_p12_138.png]
+
+[IMAGE: thermal_p12_145.png]
+
+[IMAGE: thermal_p12_151.png]
+
+[IMAGE: thermal_p12_157.png]
+
+[IMAGE: thermal_p12_163.png]
+
+[IMAGE: thermal_p12_169.png]
+
+[IMAGE: thermal_p12_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.1 °C
+
+[IMAGE: thermal_p12_23.jpeg]
+
+12
+
+
+--- Page 13 ---
+[IMAGE: thermal_p13_4.jpeg]
+
+[IMAGE: thermal_p13_5.jpeg]
+
+[IMAGE: thermal_p13_10.jpeg]
+
+[IMAGE: thermal_p13_11.jpeg]
+
+[IMAGE: thermal_p13_16.jpeg]
+
+[IMAGE: thermal_p13_17.jpeg]
+
+[IMAGE: thermal_p13_22.jpeg]
+
+[IMAGE: thermal_p13_23.jpeg]
+
+[IMAGE: thermal_p13_34.jpeg]
+
+[IMAGE: thermal_p13_35.jpeg]
+
+[IMAGE: thermal_p13_40.jpeg]
+
+[IMAGE: thermal_p13_41.jpeg]
+
+[IMAGE: thermal_p13_46.jpeg]
+
+[IMAGE: thermal_p13_47.jpeg]
+
+[IMAGE: thermal_p13_52.jpeg]
+
+[IMAGE: thermal_p13_53.jpeg]
+
+[IMAGE: thermal_p13_58.jpeg]
+
+[IMAGE: thermal_p13_59.jpeg]
+
+[IMAGE: thermal_p13_64.jpeg]
+
+[IMAGE: thermal_p13_65.jpeg]
+
+[IMAGE: thermal_p13_70.jpeg]
+
+[IMAGE: thermal_p13_71.jpeg]
+
+[IMAGE: thermal_p13_76.jpeg]
+
+[IMAGE: thermal_p13_77.jpeg]
+
+[IMAGE: thermal_p13_82.jpeg]
+
+[IMAGE: thermal_p13_83.jpeg]
+
+[IMAGE: thermal_p13_88.jpeg]
+
+[IMAGE: thermal_p13_89.jpeg]
+
+[IMAGE: thermal_p13_91.jpeg]
+
+[IMAGE: thermal_p13_95.jpeg]
+
+[IMAGE: thermal_p13_96.jpeg]
+
+[IMAGE: thermal_p13_98.jpeg]
+
+[IMAGE: thermal_p13_102.jpeg]
+
+[IMAGE: thermal_p13_103.jpeg]
+
+[IMAGE: thermal_p13_108.jpeg]
+
+[IMAGE: thermal_p13_109.jpeg]
+
+[IMAGE: thermal_p13_115.jpeg]
+
+[IMAGE: thermal_p13_116.jpeg]
+
+[IMAGE: thermal_p13_121.jpeg]
+
+[IMAGE: thermal_p13_122.jpeg]
+
+[IMAGE: thermal_p13_128.jpeg]
+
+[IMAGE: thermal_p13_129.jpeg]
+
+[IMAGE: thermal_p13_134.jpeg]
+
+[IMAGE: thermal_p13_135.jpeg]
+
+[IMAGE: thermal_p13_142.jpeg]
+
+[IMAGE: thermal_p13_143.jpeg]
+
+[IMAGE: thermal_p13_148.jpeg]
+
+[IMAGE: thermal_p13_149.jpeg]
+
+[IMAGE: thermal_p13_154.jpeg]
+
+[IMAGE: thermal_p13_155.jpeg]
+
+[IMAGE: thermal_p13_160.jpeg]
+
+[IMAGE: thermal_p13_161.jpeg]
+
+[IMAGE: thermal_p13_166.jpeg]
+
+[IMAGE: thermal_p13_167.jpeg]
+
+[IMAGE: thermal_p13_172.jpeg]
+
+[IMAGE: thermal_p13_173.jpeg]
+
+[IMAGE: thermal_p13_178.jpeg]
+
+[IMAGE: thermal_p13_179.jpeg]
+
+Thermal image : RB02397X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.3 °C
+
+[IMAGE: thermal_p13_28.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.3 °C
+
+[IMAGE: thermal_p13_6.png]
+
+[IMAGE: thermal_p13_12.png]
+
+[IMAGE: thermal_p13_18.png]
+
+[IMAGE: thermal_p13_24.png]
+
+[IMAGE: thermal_p13_30.png]
+
+[IMAGE: thermal_p13_36.png]
+
+[IMAGE: thermal_p13_42.png]
+
+[IMAGE: thermal_p13_48.png]
+
+[IMAGE: thermal_p13_54.png]
+
+[IMAGE: thermal_p13_60.png]
+
+[IMAGE: thermal_p13_66.png]
+
+[IMAGE: thermal_p13_72.png]
+
+[IMAGE: thermal_p13_78.png]
+
+[IMAGE: thermal_p13_84.png]
+
+[IMAGE: thermal_p13_90.png]
+
+[IMAGE: thermal_p13_97.png]
+
+[IMAGE: thermal_p13_104.png]
+
+[IMAGE: thermal_p13_110.png]
+
+[IMAGE: thermal_p13_111.png]
+
+[IMAGE: thermal_p13_117.png]
+
+[IMAGE: thermal_p13_123.png]
+
+[IMAGE: thermal_p13_130.png]
+
+[IMAGE: thermal_p13_136.png]
+
+[IMAGE: thermal_p13_144.png]
+
+[IMAGE: thermal_p13_150.png]
+
+[IMAGE: thermal_p13_156.png]
+
+[IMAGE: thermal_p13_162.png]
+
+[IMAGE: thermal_p13_168.png]
+
+[IMAGE: thermal_p13_174.png]
+
+[IMAGE: thermal_p13_180.png]
+
+Coldspot : 
+21.3 °C
+
+[IMAGE: thermal_p13_1.png]
+
+[IMAGE: thermal_p13_7.png]
+
+[IMAGE: thermal_p13_13.png]
+
+[IMAGE: thermal_p13_19.png]
+
+[IMAGE: thermal_p13_25.png]
+
+[IMAGE: thermal_p13_31.png]
+
+[IMAGE: thermal_p13_37.png]
+
+[IMAGE: thermal_p13_43.png]
+
+[IMAGE: thermal_p13_49.png]
+
+[IMAGE: thermal_p13_55.png]
+
+[IMAGE: thermal_p13_61.png]
+
+[IMAGE: thermal_p13_67.png]
+
+[IMAGE: thermal_p13_73.png]
+
+[IMAGE: thermal_p13_79.png]
+
+[IMAGE: thermal_p13_85.png]
+
+[IMAGE: thermal_p13_92.png]
+
+[IMAGE: thermal_p13_99.png]
+
+[IMAGE: thermal_p13_105.png]
+
+[IMAGE: thermal_p13_112.png]
+
+[IMAGE: thermal_p13_118.png]
+
+[IMAGE: thermal_p13_124.png]
+
+[IMAGE: thermal_p13_125.png]
+
+[IMAGE: thermal_p13_131.png]
+
+[IMAGE: thermal_p13_138.png]
+
+[IMAGE: thermal_p13_145.png]
+
+[IMAGE: thermal_p13_151.png]
+
+[IMAGE: thermal_p13_157.png]
+
+[IMAGE: thermal_p13_163.png]
+
+[IMAGE: thermal_p13_169.png]
+
+[IMAGE: thermal_p13_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.3 °C
+
+[IMAGE: thermal_p13_29.jpeg]
+
+13
+
+
+--- Page 14 ---
+[IMAGE: thermal_p14_4.jpeg]
+
+[IMAGE: thermal_p14_5.jpeg]
+
+[IMAGE: thermal_p14_10.jpeg]
+
+[IMAGE: thermal_p14_11.jpeg]
+
+[IMAGE: thermal_p14_16.jpeg]
+
+[IMAGE: thermal_p14_17.jpeg]
+
+[IMAGE: thermal_p14_22.jpeg]
+
+[IMAGE: thermal_p14_23.jpeg]
+
+[IMAGE: thermal_p14_28.jpeg]
+
+[IMAGE: thermal_p14_29.jpeg]
+
+[IMAGE: thermal_p14_40.jpeg]
+
+[IMAGE: thermal_p14_41.jpeg]
+
+[IMAGE: thermal_p14_46.jpeg]
+
+[IMAGE: thermal_p14_47.jpeg]
+
+[IMAGE: thermal_p14_52.jpeg]
+
+[IMAGE: thermal_p14_53.jpeg]
+
+[IMAGE: thermal_p14_58.jpeg]
+
+[IMAGE: thermal_p14_59.jpeg]
+
+[IMAGE: thermal_p14_64.jpeg]
+
+[IMAGE: thermal_p14_65.jpeg]
+
+[IMAGE: thermal_p14_70.jpeg]
+
+[IMAGE: thermal_p14_71.jpeg]
+
+[IMAGE: thermal_p14_76.jpeg]
+
+[IMAGE: thermal_p14_77.jpeg]
+
+[IMAGE: thermal_p14_82.jpeg]
+
+[IMAGE: thermal_p14_83.jpeg]
+
+[IMAGE: thermal_p14_88.jpeg]
+
+[IMAGE: thermal_p14_89.jpeg]
+
+[IMAGE: thermal_p14_91.jpeg]
+
+[IMAGE: thermal_p14_95.jpeg]
+
+[IMAGE: thermal_p14_96.jpeg]
+
+[IMAGE: thermal_p14_98.jpeg]
+
+[IMAGE: thermal_p14_102.jpeg]
+
+[IMAGE: thermal_p14_103.jpeg]
+
+[IMAGE: thermal_p14_108.jpeg]
+
+[IMAGE: thermal_p14_109.jpeg]
+
+[IMAGE: thermal_p14_115.jpeg]
+
+[IMAGE: thermal_p14_116.jpeg]
+
+[IMAGE: thermal_p14_121.jpeg]
+
+[IMAGE: thermal_p14_122.jpeg]
+
+[IMAGE: thermal_p14_128.jpeg]
+
+[IMAGE: thermal_p14_129.jpeg]
+
+[IMAGE: thermal_p14_134.jpeg]
+
+[IMAGE: thermal_p14_135.jpeg]
+
+[IMAGE: thermal_p14_142.jpeg]
+
+[IMAGE: thermal_p14_143.jpeg]
+
+[IMAGE: thermal_p14_148.jpeg]
+
+[IMAGE: thermal_p14_149.jpeg]
+
+[IMAGE: thermal_p14_154.jpeg]
+
+[IMAGE: thermal_p14_155.jpeg]
+
+[IMAGE: thermal_p14_160.jpeg]
+
+[IMAGE: thermal_p14_161.jpeg]
+
+[IMAGE: thermal_p14_166.jpeg]
+
+[IMAGE: thermal_p14_167.jpeg]
+
+[IMAGE: thermal_p14_172.jpeg]
+
+[IMAGE: thermal_p14_173.jpeg]
+
+[IMAGE: thermal_p14_178.jpeg]
+
+[IMAGE: thermal_p14_179.jpeg]
+
+Thermal image : RB02398X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.6 °C
+
+[IMAGE: thermal_p14_34.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.6 °C
+
+[IMAGE: thermal_p14_6.png]
+
+[IMAGE: thermal_p14_12.png]
+
+[IMAGE: thermal_p14_18.png]
+
+[IMAGE: thermal_p14_24.png]
+
+[IMAGE: thermal_p14_30.png]
+
+[IMAGE: thermal_p14_36.png]
+
+[IMAGE: thermal_p14_42.png]
+
+[IMAGE: thermal_p14_48.png]
+
+[IMAGE: thermal_p14_54.png]
+
+[IMAGE: thermal_p14_60.png]
+
+[IMAGE: thermal_p14_66.png]
+
+[IMAGE: thermal_p14_72.png]
+
+[IMAGE: thermal_p14_78.png]
+
+[IMAGE: thermal_p14_84.png]
+
+[IMAGE: thermal_p14_90.png]
+
+[IMAGE: thermal_p14_97.png]
+
+[IMAGE: thermal_p14_104.png]
+
+[IMAGE: thermal_p14_110.png]
+
+[IMAGE: thermal_p14_111.png]
+
+[IMAGE: thermal_p14_117.png]
+
+[IMAGE: thermal_p14_123.png]
+
+[IMAGE: thermal_p14_130.png]
+
+[IMAGE: thermal_p14_136.png]
+
+[IMAGE: thermal_p14_144.png]
+
+[IMAGE: thermal_p14_150.png]
+
+[IMAGE: thermal_p14_156.png]
+
+[IMAGE: thermal_p14_162.png]
+
+[IMAGE: thermal_p14_168.png]
+
+[IMAGE: thermal_p14_174.png]
+
+[IMAGE: thermal_p14_180.png]
+
+Coldspot : 
+20.6 °C
+
+[IMAGE: thermal_p14_1.png]
+
+[IMAGE: thermal_p14_7.png]
+
+[IMAGE: thermal_p14_13.png]
+
+[IMAGE: thermal_p14_19.png]
+
+[IMAGE: thermal_p14_25.png]
+
+[IMAGE: thermal_p14_31.png]
+
+[IMAGE: thermal_p14_37.png]
+
+[IMAGE: thermal_p14_43.png]
+
+[IMAGE: thermal_p14_49.png]
+
+[IMAGE: thermal_p14_55.png]
+
+[IMAGE: thermal_p14_61.png]
+
+[IMAGE: thermal_p14_67.png]
+
+[IMAGE: thermal_p14_73.png]
+
+[IMAGE: thermal_p14_79.png]
+
+[IMAGE: thermal_p14_85.png]
+
+[IMAGE: thermal_p14_92.png]
+
+[IMAGE: thermal_p14_99.png]
+
+[IMAGE: thermal_p14_105.png]
+
+[IMAGE: thermal_p14_112.png]
+
+[IMAGE: thermal_p14_118.png]
+
+[IMAGE: thermal_p14_124.png]
+
+[IMAGE: thermal_p14_125.png]
+
+[IMAGE: thermal_p14_131.png]
+
+[IMAGE: thermal_p14_138.png]
+
+[IMAGE: thermal_p14_145.png]
+
+[IMAGE: thermal_p14_151.png]
+
+[IMAGE: thermal_p14_157.png]
+
+[IMAGE: thermal_p14_163.png]
+
+[IMAGE: thermal_p14_169.png]
+
+[IMAGE: thermal_p14_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.6 °C
+
+[IMAGE: thermal_p14_35.jpeg]
+
+14
+
+
+--- Page 15 ---
+[IMAGE: thermal_p15_4.jpeg]
+
+[IMAGE: thermal_p15_5.jpeg]
+
+[IMAGE: thermal_p15_10.jpeg]
+
+[IMAGE: thermal_p15_11.jpeg]
+
+[IMAGE: thermal_p15_16.jpeg]
+
+[IMAGE: thermal_p15_17.jpeg]
+
+[IMAGE: thermal_p15_22.jpeg]
+
+[IMAGE: thermal_p15_23.jpeg]
+
+[IMAGE: thermal_p15_28.jpeg]
+
+[IMAGE: thermal_p15_29.jpeg]
+
+[IMAGE: thermal_p15_34.jpeg]
+
+[IMAGE: thermal_p15_35.jpeg]
+
+[IMAGE: thermal_p15_46.jpeg]
+
+[IMAGE: thermal_p15_47.jpeg]
+
+[IMAGE: thermal_p15_52.jpeg]
+
+[IMAGE: thermal_p15_53.jpeg]
+
+[IMAGE: thermal_p15_58.jpeg]
+
+[IMAGE: thermal_p15_59.jpeg]
+
+[IMAGE: thermal_p15_64.jpeg]
+
+[IMAGE: thermal_p15_65.jpeg]
+
+[IMAGE: thermal_p15_70.jpeg]
+
+[IMAGE: thermal_p15_71.jpeg]
+
+[IMAGE: thermal_p15_76.jpeg]
+
+[IMAGE: thermal_p15_77.jpeg]
+
+[IMAGE: thermal_p15_82.jpeg]
+
+[IMAGE: thermal_p15_83.jpeg]
+
+[IMAGE: thermal_p15_88.jpeg]
+
+[IMAGE: thermal_p15_89.jpeg]
+
+[IMAGE: thermal_p15_91.jpeg]
+
+[IMAGE: thermal_p15_95.jpeg]
+
+[IMAGE: thermal_p15_96.jpeg]
+
+[IMAGE: thermal_p15_98.jpeg]
+
+[IMAGE: thermal_p15_102.jpeg]
+
+[IMAGE: thermal_p15_103.jpeg]
+
+[IMAGE: thermal_p15_108.jpeg]
+
+[IMAGE: thermal_p15_109.jpeg]
+
+[IMAGE: thermal_p15_115.jpeg]
+
+[IMAGE: thermal_p15_116.jpeg]
+
+[IMAGE: thermal_p15_121.jpeg]
+
+[IMAGE: thermal_p15_122.jpeg]
+
+[IMAGE: thermal_p15_128.jpeg]
+
+[IMAGE: thermal_p15_129.jpeg]
+
+[IMAGE: thermal_p15_134.jpeg]
+
+[IMAGE: thermal_p15_135.jpeg]
+
+[IMAGE: thermal_p15_142.jpeg]
+
+[IMAGE: thermal_p15_143.jpeg]
+
+[IMAGE: thermal_p15_148.jpeg]
+
+[IMAGE: thermal_p15_149.jpeg]
+
+[IMAGE: thermal_p15_154.jpeg]
+
+[IMAGE: thermal_p15_155.jpeg]
+
+[IMAGE: thermal_p15_160.jpeg]
+
+[IMAGE: thermal_p15_161.jpeg]
+
+[IMAGE: thermal_p15_166.jpeg]
+
+[IMAGE: thermal_p15_167.jpeg]
+
+[IMAGE: thermal_p15_172.jpeg]
+
+[IMAGE: thermal_p15_173.jpeg]
+
+[IMAGE: thermal_p15_178.jpeg]
+
+[IMAGE: thermal_p15_179.jpeg]
+
+Thermal image : RB02399X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.5 °C
+
+[IMAGE: thermal_p15_40.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.5 °C
+
+[IMAGE: thermal_p15_6.png]
+
+[IMAGE: thermal_p15_12.png]
+
+[IMAGE: thermal_p15_18.png]
+
+[IMAGE: thermal_p15_24.png]
+
+[IMAGE: thermal_p15_30.png]
+
+[IMAGE: thermal_p15_36.png]
+
+[IMAGE: thermal_p15_42.png]
+
+[IMAGE: thermal_p15_48.png]
+
+[IMAGE: thermal_p15_54.png]
+
+[IMAGE: thermal_p15_60.png]
+
+[IMAGE: thermal_p15_66.png]
+
+[IMAGE: thermal_p15_72.png]
+
+[IMAGE: thermal_p15_78.png]
+
+[IMAGE: thermal_p15_84.png]
+
+[IMAGE: thermal_p15_90.png]
+
+[IMAGE: thermal_p15_97.png]
+
+[IMAGE: thermal_p15_104.png]
+
+[IMAGE: thermal_p15_110.png]
+
+[IMAGE: thermal_p15_111.png]
+
+[IMAGE: thermal_p15_117.png]
+
+[IMAGE: thermal_p15_123.png]
+
+[IMAGE: thermal_p15_130.png]
+
+[IMAGE: thermal_p15_136.png]
+
+[IMAGE: thermal_p15_144.png]
+
+[IMAGE: thermal_p15_150.png]
+
+[IMAGE: thermal_p15_156.png]
+
+[IMAGE: thermal_p15_162.png]
+
+[IMAGE: thermal_p15_168.png]
+
+[IMAGE: thermal_p15_174.png]
+
+[IMAGE: thermal_p15_180.png]
+
+Coldspot : 
+21.5 °C
+
+[IMAGE: thermal_p15_1.png]
+
+[IMAGE: thermal_p15_7.png]
+
+[IMAGE: thermal_p15_13.png]
+
+[IMAGE: thermal_p15_19.png]
+
+[IMAGE: thermal_p15_25.png]
+
+[IMAGE: thermal_p15_31.png]
+
+[IMAGE: thermal_p15_37.png]
+
+[IMAGE: thermal_p15_43.png]
+
+[IMAGE: thermal_p15_49.png]
+
+[IMAGE: thermal_p15_55.png]
+
+[IMAGE: thermal_p15_61.png]
+
+[IMAGE: thermal_p15_67.png]
+
+[IMAGE: thermal_p15_73.png]
+
+[IMAGE: thermal_p15_79.png]
+
+[IMAGE: thermal_p15_85.png]
+
+[IMAGE: thermal_p15_92.png]
+
+[IMAGE: thermal_p15_99.png]
+
+[IMAGE: thermal_p15_105.png]
+
+[IMAGE: thermal_p15_112.png]
+
+[IMAGE: thermal_p15_118.png]
+
+[IMAGE: thermal_p15_124.png]
+
+[IMAGE: thermal_p15_125.png]
+
+[IMAGE: thermal_p15_131.png]
+
+[IMAGE: thermal_p15_138.png]
+
+[IMAGE: thermal_p15_145.png]
+
+[IMAGE: thermal_p15_151.png]
+
+[IMAGE: thermal_p15_157.png]
+
+[IMAGE: thermal_p15_163.png]
+
+[IMAGE: thermal_p15_169.png]
+
+[IMAGE: thermal_p15_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.5 °C
+
+[IMAGE: thermal_p15_41.jpeg]
+
+15
+
+
+--- Page 16 ---
+[IMAGE: thermal_p16_4.jpeg]
+
+[IMAGE: thermal_p16_5.jpeg]
+
+[IMAGE: thermal_p16_10.jpeg]
+
+[IMAGE: thermal_p16_11.jpeg]
+
+[IMAGE: thermal_p16_16.jpeg]
+
+[IMAGE: thermal_p16_17.jpeg]
+
+[IMAGE: thermal_p16_22.jpeg]
+
+[IMAGE: thermal_p16_23.jpeg]
+
+[IMAGE: thermal_p16_28.jpeg]
+
+[IMAGE: thermal_p16_29.jpeg]
+
+[IMAGE: thermal_p16_34.jpeg]
+
+[IMAGE: thermal_p16_35.jpeg]
+
+[IMAGE: thermal_p16_40.jpeg]
+
+[IMAGE: thermal_p16_41.jpeg]
+
+[IMAGE: thermal_p16_52.jpeg]
+
+[IMAGE: thermal_p16_53.jpeg]
+
+[IMAGE: thermal_p16_58.jpeg]
+
+[IMAGE: thermal_p16_59.jpeg]
+
+[IMAGE: thermal_p16_64.jpeg]
+
+[IMAGE: thermal_p16_65.jpeg]
+
+[IMAGE: thermal_p16_70.jpeg]
+
+[IMAGE: thermal_p16_71.jpeg]
+
+[IMAGE: thermal_p16_76.jpeg]
+
+[IMAGE: thermal_p16_77.jpeg]
+
+[IMAGE: thermal_p16_82.jpeg]
+
+[IMAGE: thermal_p16_83.jpeg]
+
+[IMAGE: thermal_p16_88.jpeg]
+
+[IMAGE: thermal_p16_89.jpeg]
+
+[IMAGE: thermal_p16_91.jpeg]
+
+[IMAGE: thermal_p16_95.jpeg]
+
+[IMAGE: thermal_p16_96.jpeg]
+
+[IMAGE: thermal_p16_98.jpeg]
+
+[IMAGE: thermal_p16_102.jpeg]
+
+[IMAGE: thermal_p16_103.jpeg]
+
+[IMAGE: thermal_p16_108.jpeg]
+
+[IMAGE: thermal_p16_109.jpeg]
+
+[IMAGE: thermal_p16_115.jpeg]
+
+[IMAGE: thermal_p16_116.jpeg]
+
+[IMAGE: thermal_p16_121.jpeg]
+
+[IMAGE: thermal_p16_122.jpeg]
+
+[IMAGE: thermal_p16_128.jpeg]
+
+[IMAGE: thermal_p16_129.jpeg]
+
+[IMAGE: thermal_p16_134.jpeg]
+
+[IMAGE: thermal_p16_135.jpeg]
+
+[IMAGE: thermal_p16_142.jpeg]
+
+[IMAGE: thermal_p16_143.jpeg]
+
+[IMAGE: thermal_p16_148.jpeg]
+
+[IMAGE: thermal_p16_149.jpeg]
+
+[IMAGE: thermal_p16_154.jpeg]
+
+[IMAGE: thermal_p16_155.jpeg]
+
+[IMAGE: thermal_p16_160.jpeg]
+
+[IMAGE: thermal_p16_161.jpeg]
+
+[IMAGE: thermal_p16_166.jpeg]
+
+[IMAGE: thermal_p16_167.jpeg]
+
+[IMAGE: thermal_p16_172.jpeg]
+
+[IMAGE: thermal_p16_173.jpeg]
+
+[IMAGE: thermal_p16_178.jpeg]
+
+[IMAGE: thermal_p16_179.jpeg]
+
+Thermal image : RB02400X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.2 °C
+
+[IMAGE: thermal_p16_46.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.2 °C
+
+[IMAGE: thermal_p16_6.png]
+
+[IMAGE: thermal_p16_12.png]
+
+[IMAGE: thermal_p16_18.png]
+
+[IMAGE: thermal_p16_24.png]
+
+[IMAGE: thermal_p16_30.png]
+
+[IMAGE: thermal_p16_36.png]
+
+[IMAGE: thermal_p16_42.png]
+
+[IMAGE: thermal_p16_48.png]
+
+[IMAGE: thermal_p16_54.png]
+
+[IMAGE: thermal_p16_60.png]
+
+[IMAGE: thermal_p16_66.png]
+
+[IMAGE: thermal_p16_72.png]
+
+[IMAGE: thermal_p16_78.png]
+
+[IMAGE: thermal_p16_84.png]
+
+[IMAGE: thermal_p16_90.png]
+
+[IMAGE: thermal_p16_97.png]
+
+[IMAGE: thermal_p16_104.png]
+
+[IMAGE: thermal_p16_110.png]
+
+[IMAGE: thermal_p16_111.png]
+
+[IMAGE: thermal_p16_117.png]
+
+[IMAGE: thermal_p16_123.png]
+
+[IMAGE: thermal_p16_130.png]
+
+[IMAGE: thermal_p16_136.png]
+
+[IMAGE: thermal_p16_144.png]
+
+[IMAGE: thermal_p16_150.png]
+
+[IMAGE: thermal_p16_156.png]
+
+[IMAGE: thermal_p16_162.png]
+
+[IMAGE: thermal_p16_168.png]
+
+[IMAGE: thermal_p16_174.png]
+
+[IMAGE: thermal_p16_180.png]
+
+Coldspot : 
+20.2 °C
+
+[IMAGE: thermal_p16_1.png]
+
+[IMAGE: thermal_p16_7.png]
+
+[IMAGE: thermal_p16_13.png]
+
+[IMAGE: thermal_p16_19.png]
+
+[IMAGE: thermal_p16_25.png]
+
+[IMAGE: thermal_p16_31.png]
+
+[IMAGE: thermal_p16_37.png]
+
+[IMAGE: thermal_p16_43.png]
+
+[IMAGE: thermal_p16_49.png]
+
+[IMAGE: thermal_p16_55.png]
+
+[IMAGE: thermal_p16_61.png]
+
+[IMAGE: thermal_p16_67.png]
+
+[IMAGE: thermal_p16_73.png]
+
+[IMAGE: thermal_p16_79.png]
+
+[IMAGE: thermal_p16_85.png]
+
+[IMAGE: thermal_p16_92.png]
+
+[IMAGE: thermal_p16_99.png]
+
+[IMAGE: thermal_p16_105.png]
+
+[IMAGE: thermal_p16_112.png]
+
+[IMAGE: thermal_p16_118.png]
+
+[IMAGE: thermal_p16_124.png]
+
+[IMAGE: thermal_p16_125.png]
+
+[IMAGE: thermal_p16_131.png]
+
+[IMAGE: thermal_p16_138.png]
+
+[IMAGE: thermal_p16_145.png]
+
+[IMAGE: thermal_p16_151.png]
+
+[IMAGE: thermal_p16_157.png]
+
+[IMAGE: thermal_p16_163.png]
+
+[IMAGE: thermal_p16_169.png]
+
+[IMAGE: thermal_p16_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.2 °C
+
+[IMAGE: thermal_p16_47.jpeg]
+
+16
+
+
+--- Page 17 ---
+[IMAGE: thermal_p17_4.jpeg]
+
+[IMAGE: thermal_p17_5.jpeg]
+
+[IMAGE: thermal_p17_10.jpeg]
+
+[IMAGE: thermal_p17_11.jpeg]
+
+[IMAGE: thermal_p17_16.jpeg]
+
+[IMAGE: thermal_p17_17.jpeg]
+
+[IMAGE: thermal_p17_22.jpeg]
+
+[IMAGE: thermal_p17_23.jpeg]
+
+[IMAGE: thermal_p17_28.jpeg]
+
+[IMAGE: thermal_p17_29.jpeg]
+
+[IMAGE: thermal_p17_34.jpeg]
+
+[IMAGE: thermal_p17_35.jpeg]
+
+[IMAGE: thermal_p17_40.jpeg]
+
+[IMAGE: thermal_p17_41.jpeg]
+
+[IMAGE: thermal_p17_46.jpeg]
+
+[IMAGE: thermal_p17_47.jpeg]
+
+[IMAGE: thermal_p17_58.jpeg]
+
+[IMAGE: thermal_p17_59.jpeg]
+
+[IMAGE: thermal_p17_64.jpeg]
+
+[IMAGE: thermal_p17_65.jpeg]
+
+[IMAGE: thermal_p17_70.jpeg]
+
+[IMAGE: thermal_p17_71.jpeg]
+
+[IMAGE: thermal_p17_76.jpeg]
+
+[IMAGE: thermal_p17_77.jpeg]
+
+[IMAGE: thermal_p17_82.jpeg]
+
+[IMAGE: thermal_p17_83.jpeg]
+
+[IMAGE: thermal_p17_88.jpeg]
+
+[IMAGE: thermal_p17_89.jpeg]
+
+[IMAGE: thermal_p17_91.jpeg]
+
+[IMAGE: thermal_p17_95.jpeg]
+
+[IMAGE: thermal_p17_96.jpeg]
+
+[IMAGE: thermal_p17_98.jpeg]
+
+[IMAGE: thermal_p17_102.jpeg]
+
+[IMAGE: thermal_p17_103.jpeg]
+
+[IMAGE: thermal_p17_108.jpeg]
+
+[IMAGE: thermal_p17_109.jpeg]
+
+[IMAGE: thermal_p17_115.jpeg]
+
+[IMAGE: thermal_p17_116.jpeg]
+
+[IMAGE: thermal_p17_121.jpeg]
+
+[IMAGE: thermal_p17_122.jpeg]
+
+[IMAGE: thermal_p17_128.jpeg]
+
+[IMAGE: thermal_p17_129.jpeg]
+
+[IMAGE: thermal_p17_134.jpeg]
+
+[IMAGE: thermal_p17_135.jpeg]
+
+[IMAGE: thermal_p17_142.jpeg]
+
+[IMAGE: thermal_p17_143.jpeg]
+
+[IMAGE: thermal_p17_148.jpeg]
+
+[IMAGE: thermal_p17_149.jpeg]
+
+[IMAGE: thermal_p17_154.jpeg]
+
+[IMAGE: thermal_p17_155.jpeg]
+
+[IMAGE: thermal_p17_160.jpeg]
+
+[IMAGE: thermal_p17_161.jpeg]
+
+[IMAGE: thermal_p17_166.jpeg]
+
+[IMAGE: thermal_p17_167.jpeg]
+
+[IMAGE: thermal_p17_172.jpeg]
+
+[IMAGE: thermal_p17_173.jpeg]
+
+[IMAGE: thermal_p17_178.jpeg]
+
+[IMAGE: thermal_p17_179.jpeg]
+
+Thermal image : RB02401X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.6 °C
+
+[IMAGE: thermal_p17_52.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.6 °C
+
+[IMAGE: thermal_p17_6.png]
+
+[IMAGE: thermal_p17_12.png]
+
+[IMAGE: thermal_p17_18.png]
+
+[IMAGE: thermal_p17_24.png]
+
+[IMAGE: thermal_p17_30.png]
+
+[IMAGE: thermal_p17_36.png]
+
+[IMAGE: thermal_p17_42.png]
+
+[IMAGE: thermal_p17_48.png]
+
+[IMAGE: thermal_p17_54.png]
+
+[IMAGE: thermal_p17_60.png]
+
+[IMAGE: thermal_p17_66.png]
+
+[IMAGE: thermal_p17_72.png]
+
+[IMAGE: thermal_p17_78.png]
+
+[IMAGE: thermal_p17_84.png]
+
+[IMAGE: thermal_p17_90.png]
+
+[IMAGE: thermal_p17_97.png]
+
+[IMAGE: thermal_p17_104.png]
+
+[IMAGE: thermal_p17_110.png]
+
+[IMAGE: thermal_p17_111.png]
+
+[IMAGE: thermal_p17_117.png]
+
+[IMAGE: thermal_p17_123.png]
+
+[IMAGE: thermal_p17_130.png]
+
+[IMAGE: thermal_p17_136.png]
+
+[IMAGE: thermal_p17_144.png]
+
+[IMAGE: thermal_p17_150.png]
+
+[IMAGE: thermal_p17_156.png]
+
+[IMAGE: thermal_p17_162.png]
+
+[IMAGE: thermal_p17_168.png]
+
+[IMAGE: thermal_p17_174.png]
+
+[IMAGE: thermal_p17_180.png]
+
+Coldspot : 
+20.6 °C
+
+[IMAGE: thermal_p17_1.png]
+
+[IMAGE: thermal_p17_7.png]
+
+[IMAGE: thermal_p17_13.png]
+
+[IMAGE: thermal_p17_19.png]
+
+[IMAGE: thermal_p17_25.png]
+
+[IMAGE: thermal_p17_31.png]
+
+[IMAGE: thermal_p17_37.png]
+
+[IMAGE: thermal_p17_43.png]
+
+[IMAGE: thermal_p17_49.png]
+
+[IMAGE: thermal_p17_55.png]
+
+[IMAGE: thermal_p17_61.png]
+
+[IMAGE: thermal_p17_67.png]
+
+[IMAGE: thermal_p17_73.png]
+
+[IMAGE: thermal_p17_79.png]
+
+[IMAGE: thermal_p17_85.png]
+
+[IMAGE: thermal_p17_92.png]
+
+[IMAGE: thermal_p17_99.png]
+
+[IMAGE: thermal_p17_105.png]
+
+[IMAGE: thermal_p17_112.png]
+
+[IMAGE: thermal_p17_118.png]
+
+[IMAGE: thermal_p17_124.png]
+
+[IMAGE: thermal_p17_125.png]
+
+[IMAGE: thermal_p17_131.png]
+
+[IMAGE: thermal_p17_138.png]
+
+[IMAGE: thermal_p17_145.png]
+
+[IMAGE: thermal_p17_151.png]
+
+[IMAGE: thermal_p17_157.png]
+
+[IMAGE: thermal_p17_163.png]
+
+[IMAGE: thermal_p17_169.png]
+
+[IMAGE: thermal_p17_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.6 °C
+
+[IMAGE: thermal_p17_53.jpeg]
+
+17
+
+
+--- Page 18 ---
+[IMAGE: thermal_p18_4.jpeg]
+
+[IMAGE: thermal_p18_5.jpeg]
+
+[IMAGE: thermal_p18_10.jpeg]
+
+[IMAGE: thermal_p18_11.jpeg]
+
+[IMAGE: thermal_p18_16.jpeg]
+
+[IMAGE: thermal_p18_17.jpeg]
+
+[IMAGE: thermal_p18_22.jpeg]
+
+[IMAGE: thermal_p18_23.jpeg]
+
+[IMAGE: thermal_p18_28.jpeg]
+
+[IMAGE: thermal_p18_29.jpeg]
+
+[IMAGE: thermal_p18_34.jpeg]
+
+[IMAGE: thermal_p18_35.jpeg]
+
+[IMAGE: thermal_p18_40.jpeg]
+
+[IMAGE: thermal_p18_41.jpeg]
+
+[IMAGE: thermal_p18_46.jpeg]
+
+[IMAGE: thermal_p18_47.jpeg]
+
+[IMAGE: thermal_p18_52.jpeg]
+
+[IMAGE: thermal_p18_53.jpeg]
+
+[IMAGE: thermal_p18_64.jpeg]
+
+[IMAGE: thermal_p18_65.jpeg]
+
+[IMAGE: thermal_p18_70.jpeg]
+
+[IMAGE: thermal_p18_71.jpeg]
+
+[IMAGE: thermal_p18_76.jpeg]
+
+[IMAGE: thermal_p18_77.jpeg]
+
+[IMAGE: thermal_p18_82.jpeg]
+
+[IMAGE: thermal_p18_83.jpeg]
+
+[IMAGE: thermal_p18_88.jpeg]
+
+[IMAGE: thermal_p18_89.jpeg]
+
+[IMAGE: thermal_p18_91.jpeg]
+
+[IMAGE: thermal_p18_95.jpeg]
+
+[IMAGE: thermal_p18_96.jpeg]
+
+[IMAGE: thermal_p18_98.jpeg]
+
+[IMAGE: thermal_p18_102.jpeg]
+
+[IMAGE: thermal_p18_103.jpeg]
+
+[IMAGE: thermal_p18_108.jpeg]
+
+[IMAGE: thermal_p18_109.jpeg]
+
+[IMAGE: thermal_p18_115.jpeg]
+
+[IMAGE: thermal_p18_116.jpeg]
+
+[IMAGE: thermal_p18_121.jpeg]
+
+[IMAGE: thermal_p18_122.jpeg]
+
+[IMAGE: thermal_p18_128.jpeg]
+
+[IMAGE: thermal_p18_129.jpeg]
+
+[IMAGE: thermal_p18_134.jpeg]
+
+[IMAGE: thermal_p18_135.jpeg]
+
+[IMAGE: thermal_p18_142.jpeg]
+
+[IMAGE: thermal_p18_143.jpeg]
+
+[IMAGE: thermal_p18_148.jpeg]
+
+[IMAGE: thermal_p18_149.jpeg]
+
+[IMAGE: thermal_p18_154.jpeg]
+
+[IMAGE: thermal_p18_155.jpeg]
+
+[IMAGE: thermal_p18_160.jpeg]
+
+[IMAGE: thermal_p18_161.jpeg]
+
+[IMAGE: thermal_p18_166.jpeg]
+
+[IMAGE: thermal_p18_167.jpeg]
+
+[IMAGE: thermal_p18_172.jpeg]
+
+[IMAGE: thermal_p18_173.jpeg]
+
+[IMAGE: thermal_p18_178.jpeg]
+
+[IMAGE: thermal_p18_179.jpeg]
+
+Thermal image : RB02381X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+27 °C
+
+[IMAGE: thermal_p18_58.jpeg]
+
+27/09/22
+
+Hotspot : 
+27 °C
+
+[IMAGE: thermal_p18_6.png]
+
+[IMAGE: thermal_p18_12.png]
+
+[IMAGE: thermal_p18_18.png]
+
+[IMAGE: thermal_p18_24.png]
+
+[IMAGE: thermal_p18_30.png]
+
+[IMAGE: thermal_p18_36.png]
+
+[IMAGE: thermal_p18_42.png]
+
+[IMAGE: thermal_p18_48.png]
+
+[IMAGE: thermal_p18_54.png]
+
+[IMAGE: thermal_p18_60.png]
+
+[IMAGE: thermal_p18_66.png]
+
+[IMAGE: thermal_p18_72.png]
+
+[IMAGE: thermal_p18_78.png]
+
+[IMAGE: thermal_p18_84.png]
+
+[IMAGE: thermal_p18_90.png]
+
+[IMAGE: thermal_p18_97.png]
+
+[IMAGE: thermal_p18_104.png]
+
+[IMAGE: thermal_p18_110.png]
+
+[IMAGE: thermal_p18_111.png]
+
+[IMAGE: thermal_p18_117.png]
+
+[IMAGE: thermal_p18_123.png]
+
+[IMAGE: thermal_p18_130.png]
+
+[IMAGE: thermal_p18_136.png]
+
+[IMAGE: thermal_p18_144.png]
+
+[IMAGE: thermal_p18_150.png]
+
+[IMAGE: thermal_p18_156.png]
+
+[IMAGE: thermal_p18_162.png]
+
+[IMAGE: thermal_p18_168.png]
+
+[IMAGE: thermal_p18_174.png]
+
+[IMAGE: thermal_p18_180.png]
+
+Coldspot : 
+22 °C
+
+[IMAGE: thermal_p18_1.png]
+
+[IMAGE: thermal_p18_7.png]
+
+[IMAGE: thermal_p18_13.png]
+
+[IMAGE: thermal_p18_19.png]
+
+[IMAGE: thermal_p18_25.png]
+
+[IMAGE: thermal_p18_31.png]
+
+[IMAGE: thermal_p18_37.png]
+
+[IMAGE: thermal_p18_43.png]
+
+[IMAGE: thermal_p18_49.png]
+
+[IMAGE: thermal_p18_55.png]
+
+[IMAGE: thermal_p18_61.png]
+
+[IMAGE: thermal_p18_67.png]
+
+[IMAGE: thermal_p18_73.png]
+
+[IMAGE: thermal_p18_79.png]
+
+[IMAGE: thermal_p18_85.png]
+
+[IMAGE: thermal_p18_92.png]
+
+[IMAGE: thermal_p18_99.png]
+
+[IMAGE: thermal_p18_105.png]
+
+[IMAGE: thermal_p18_112.png]
+
+[IMAGE: thermal_p18_118.png]
+
+[IMAGE: thermal_p18_124.png]
+
+[IMAGE: thermal_p18_125.png]
+
+[IMAGE: thermal_p18_131.png]
+
+[IMAGE: thermal_p18_138.png]
+
+[IMAGE: thermal_p18_145.png]
+
+[IMAGE: thermal_p18_151.png]
+
+[IMAGE: thermal_p18_157.png]
+
+[IMAGE: thermal_p18_163.png]
+
+[IMAGE: thermal_p18_169.png]
+
+[IMAGE: thermal_p18_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+22 °C
+
+[IMAGE: thermal_p18_59.jpeg]
+
+18
+
+
+--- Page 19 ---
+[IMAGE: thermal_p19_4.jpeg]
+
+[IMAGE: thermal_p19_5.jpeg]
+
+[IMAGE: thermal_p19_10.jpeg]
+
+[IMAGE: thermal_p19_11.jpeg]
+
+[IMAGE: thermal_p19_16.jpeg]
+
+[IMAGE: thermal_p19_17.jpeg]
+
+[IMAGE: thermal_p19_22.jpeg]
+
+[IMAGE: thermal_p19_23.jpeg]
+
+[IMAGE: thermal_p19_28.jpeg]
+
+[IMAGE: thermal_p19_29.jpeg]
+
+[IMAGE: thermal_p19_34.jpeg]
+
+[IMAGE: thermal_p19_35.jpeg]
+
+[IMAGE: thermal_p19_40.jpeg]
+
+[IMAGE: thermal_p19_41.jpeg]
+
+[IMAGE: thermal_p19_46.jpeg]
+
+[IMAGE: thermal_p19_47.jpeg]
+
+[IMAGE: thermal_p19_52.jpeg]
+
+[IMAGE: thermal_p19_53.jpeg]
+
+[IMAGE: thermal_p19_58.jpeg]
+
+[IMAGE: thermal_p19_59.jpeg]
+
+[IMAGE: thermal_p19_70.jpeg]
+
+[IMAGE: thermal_p19_71.jpeg]
+
+[IMAGE: thermal_p19_76.jpeg]
+
+[IMAGE: thermal_p19_77.jpeg]
+
+[IMAGE: thermal_p19_82.jpeg]
+
+[IMAGE: thermal_p19_83.jpeg]
+
+[IMAGE: thermal_p19_88.jpeg]
+
+[IMAGE: thermal_p19_89.jpeg]
+
+[IMAGE: thermal_p19_91.jpeg]
+
+[IMAGE: thermal_p19_95.jpeg]
+
+[IMAGE: thermal_p19_96.jpeg]
+
+[IMAGE: thermal_p19_98.jpeg]
+
+[IMAGE: thermal_p19_102.jpeg]
+
+[IMAGE: thermal_p19_103.jpeg]
+
+[IMAGE: thermal_p19_108.jpeg]
+
+[IMAGE: thermal_p19_109.jpeg]
+
+[IMAGE: thermal_p19_115.jpeg]
+
+[IMAGE: thermal_p19_116.jpeg]
+
+[IMAGE: thermal_p19_121.jpeg]
+
+[IMAGE: thermal_p19_122.jpeg]
+
+[IMAGE: thermal_p19_128.jpeg]
+
+[IMAGE: thermal_p19_129.jpeg]
+
+[IMAGE: thermal_p19_134.jpeg]
+
+[IMAGE: thermal_p19_135.jpeg]
+
+[IMAGE: thermal_p19_142.jpeg]
+
+[IMAGE: thermal_p19_143.jpeg]
+
+[IMAGE: thermal_p19_148.jpeg]
+
+[IMAGE: thermal_p19_149.jpeg]
+
+[IMAGE: thermal_p19_154.jpeg]
+
+[IMAGE: thermal_p19_155.jpeg]
+
+[IMAGE: thermal_p19_160.jpeg]
+
+[IMAGE: thermal_p19_161.jpeg]
+
+[IMAGE: thermal_p19_166.jpeg]
+
+[IMAGE: thermal_p19_167.jpeg]
+
+[IMAGE: thermal_p19_172.jpeg]
+
+[IMAGE: thermal_p19_173.jpeg]
+
+[IMAGE: thermal_p19_178.jpeg]
+
+[IMAGE: thermal_p19_179.jpeg]
+
+Thermal image : RB02382X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.7 °C
+
+[IMAGE: thermal_p19_64.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.7 °C
+
+[IMAGE: thermal_p19_6.png]
+
+[IMAGE: thermal_p19_12.png]
+
+[IMAGE: thermal_p19_18.png]
+
+[IMAGE: thermal_p19_24.png]
+
+[IMAGE: thermal_p19_30.png]
+
+[IMAGE: thermal_p19_36.png]
+
+[IMAGE: thermal_p19_42.png]
+
+[IMAGE: thermal_p19_48.png]
+
+[IMAGE: thermal_p19_54.png]
+
+[IMAGE: thermal_p19_60.png]
+
+[IMAGE: thermal_p19_66.png]
+
+[IMAGE: thermal_p19_72.png]
+
+[IMAGE: thermal_p19_78.png]
+
+[IMAGE: thermal_p19_84.png]
+
+[IMAGE: thermal_p19_90.png]
+
+[IMAGE: thermal_p19_97.png]
+
+[IMAGE: thermal_p19_104.png]
+
+[IMAGE: thermal_p19_110.png]
+
+[IMAGE: thermal_p19_111.png]
+
+[IMAGE: thermal_p19_117.png]
+
+[IMAGE: thermal_p19_123.png]
+
+[IMAGE: thermal_p19_130.png]
+
+[IMAGE: thermal_p19_136.png]
+
+[IMAGE: thermal_p19_144.png]
+
+[IMAGE: thermal_p19_150.png]
+
+[IMAGE: thermal_p19_156.png]
+
+[IMAGE: thermal_p19_162.png]
+
+[IMAGE: thermal_p19_168.png]
+
+[IMAGE: thermal_p19_174.png]
+
+[IMAGE: thermal_p19_180.png]
+
+Coldspot : 
+21.7 °C
+
+[IMAGE: thermal_p19_1.png]
+
+[IMAGE: thermal_p19_7.png]
+
+[IMAGE: thermal_p19_13.png]
+
+[IMAGE: thermal_p19_19.png]
+
+[IMAGE: thermal_p19_25.png]
+
+[IMAGE: thermal_p19_31.png]
+
+[IMAGE: thermal_p19_37.png]
+
+[IMAGE: thermal_p19_43.png]
+
+[IMAGE: thermal_p19_49.png]
+
+[IMAGE: thermal_p19_55.png]
+
+[IMAGE: thermal_p19_61.png]
+
+[IMAGE: thermal_p19_67.png]
+
+[IMAGE: thermal_p19_73.png]
+
+[IMAGE: thermal_p19_79.png]
+
+[IMAGE: thermal_p19_85.png]
+
+[IMAGE: thermal_p19_92.png]
+
+[IMAGE: thermal_p19_99.png]
+
+[IMAGE: thermal_p19_105.png]
+
+[IMAGE: thermal_p19_112.png]
+
+[IMAGE: thermal_p19_118.png]
+
+[IMAGE: thermal_p19_124.png]
+
+[IMAGE: thermal_p19_125.png]
+
+[IMAGE: thermal_p19_131.png]
+
+[IMAGE: thermal_p19_138.png]
+
+[IMAGE: thermal_p19_145.png]
+
+[IMAGE: thermal_p19_151.png]
+
+[IMAGE: thermal_p19_157.png]
+
+[IMAGE: thermal_p19_163.png]
+
+[IMAGE: thermal_p19_169.png]
+
+[IMAGE: thermal_p19_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.7 °C
+
+[IMAGE: thermal_p19_65.jpeg]
+
+19
+
+
+--- Page 20 ---
+[IMAGE: thermal_p20_4.jpeg]
+
+[IMAGE: thermal_p20_5.jpeg]
+
+[IMAGE: thermal_p20_10.jpeg]
+
+[IMAGE: thermal_p20_11.jpeg]
+
+[IMAGE: thermal_p20_16.jpeg]
+
+[IMAGE: thermal_p20_17.jpeg]
+
+[IMAGE: thermal_p20_22.jpeg]
+
+[IMAGE: thermal_p20_23.jpeg]
+
+[IMAGE: thermal_p20_28.jpeg]
+
+[IMAGE: thermal_p20_29.jpeg]
+
+[IMAGE: thermal_p20_34.jpeg]
+
+[IMAGE: thermal_p20_35.jpeg]
+
+[IMAGE: thermal_p20_40.jpeg]
+
+[IMAGE: thermal_p20_41.jpeg]
+
+[IMAGE: thermal_p20_46.jpeg]
+
+[IMAGE: thermal_p20_47.jpeg]
+
+[IMAGE: thermal_p20_52.jpeg]
+
+[IMAGE: thermal_p20_53.jpeg]
+
+[IMAGE: thermal_p20_58.jpeg]
+
+[IMAGE: thermal_p20_59.jpeg]
+
+[IMAGE: thermal_p20_64.jpeg]
+
+[IMAGE: thermal_p20_65.jpeg]
+
+[IMAGE: thermal_p20_76.jpeg]
+
+[IMAGE: thermal_p20_77.jpeg]
+
+[IMAGE: thermal_p20_82.jpeg]
+
+[IMAGE: thermal_p20_83.jpeg]
+
+[IMAGE: thermal_p20_88.jpeg]
+
+[IMAGE: thermal_p20_89.jpeg]
+
+[IMAGE: thermal_p20_91.jpeg]
+
+[IMAGE: thermal_p20_95.jpeg]
+
+[IMAGE: thermal_p20_96.jpeg]
+
+[IMAGE: thermal_p20_98.jpeg]
+
+[IMAGE: thermal_p20_102.jpeg]
+
+[IMAGE: thermal_p20_103.jpeg]
+
+[IMAGE: thermal_p20_108.jpeg]
+
+[IMAGE: thermal_p20_109.jpeg]
+
+[IMAGE: thermal_p20_115.jpeg]
+
+[IMAGE: thermal_p20_116.jpeg]
+
+[IMAGE: thermal_p20_121.jpeg]
+
+[IMAGE: thermal_p20_122.jpeg]
+
+[IMAGE: thermal_p20_128.jpeg]
+
+[IMAGE: thermal_p20_129.jpeg]
+
+[IMAGE: thermal_p20_134.jpeg]
+
+[IMAGE: thermal_p20_135.jpeg]
+
+[IMAGE: thermal_p20_142.jpeg]
+
+[IMAGE: thermal_p20_143.jpeg]
+
+[IMAGE: thermal_p20_148.jpeg]
+
+[IMAGE: thermal_p20_149.jpeg]
+
+[IMAGE: thermal_p20_154.jpeg]
+
+[IMAGE: thermal_p20_155.jpeg]
+
+[IMAGE: thermal_p20_160.jpeg]
+
+[IMAGE: thermal_p20_161.jpeg]
+
+[IMAGE: thermal_p20_166.jpeg]
+
+[IMAGE: thermal_p20_167.jpeg]
+
+[IMAGE: thermal_p20_172.jpeg]
+
+[IMAGE: thermal_p20_173.jpeg]
+
+[IMAGE: thermal_p20_178.jpeg]
+
+[IMAGE: thermal_p20_179.jpeg]
+
+Thermal image : RB02383X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.5 °C
+
+[IMAGE: thermal_p20_70.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.5 °C
+
+[IMAGE: thermal_p20_6.png]
+
+[IMAGE: thermal_p20_12.png]
+
+[IMAGE: thermal_p20_18.png]
+
+[IMAGE: thermal_p20_24.png]
+
+[IMAGE: thermal_p20_30.png]
+
+[IMAGE: thermal_p20_36.png]
+
+[IMAGE: thermal_p20_42.png]
+
+[IMAGE: thermal_p20_48.png]
+
+[IMAGE: thermal_p20_54.png]
+
+[IMAGE: thermal_p20_60.png]
+
+[IMAGE: thermal_p20_66.png]
+
+[IMAGE: thermal_p20_72.png]
+
+[IMAGE: thermal_p20_78.png]
+
+[IMAGE: thermal_p20_84.png]
+
+[IMAGE: thermal_p20_90.png]
+
+[IMAGE: thermal_p20_97.png]
+
+[IMAGE: thermal_p20_104.png]
+
+[IMAGE: thermal_p20_110.png]
+
+[IMAGE: thermal_p20_111.png]
+
+[IMAGE: thermal_p20_117.png]
+
+[IMAGE: thermal_p20_123.png]
+
+[IMAGE: thermal_p20_130.png]
+
+[IMAGE: thermal_p20_136.png]
+
+[IMAGE: thermal_p20_144.png]
+
+[IMAGE: thermal_p20_150.png]
+
+[IMAGE: thermal_p20_156.png]
+
+[IMAGE: thermal_p20_162.png]
+
+[IMAGE: thermal_p20_168.png]
+
+[IMAGE: thermal_p20_174.png]
+
+[IMAGE: thermal_p20_180.png]
+
+Coldspot : 
+21.5 °C
+
+[IMAGE: thermal_p20_1.png]
+
+[IMAGE: thermal_p20_7.png]
+
+[IMAGE: thermal_p20_13.png]
+
+[IMAGE: thermal_p20_19.png]
+
+[IMAGE: thermal_p20_25.png]
+
+[IMAGE: thermal_p20_31.png]
+
+[IMAGE: thermal_p20_37.png]
+
+[IMAGE: thermal_p20_43.png]
+
+[IMAGE: thermal_p20_49.png]
+
+[IMAGE: thermal_p20_55.png]
+
+[IMAGE: thermal_p20_61.png]
+
+[IMAGE: thermal_p20_67.png]
+
+[IMAGE: thermal_p20_73.png]
+
+[IMAGE: thermal_p20_79.png]
+
+[IMAGE: thermal_p20_85.png]
+
+[IMAGE: thermal_p20_92.png]
+
+[IMAGE: thermal_p20_99.png]
+
+[IMAGE: thermal_p20_105.png]
+
+[IMAGE: thermal_p20_112.png]
+
+[IMAGE: thermal_p20_118.png]
+
+[IMAGE: thermal_p20_124.png]
+
+[IMAGE: thermal_p20_125.png]
+
+[IMAGE: thermal_p20_131.png]
+
+[IMAGE: thermal_p20_138.png]
+
+[IMAGE: thermal_p20_145.png]
+
+[IMAGE: thermal_p20_151.png]
+
+[IMAGE: thermal_p20_157.png]
+
+[IMAGE: thermal_p20_163.png]
+
+[IMAGE: thermal_p20_169.png]
+
+[IMAGE: thermal_p20_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.5 °C
+
+[IMAGE: thermal_p20_71.jpeg]
+
+20
+
+
+--- Page 21 ---
+[IMAGE: thermal_p21_4.jpeg]
+
+[IMAGE: thermal_p21_5.jpeg]
+
+[IMAGE: thermal_p21_10.jpeg]
+
+[IMAGE: thermal_p21_11.jpeg]
+
+[IMAGE: thermal_p21_16.jpeg]
+
+[IMAGE: thermal_p21_17.jpeg]
+
+[IMAGE: thermal_p21_22.jpeg]
+
+[IMAGE: thermal_p21_23.jpeg]
+
+[IMAGE: thermal_p21_28.jpeg]
+
+[IMAGE: thermal_p21_29.jpeg]
+
+[IMAGE: thermal_p21_34.jpeg]
+
+[IMAGE: thermal_p21_35.jpeg]
+
+[IMAGE: thermal_p21_40.jpeg]
+
+[IMAGE: thermal_p21_41.jpeg]
+
+[IMAGE: thermal_p21_46.jpeg]
+
+[IMAGE: thermal_p21_47.jpeg]
+
+[IMAGE: thermal_p21_52.jpeg]
+
+[IMAGE: thermal_p21_53.jpeg]
+
+[IMAGE: thermal_p21_58.jpeg]
+
+[IMAGE: thermal_p21_59.jpeg]
+
+[IMAGE: thermal_p21_64.jpeg]
+
+[IMAGE: thermal_p21_65.jpeg]
+
+[IMAGE: thermal_p21_70.jpeg]
+
+[IMAGE: thermal_p21_71.jpeg]
+
+[IMAGE: thermal_p21_88.jpeg]
+
+[IMAGE: thermal_p21_89.jpeg]
+
+[IMAGE: thermal_p21_91.jpeg]
+
+[IMAGE: thermal_p21_95.jpeg]
+
+[IMAGE: thermal_p21_96.jpeg]
+
+[IMAGE: thermal_p21_98.jpeg]
+
+[IMAGE: thermal_p21_102.jpeg]
+
+[IMAGE: thermal_p21_103.jpeg]
+
+[IMAGE: thermal_p21_108.jpeg]
+
+[IMAGE: thermal_p21_109.jpeg]
+
+[IMAGE: thermal_p21_115.jpeg]
+
+[IMAGE: thermal_p21_116.jpeg]
+
+[IMAGE: thermal_p21_121.jpeg]
+
+[IMAGE: thermal_p21_122.jpeg]
+
+[IMAGE: thermal_p21_128.jpeg]
+
+[IMAGE: thermal_p21_129.jpeg]
+
+[IMAGE: thermal_p21_134.jpeg]
+
+[IMAGE: thermal_p21_135.jpeg]
+
+[IMAGE: thermal_p21_142.jpeg]
+
+[IMAGE: thermal_p21_143.jpeg]
+
+[IMAGE: thermal_p21_148.jpeg]
+
+[IMAGE: thermal_p21_149.jpeg]
+
+[IMAGE: thermal_p21_154.jpeg]
+
+[IMAGE: thermal_p21_155.jpeg]
+
+[IMAGE: thermal_p21_160.jpeg]
+
+[IMAGE: thermal_p21_161.jpeg]
+
+[IMAGE: thermal_p21_166.jpeg]
+
+[IMAGE: thermal_p21_167.jpeg]
+
+[IMAGE: thermal_p21_172.jpeg]
+
+[IMAGE: thermal_p21_173.jpeg]
+
+[IMAGE: thermal_p21_178.jpeg]
+
+[IMAGE: thermal_p21_179.jpeg]
+
+Thermal image : RB02384X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+27.3 °C
+
+[IMAGE: thermal_p21_76.jpeg]
+
+[IMAGE: thermal_p21_82.jpeg]
+
+27/09/22
+
+Hotspot : 
+27.3 °C
+
+[IMAGE: thermal_p21_6.png]
+
+[IMAGE: thermal_p21_12.png]
+
+[IMAGE: thermal_p21_18.png]
+
+[IMAGE: thermal_p21_24.png]
+
+[IMAGE: thermal_p21_30.png]
+
+[IMAGE: thermal_p21_36.png]
+
+[IMAGE: thermal_p21_42.png]
+
+[IMAGE: thermal_p21_48.png]
+
+[IMAGE: thermal_p21_54.png]
+
+[IMAGE: thermal_p21_60.png]
+
+[IMAGE: thermal_p21_66.png]
+
+[IMAGE: thermal_p21_72.png]
+
+[IMAGE: thermal_p21_78.png]
+
+[IMAGE: thermal_p21_84.png]
+
+[IMAGE: thermal_p21_90.png]
+
+[IMAGE: thermal_p21_97.png]
+
+[IMAGE: thermal_p21_104.png]
+
+[IMAGE: thermal_p21_110.png]
+
+[IMAGE: thermal_p21_111.png]
+
+[IMAGE: thermal_p21_117.png]
+
+[IMAGE: thermal_p21_123.png]
+
+[IMAGE: thermal_p21_130.png]
+
+[IMAGE: thermal_p21_136.png]
+
+[IMAGE: thermal_p21_144.png]
+
+[IMAGE: thermal_p21_150.png]
+
+[IMAGE: thermal_p21_156.png]
+
+[IMAGE: thermal_p21_162.png]
+
+[IMAGE: thermal_p21_168.png]
+
+[IMAGE: thermal_p21_174.png]
+
+[IMAGE: thermal_p21_180.png]
+
+Coldspot : 
+22.3 °C
+
+[IMAGE: thermal_p21_1.png]
+
+[IMAGE: thermal_p21_7.png]
+
+[IMAGE: thermal_p21_13.png]
+
+[IMAGE: thermal_p21_19.png]
+
+[IMAGE: thermal_p21_25.png]
+
+[IMAGE: thermal_p21_31.png]
+
+[IMAGE: thermal_p21_37.png]
+
+[IMAGE: thermal_p21_43.png]
+
+[IMAGE: thermal_p21_49.png]
+
+[IMAGE: thermal_p21_55.png]
+
+[IMAGE: thermal_p21_61.png]
+
+[IMAGE: thermal_p21_67.png]
+
+[IMAGE: thermal_p21_73.png]
+
+[IMAGE: thermal_p21_79.png]
+
+[IMAGE: thermal_p21_85.png]
+
+[IMAGE: thermal_p21_92.png]
+
+[IMAGE: thermal_p21_99.png]
+
+[IMAGE: thermal_p21_105.png]
+
+[IMAGE: thermal_p21_112.png]
+
+[IMAGE: thermal_p21_118.png]
+
+[IMAGE: thermal_p21_124.png]
+
+[IMAGE: thermal_p21_125.png]
+
+[IMAGE: thermal_p21_131.png]
+
+[IMAGE: thermal_p21_138.png]
+
+[IMAGE: thermal_p21_145.png]
+
+[IMAGE: thermal_p21_151.png]
+
+[IMAGE: thermal_p21_157.png]
+
+[IMAGE: thermal_p21_163.png]
+
+[IMAGE: thermal_p21_169.png]
+
+[IMAGE: thermal_p21_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+22.3 °C
+
+[IMAGE: thermal_p21_77.jpeg]
+
+[IMAGE: thermal_p21_83.jpeg]
+
+21
+
+
+--- Page 22 ---
+[IMAGE: thermal_p22_4.jpeg]
+
+[IMAGE: thermal_p22_5.jpeg]
+
+[IMAGE: thermal_p22_10.jpeg]
+
+[IMAGE: thermal_p22_11.jpeg]
+
+[IMAGE: thermal_p22_16.jpeg]
+
+[IMAGE: thermal_p22_17.jpeg]
+
+[IMAGE: thermal_p22_22.jpeg]
+
+[IMAGE: thermal_p22_23.jpeg]
+
+[IMAGE: thermal_p22_28.jpeg]
+
+[IMAGE: thermal_p22_29.jpeg]
+
+[IMAGE: thermal_p22_34.jpeg]
+
+[IMAGE: thermal_p22_35.jpeg]
+
+[IMAGE: thermal_p22_40.jpeg]
+
+[IMAGE: thermal_p22_41.jpeg]
+
+[IMAGE: thermal_p22_46.jpeg]
+
+[IMAGE: thermal_p22_47.jpeg]
+
+[IMAGE: thermal_p22_52.jpeg]
+
+[IMAGE: thermal_p22_53.jpeg]
+
+[IMAGE: thermal_p22_58.jpeg]
+
+[IMAGE: thermal_p22_59.jpeg]
+
+[IMAGE: thermal_p22_64.jpeg]
+
+[IMAGE: thermal_p22_65.jpeg]
+
+[IMAGE: thermal_p22_70.jpeg]
+
+[IMAGE: thermal_p22_71.jpeg]
+
+[IMAGE: thermal_p22_88.jpeg]
+
+[IMAGE: thermal_p22_89.jpeg]
+
+[IMAGE: thermal_p22_91.jpeg]
+
+[IMAGE: thermal_p22_95.jpeg]
+
+[IMAGE: thermal_p22_96.jpeg]
+
+[IMAGE: thermal_p22_98.jpeg]
+
+[IMAGE: thermal_p22_102.jpeg]
+
+[IMAGE: thermal_p22_103.jpeg]
+
+[IMAGE: thermal_p22_108.jpeg]
+
+[IMAGE: thermal_p22_109.jpeg]
+
+[IMAGE: thermal_p22_115.jpeg]
+
+[IMAGE: thermal_p22_116.jpeg]
+
+[IMAGE: thermal_p22_121.jpeg]
+
+[IMAGE: thermal_p22_122.jpeg]
+
+[IMAGE: thermal_p22_128.jpeg]
+
+[IMAGE: thermal_p22_129.jpeg]
+
+[IMAGE: thermal_p22_134.jpeg]
+
+[IMAGE: thermal_p22_135.jpeg]
+
+[IMAGE: thermal_p22_142.jpeg]
+
+[IMAGE: thermal_p22_143.jpeg]
+
+[IMAGE: thermal_p22_148.jpeg]
+
+[IMAGE: thermal_p22_149.jpeg]
+
+[IMAGE: thermal_p22_154.jpeg]
+
+[IMAGE: thermal_p22_155.jpeg]
+
+[IMAGE: thermal_p22_160.jpeg]
+
+[IMAGE: thermal_p22_161.jpeg]
+
+[IMAGE: thermal_p22_166.jpeg]
+
+[IMAGE: thermal_p22_167.jpeg]
+
+[IMAGE: thermal_p22_172.jpeg]
+
+[IMAGE: thermal_p22_173.jpeg]
+
+[IMAGE: thermal_p22_178.jpeg]
+
+[IMAGE: thermal_p22_179.jpeg]
+
+Thermal image : RB02385X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+27.3 °C
+
+[IMAGE: thermal_p22_76.jpeg]
+
+[IMAGE: thermal_p22_82.jpeg]
+
+27/09/22
+
+Hotspot : 
+27.3 °C
+
+[IMAGE: thermal_p22_6.png]
+
+[IMAGE: thermal_p22_12.png]
+
+[IMAGE: thermal_p22_18.png]
+
+[IMAGE: thermal_p22_24.png]
+
+[IMAGE: thermal_p22_30.png]
+
+[IMAGE: thermal_p22_36.png]
+
+[IMAGE: thermal_p22_42.png]
+
+[IMAGE: thermal_p22_48.png]
+
+[IMAGE: thermal_p22_54.png]
+
+[IMAGE: thermal_p22_60.png]
+
+[IMAGE: thermal_p22_66.png]
+
+[IMAGE: thermal_p22_72.png]
+
+[IMAGE: thermal_p22_78.png]
+
+[IMAGE: thermal_p22_84.png]
+
+[IMAGE: thermal_p22_90.png]
+
+[IMAGE: thermal_p22_97.png]
+
+[IMAGE: thermal_p22_104.png]
+
+[IMAGE: thermal_p22_110.png]
+
+[IMAGE: thermal_p22_111.png]
+
+[IMAGE: thermal_p22_117.png]
+
+[IMAGE: thermal_p22_123.png]
+
+[IMAGE: thermal_p22_130.png]
+
+[IMAGE: thermal_p22_136.png]
+
+[IMAGE: thermal_p22_144.png]
+
+[IMAGE: thermal_p22_150.png]
+
+[IMAGE: thermal_p22_156.png]
+
+[IMAGE: thermal_p22_162.png]
+
+[IMAGE: thermal_p22_168.png]
+
+[IMAGE: thermal_p22_174.png]
+
+[IMAGE: thermal_p22_180.png]
+
+Coldspot : 
+22.3 °C
+
+[IMAGE: thermal_p22_1.png]
+
+[IMAGE: thermal_p22_7.png]
+
+[IMAGE: thermal_p22_13.png]
+
+[IMAGE: thermal_p22_19.png]
+
+[IMAGE: thermal_p22_25.png]
+
+[IMAGE: thermal_p22_31.png]
+
+[IMAGE: thermal_p22_37.png]
+
+[IMAGE: thermal_p22_43.png]
+
+[IMAGE: thermal_p22_49.png]
+
+[IMAGE: thermal_p22_55.png]
+
+[IMAGE: thermal_p22_61.png]
+
+[IMAGE: thermal_p22_67.png]
+
+[IMAGE: thermal_p22_73.png]
+
+[IMAGE: thermal_p22_79.png]
+
+[IMAGE: thermal_p22_85.png]
+
+[IMAGE: thermal_p22_92.png]
+
+[IMAGE: thermal_p22_99.png]
+
+[IMAGE: thermal_p22_105.png]
+
+[IMAGE: thermal_p22_112.png]
+
+[IMAGE: thermal_p22_118.png]
+
+[IMAGE: thermal_p22_124.png]
+
+[IMAGE: thermal_p22_125.png]
+
+[IMAGE: thermal_p22_131.png]
+
+[IMAGE: thermal_p22_138.png]
+
+[IMAGE: thermal_p22_145.png]
+
+[IMAGE: thermal_p22_151.png]
+
+[IMAGE: thermal_p22_157.png]
+
+[IMAGE: thermal_p22_163.png]
+
+[IMAGE: thermal_p22_169.png]
+
+[IMAGE: thermal_p22_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+22.3 °C
+
+[IMAGE: thermal_p22_77.jpeg]
+
+[IMAGE: thermal_p22_83.jpeg]
+
+22
+
+
+--- Page 23 ---
+[IMAGE: thermal_p23_4.jpeg]
+
+[IMAGE: thermal_p23_5.jpeg]
+
+[IMAGE: thermal_p23_10.jpeg]
+
+[IMAGE: thermal_p23_11.jpeg]
+
+[IMAGE: thermal_p23_16.jpeg]
+
+[IMAGE: thermal_p23_17.jpeg]
+
+[IMAGE: thermal_p23_22.jpeg]
+
+[IMAGE: thermal_p23_23.jpeg]
+
+[IMAGE: thermal_p23_28.jpeg]
+
+[IMAGE: thermal_p23_29.jpeg]
+
+[IMAGE: thermal_p23_34.jpeg]
+
+[IMAGE: thermal_p23_35.jpeg]
+
+[IMAGE: thermal_p23_40.jpeg]
+
+[IMAGE: thermal_p23_41.jpeg]
+
+[IMAGE: thermal_p23_46.jpeg]
+
+[IMAGE: thermal_p23_47.jpeg]
+
+[IMAGE: thermal_p23_52.jpeg]
+
+[IMAGE: thermal_p23_53.jpeg]
+
+[IMAGE: thermal_p23_58.jpeg]
+
+[IMAGE: thermal_p23_59.jpeg]
+
+[IMAGE: thermal_p23_64.jpeg]
+
+[IMAGE: thermal_p23_65.jpeg]
+
+[IMAGE: thermal_p23_70.jpeg]
+
+[IMAGE: thermal_p23_71.jpeg]
+
+[IMAGE: thermal_p23_76.jpeg]
+
+[IMAGE: thermal_p23_77.jpeg]
+
+[IMAGE: thermal_p23_82.jpeg]
+
+[IMAGE: thermal_p23_83.jpeg]
+
+[IMAGE: thermal_p23_91.jpeg]
+
+[IMAGE: thermal_p23_95.jpeg]
+
+[IMAGE: thermal_p23_96.jpeg]
+
+[IMAGE: thermal_p23_98.jpeg]
+
+[IMAGE: thermal_p23_102.jpeg]
+
+[IMAGE: thermal_p23_103.jpeg]
+
+[IMAGE: thermal_p23_108.jpeg]
+
+[IMAGE: thermal_p23_109.jpeg]
+
+[IMAGE: thermal_p23_115.jpeg]
+
+[IMAGE: thermal_p23_116.jpeg]
+
+[IMAGE: thermal_p23_121.jpeg]
+
+[IMAGE: thermal_p23_122.jpeg]
+
+[IMAGE: thermal_p23_128.jpeg]
+
+[IMAGE: thermal_p23_129.jpeg]
+
+[IMAGE: thermal_p23_134.jpeg]
+
+[IMAGE: thermal_p23_135.jpeg]
+
+[IMAGE: thermal_p23_142.jpeg]
+
+[IMAGE: thermal_p23_143.jpeg]
+
+[IMAGE: thermal_p23_148.jpeg]
+
+[IMAGE: thermal_p23_149.jpeg]
+
+[IMAGE: thermal_p23_154.jpeg]
+
+[IMAGE: thermal_p23_155.jpeg]
+
+[IMAGE: thermal_p23_160.jpeg]
+
+[IMAGE: thermal_p23_161.jpeg]
+
+[IMAGE: thermal_p23_166.jpeg]
+
+[IMAGE: thermal_p23_167.jpeg]
+
+[IMAGE: thermal_p23_172.jpeg]
+
+[IMAGE: thermal_p23_173.jpeg]
+
+[IMAGE: thermal_p23_178.jpeg]
+
+[IMAGE: thermal_p23_179.jpeg]
+
+Thermal image : RB02387X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.2 °C
+
+[IMAGE: thermal_p23_88.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.2 °C
+
+[IMAGE: thermal_p23_6.png]
+
+[IMAGE: thermal_p23_12.png]
+
+[IMAGE: thermal_p23_18.png]
+
+[IMAGE: thermal_p23_24.png]
+
+[IMAGE: thermal_p23_30.png]
+
+[IMAGE: thermal_p23_36.png]
+
+[IMAGE: thermal_p23_42.png]
+
+[IMAGE: thermal_p23_48.png]
+
+[IMAGE: thermal_p23_54.png]
+
+[IMAGE: thermal_p23_60.png]
+
+[IMAGE: thermal_p23_66.png]
+
+[IMAGE: thermal_p23_72.png]
+
+[IMAGE: thermal_p23_78.png]
+
+[IMAGE: thermal_p23_84.png]
+
+[IMAGE: thermal_p23_90.png]
+
+[IMAGE: thermal_p23_97.png]
+
+[IMAGE: thermal_p23_104.png]
+
+[IMAGE: thermal_p23_110.png]
+
+[IMAGE: thermal_p23_111.png]
+
+[IMAGE: thermal_p23_117.png]
+
+[IMAGE: thermal_p23_123.png]
+
+[IMAGE: thermal_p23_130.png]
+
+[IMAGE: thermal_p23_136.png]
+
+[IMAGE: thermal_p23_144.png]
+
+[IMAGE: thermal_p23_150.png]
+
+[IMAGE: thermal_p23_156.png]
+
+[IMAGE: thermal_p23_162.png]
+
+[IMAGE: thermal_p23_168.png]
+
+[IMAGE: thermal_p23_174.png]
+
+[IMAGE: thermal_p23_180.png]
+
+Coldspot : 
+20.2 °C
+
+[IMAGE: thermal_p23_1.png]
+
+[IMAGE: thermal_p23_7.png]
+
+[IMAGE: thermal_p23_13.png]
+
+[IMAGE: thermal_p23_19.png]
+
+[IMAGE: thermal_p23_25.png]
+
+[IMAGE: thermal_p23_31.png]
+
+[IMAGE: thermal_p23_37.png]
+
+[IMAGE: thermal_p23_43.png]
+
+[IMAGE: thermal_p23_49.png]
+
+[IMAGE: thermal_p23_55.png]
+
+[IMAGE: thermal_p23_61.png]
+
+[IMAGE: thermal_p23_67.png]
+
+[IMAGE: thermal_p23_73.png]
+
+[IMAGE: thermal_p23_79.png]
+
+[IMAGE: thermal_p23_85.png]
+
+[IMAGE: thermal_p23_92.png]
+
+[IMAGE: thermal_p23_99.png]
+
+[IMAGE: thermal_p23_105.png]
+
+[IMAGE: thermal_p23_112.png]
+
+[IMAGE: thermal_p23_118.png]
+
+[IMAGE: thermal_p23_124.png]
+
+[IMAGE: thermal_p23_125.png]
+
+[IMAGE: thermal_p23_131.png]
+
+[IMAGE: thermal_p23_138.png]
+
+[IMAGE: thermal_p23_145.png]
+
+[IMAGE: thermal_p23_151.png]
+
+[IMAGE: thermal_p23_157.png]
+
+[IMAGE: thermal_p23_163.png]
+
+[IMAGE: thermal_p23_169.png]
+
+[IMAGE: thermal_p23_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.2 °C
+
+[IMAGE: thermal_p23_89.jpeg]
+
+23
+
+
+--- Page 24 ---
+[IMAGE: thermal_p24_4.jpeg]
+
+[IMAGE: thermal_p24_5.jpeg]
+
+[IMAGE: thermal_p24_10.jpeg]
+
+[IMAGE: thermal_p24_11.jpeg]
+
+[IMAGE: thermal_p24_16.jpeg]
+
+[IMAGE: thermal_p24_17.jpeg]
+
+[IMAGE: thermal_p24_22.jpeg]
+
+[IMAGE: thermal_p24_23.jpeg]
+
+[IMAGE: thermal_p24_28.jpeg]
+
+[IMAGE: thermal_p24_29.jpeg]
+
+[IMAGE: thermal_p24_34.jpeg]
+
+[IMAGE: thermal_p24_35.jpeg]
+
+[IMAGE: thermal_p24_40.jpeg]
+
+[IMAGE: thermal_p24_41.jpeg]
+
+[IMAGE: thermal_p24_46.jpeg]
+
+[IMAGE: thermal_p24_47.jpeg]
+
+[IMAGE: thermal_p24_52.jpeg]
+
+[IMAGE: thermal_p24_53.jpeg]
+
+[IMAGE: thermal_p24_58.jpeg]
+
+[IMAGE: thermal_p24_59.jpeg]
+
+[IMAGE: thermal_p24_64.jpeg]
+
+[IMAGE: thermal_p24_65.jpeg]
+
+[IMAGE: thermal_p24_70.jpeg]
+
+[IMAGE: thermal_p24_71.jpeg]
+
+[IMAGE: thermal_p24_76.jpeg]
+
+[IMAGE: thermal_p24_77.jpeg]
+
+[IMAGE: thermal_p24_82.jpeg]
+
+[IMAGE: thermal_p24_83.jpeg]
+
+[IMAGE: thermal_p24_88.jpeg]
+
+[IMAGE: thermal_p24_89.jpeg]
+
+[IMAGE: thermal_p24_91.jpeg]
+
+[IMAGE: thermal_p24_98.jpeg]
+
+[IMAGE: thermal_p24_102.jpeg]
+
+[IMAGE: thermal_p24_103.jpeg]
+
+[IMAGE: thermal_p24_108.jpeg]
+
+[IMAGE: thermal_p24_109.jpeg]
+
+[IMAGE: thermal_p24_115.jpeg]
+
+[IMAGE: thermal_p24_116.jpeg]
+
+[IMAGE: thermal_p24_121.jpeg]
+
+[IMAGE: thermal_p24_122.jpeg]
+
+[IMAGE: thermal_p24_128.jpeg]
+
+[IMAGE: thermal_p24_129.jpeg]
+
+[IMAGE: thermal_p24_134.jpeg]
+
+[IMAGE: thermal_p24_135.jpeg]
+
+[IMAGE: thermal_p24_142.jpeg]
+
+[IMAGE: thermal_p24_143.jpeg]
+
+[IMAGE: thermal_p24_148.jpeg]
+
+[IMAGE: thermal_p24_149.jpeg]
+
+[IMAGE: thermal_p24_154.jpeg]
+
+[IMAGE: thermal_p24_155.jpeg]
+
+[IMAGE: thermal_p24_160.jpeg]
+
+[IMAGE: thermal_p24_161.jpeg]
+
+[IMAGE: thermal_p24_166.jpeg]
+
+[IMAGE: thermal_p24_167.jpeg]
+
+[IMAGE: thermal_p24_172.jpeg]
+
+[IMAGE: thermal_p24_173.jpeg]
+
+[IMAGE: thermal_p24_178.jpeg]
+
+[IMAGE: thermal_p24_179.jpeg]
+
+Thermal image : RB02388X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.1 °C
+
+[IMAGE: thermal_p24_95.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.1 °C
+
+[IMAGE: thermal_p24_6.png]
+
+[IMAGE: thermal_p24_12.png]
+
+[IMAGE: thermal_p24_18.png]
+
+[IMAGE: thermal_p24_24.png]
+
+[IMAGE: thermal_p24_30.png]
+
+[IMAGE: thermal_p24_36.png]
+
+[IMAGE: thermal_p24_42.png]
+
+[IMAGE: thermal_p24_48.png]
+
+[IMAGE: thermal_p24_54.png]
+
+[IMAGE: thermal_p24_60.png]
+
+[IMAGE: thermal_p24_66.png]
+
+[IMAGE: thermal_p24_72.png]
+
+[IMAGE: thermal_p24_78.png]
+
+[IMAGE: thermal_p24_84.png]
+
+[IMAGE: thermal_p24_90.png]
+
+[IMAGE: thermal_p24_97.png]
+
+[IMAGE: thermal_p24_104.png]
+
+[IMAGE: thermal_p24_110.png]
+
+[IMAGE: thermal_p24_111.png]
+
+[IMAGE: thermal_p24_117.png]
+
+[IMAGE: thermal_p24_123.png]
+
+[IMAGE: thermal_p24_130.png]
+
+[IMAGE: thermal_p24_136.png]
+
+[IMAGE: thermal_p24_144.png]
+
+[IMAGE: thermal_p24_150.png]
+
+[IMAGE: thermal_p24_156.png]
+
+[IMAGE: thermal_p24_162.png]
+
+[IMAGE: thermal_p24_168.png]
+
+[IMAGE: thermal_p24_174.png]
+
+[IMAGE: thermal_p24_180.png]
+
+Coldspot : 
+20.1 °C
+
+[IMAGE: thermal_p24_1.png]
+
+[IMAGE: thermal_p24_7.png]
+
+[IMAGE: thermal_p24_13.png]
+
+[IMAGE: thermal_p24_19.png]
+
+[IMAGE: thermal_p24_25.png]
+
+[IMAGE: thermal_p24_31.png]
+
+[IMAGE: thermal_p24_37.png]
+
+[IMAGE: thermal_p24_43.png]
+
+[IMAGE: thermal_p24_49.png]
+
+[IMAGE: thermal_p24_55.png]
+
+[IMAGE: thermal_p24_61.png]
+
+[IMAGE: thermal_p24_67.png]
+
+[IMAGE: thermal_p24_73.png]
+
+[IMAGE: thermal_p24_79.png]
+
+[IMAGE: thermal_p24_85.png]
+
+[IMAGE: thermal_p24_92.png]
+
+[IMAGE: thermal_p24_99.png]
+
+[IMAGE: thermal_p24_105.png]
+
+[IMAGE: thermal_p24_112.png]
+
+[IMAGE: thermal_p24_118.png]
+
+[IMAGE: thermal_p24_124.png]
+
+[IMAGE: thermal_p24_125.png]
+
+[IMAGE: thermal_p24_131.png]
+
+[IMAGE: thermal_p24_138.png]
+
+[IMAGE: thermal_p24_145.png]
+
+[IMAGE: thermal_p24_151.png]
+
+[IMAGE: thermal_p24_157.png]
+
+[IMAGE: thermal_p24_163.png]
+
+[IMAGE: thermal_p24_169.png]
+
+[IMAGE: thermal_p24_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.1 °C
+
+[IMAGE: thermal_p24_96.jpeg]
+
+24
+
+
+--- Page 25 ---
+[IMAGE: thermal_p25_4.jpeg]
+
+[IMAGE: thermal_p25_5.jpeg]
+
+[IMAGE: thermal_p25_10.jpeg]
+
+[IMAGE: thermal_p25_11.jpeg]
+
+[IMAGE: thermal_p25_16.jpeg]
+
+[IMAGE: thermal_p25_17.jpeg]
+
+[IMAGE: thermal_p25_22.jpeg]
+
+[IMAGE: thermal_p25_23.jpeg]
+
+[IMAGE: thermal_p25_28.jpeg]
+
+[IMAGE: thermal_p25_29.jpeg]
+
+[IMAGE: thermal_p25_34.jpeg]
+
+[IMAGE: thermal_p25_35.jpeg]
+
+[IMAGE: thermal_p25_40.jpeg]
+
+[IMAGE: thermal_p25_41.jpeg]
+
+[IMAGE: thermal_p25_46.jpeg]
+
+[IMAGE: thermal_p25_47.jpeg]
+
+[IMAGE: thermal_p25_52.jpeg]
+
+[IMAGE: thermal_p25_53.jpeg]
+
+[IMAGE: thermal_p25_58.jpeg]
+
+[IMAGE: thermal_p25_59.jpeg]
+
+[IMAGE: thermal_p25_64.jpeg]
+
+[IMAGE: thermal_p25_65.jpeg]
+
+[IMAGE: thermal_p25_70.jpeg]
+
+[IMAGE: thermal_p25_71.jpeg]
+
+[IMAGE: thermal_p25_76.jpeg]
+
+[IMAGE: thermal_p25_77.jpeg]
+
+[IMAGE: thermal_p25_82.jpeg]
+
+[IMAGE: thermal_p25_83.jpeg]
+
+[IMAGE: thermal_p25_88.jpeg]
+
+[IMAGE: thermal_p25_89.jpeg]
+
+[IMAGE: thermal_p25_91.jpeg]
+
+[IMAGE: thermal_p25_95.jpeg]
+
+[IMAGE: thermal_p25_96.jpeg]
+
+[IMAGE: thermal_p25_98.jpeg]
+
+[IMAGE: thermal_p25_108.jpeg]
+
+[IMAGE: thermal_p25_109.jpeg]
+
+[IMAGE: thermal_p25_115.jpeg]
+
+[IMAGE: thermal_p25_116.jpeg]
+
+[IMAGE: thermal_p25_121.jpeg]
+
+[IMAGE: thermal_p25_122.jpeg]
+
+[IMAGE: thermal_p25_128.jpeg]
+
+[IMAGE: thermal_p25_129.jpeg]
+
+[IMAGE: thermal_p25_134.jpeg]
+
+[IMAGE: thermal_p25_135.jpeg]
+
+[IMAGE: thermal_p25_142.jpeg]
+
+[IMAGE: thermal_p25_143.jpeg]
+
+[IMAGE: thermal_p25_148.jpeg]
+
+[IMAGE: thermal_p25_149.jpeg]
+
+[IMAGE: thermal_p25_154.jpeg]
+
+[IMAGE: thermal_p25_155.jpeg]
+
+[IMAGE: thermal_p25_160.jpeg]
+
+[IMAGE: thermal_p25_161.jpeg]
+
+[IMAGE: thermal_p25_166.jpeg]
+
+[IMAGE: thermal_p25_167.jpeg]
+
+[IMAGE: thermal_p25_172.jpeg]
+
+[IMAGE: thermal_p25_173.jpeg]
+
+[IMAGE: thermal_p25_178.jpeg]
+
+[IMAGE: thermal_p25_179.jpeg]
+
+Thermal image : RB02389X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.9 °C
+
+[IMAGE: thermal_p25_102.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.9 °C
+
+[IMAGE: thermal_p25_6.png]
+
+[IMAGE: thermal_p25_12.png]
+
+[IMAGE: thermal_p25_18.png]
+
+[IMAGE: thermal_p25_24.png]
+
+[IMAGE: thermal_p25_30.png]
+
+[IMAGE: thermal_p25_36.png]
+
+[IMAGE: thermal_p25_42.png]
+
+[IMAGE: thermal_p25_48.png]
+
+[IMAGE: thermal_p25_54.png]
+
+[IMAGE: thermal_p25_60.png]
+
+[IMAGE: thermal_p25_66.png]
+
+[IMAGE: thermal_p25_72.png]
+
+[IMAGE: thermal_p25_78.png]
+
+[IMAGE: thermal_p25_84.png]
+
+[IMAGE: thermal_p25_90.png]
+
+[IMAGE: thermal_p25_97.png]
+
+[IMAGE: thermal_p25_104.png]
+
+[IMAGE: thermal_p25_110.png]
+
+[IMAGE: thermal_p25_111.png]
+
+[IMAGE: thermal_p25_117.png]
+
+[IMAGE: thermal_p25_123.png]
+
+[IMAGE: thermal_p25_130.png]
+
+[IMAGE: thermal_p25_136.png]
+
+[IMAGE: thermal_p25_144.png]
+
+[IMAGE: thermal_p25_150.png]
+
+[IMAGE: thermal_p25_156.png]
+
+[IMAGE: thermal_p25_162.png]
+
+[IMAGE: thermal_p25_168.png]
+
+[IMAGE: thermal_p25_174.png]
+
+[IMAGE: thermal_p25_180.png]
+
+Coldspot : 
+20.9 °C
+
+[IMAGE: thermal_p25_1.png]
+
+[IMAGE: thermal_p25_7.png]
+
+[IMAGE: thermal_p25_13.png]
+
+[IMAGE: thermal_p25_19.png]
+
+[IMAGE: thermal_p25_25.png]
+
+[IMAGE: thermal_p25_31.png]
+
+[IMAGE: thermal_p25_37.png]
+
+[IMAGE: thermal_p25_43.png]
+
+[IMAGE: thermal_p25_49.png]
+
+[IMAGE: thermal_p25_55.png]
+
+[IMAGE: thermal_p25_61.png]
+
+[IMAGE: thermal_p25_67.png]
+
+[IMAGE: thermal_p25_73.png]
+
+[IMAGE: thermal_p25_79.png]
+
+[IMAGE: thermal_p25_85.png]
+
+[IMAGE: thermal_p25_92.png]
+
+[IMAGE: thermal_p25_99.png]
+
+[IMAGE: thermal_p25_105.png]
+
+[IMAGE: thermal_p25_112.png]
+
+[IMAGE: thermal_p25_118.png]
+
+[IMAGE: thermal_p25_124.png]
+
+[IMAGE: thermal_p25_125.png]
+
+[IMAGE: thermal_p25_131.png]
+
+[IMAGE: thermal_p25_138.png]
+
+[IMAGE: thermal_p25_145.png]
+
+[IMAGE: thermal_p25_151.png]
+
+[IMAGE: thermal_p25_157.png]
+
+[IMAGE: thermal_p25_163.png]
+
+[IMAGE: thermal_p25_169.png]
+
+[IMAGE: thermal_p25_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.9 °C
+
+[IMAGE: thermal_p25_103.jpeg]
+
+25
+
+
+--- Page 26 ---
+[IMAGE: thermal_p26_4.jpeg]
+
+[IMAGE: thermal_p26_5.jpeg]
+
+[IMAGE: thermal_p26_10.jpeg]
+
+[IMAGE: thermal_p26_11.jpeg]
+
+[IMAGE: thermal_p26_16.jpeg]
+
+[IMAGE: thermal_p26_17.jpeg]
+
+[IMAGE: thermal_p26_22.jpeg]
+
+[IMAGE: thermal_p26_23.jpeg]
+
+[IMAGE: thermal_p26_28.jpeg]
+
+[IMAGE: thermal_p26_29.jpeg]
+
+[IMAGE: thermal_p26_34.jpeg]
+
+[IMAGE: thermal_p26_35.jpeg]
+
+[IMAGE: thermal_p26_40.jpeg]
+
+[IMAGE: thermal_p26_41.jpeg]
+
+[IMAGE: thermal_p26_46.jpeg]
+
+[IMAGE: thermal_p26_47.jpeg]
+
+[IMAGE: thermal_p26_52.jpeg]
+
+[IMAGE: thermal_p26_53.jpeg]
+
+[IMAGE: thermal_p26_58.jpeg]
+
+[IMAGE: thermal_p26_59.jpeg]
+
+[IMAGE: thermal_p26_64.jpeg]
+
+[IMAGE: thermal_p26_65.jpeg]
+
+[IMAGE: thermal_p26_70.jpeg]
+
+[IMAGE: thermal_p26_71.jpeg]
+
+[IMAGE: thermal_p26_76.jpeg]
+
+[IMAGE: thermal_p26_77.jpeg]
+
+[IMAGE: thermal_p26_82.jpeg]
+
+[IMAGE: thermal_p26_83.jpeg]
+
+[IMAGE: thermal_p26_88.jpeg]
+
+[IMAGE: thermal_p26_89.jpeg]
+
+[IMAGE: thermal_p26_91.jpeg]
+
+[IMAGE: thermal_p26_95.jpeg]
+
+[IMAGE: thermal_p26_96.jpeg]
+
+[IMAGE: thermal_p26_98.jpeg]
+
+[IMAGE: thermal_p26_102.jpeg]
+
+[IMAGE: thermal_p26_103.jpeg]
+
+[IMAGE: thermal_p26_115.jpeg]
+
+[IMAGE: thermal_p26_116.jpeg]
+
+[IMAGE: thermal_p26_121.jpeg]
+
+[IMAGE: thermal_p26_122.jpeg]
+
+[IMAGE: thermal_p26_128.jpeg]
+
+[IMAGE: thermal_p26_129.jpeg]
+
+[IMAGE: thermal_p26_134.jpeg]
+
+[IMAGE: thermal_p26_135.jpeg]
+
+[IMAGE: thermal_p26_142.jpeg]
+
+[IMAGE: thermal_p26_143.jpeg]
+
+[IMAGE: thermal_p26_148.jpeg]
+
+[IMAGE: thermal_p26_149.jpeg]
+
+[IMAGE: thermal_p26_154.jpeg]
+
+[IMAGE: thermal_p26_155.jpeg]
+
+[IMAGE: thermal_p26_160.jpeg]
+
+[IMAGE: thermal_p26_161.jpeg]
+
+[IMAGE: thermal_p26_166.jpeg]
+
+[IMAGE: thermal_p26_167.jpeg]
+
+[IMAGE: thermal_p26_172.jpeg]
+
+[IMAGE: thermal_p26_173.jpeg]
+
+[IMAGE: thermal_p26_178.jpeg]
+
+[IMAGE: thermal_p26_179.jpeg]
+
+Thermal image : RB02390X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.9 °C
+
+[IMAGE: thermal_p26_108.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.9 °C
+
+[IMAGE: thermal_p26_6.png]
+
+[IMAGE: thermal_p26_12.png]
+
+[IMAGE: thermal_p26_18.png]
+
+[IMAGE: thermal_p26_24.png]
+
+[IMAGE: thermal_p26_30.png]
+
+[IMAGE: thermal_p26_36.png]
+
+[IMAGE: thermal_p26_42.png]
+
+[IMAGE: thermal_p26_48.png]
+
+[IMAGE: thermal_p26_54.png]
+
+[IMAGE: thermal_p26_60.png]
+
+[IMAGE: thermal_p26_66.png]
+
+[IMAGE: thermal_p26_72.png]
+
+[IMAGE: thermal_p26_78.png]
+
+[IMAGE: thermal_p26_84.png]
+
+[IMAGE: thermal_p26_90.png]
+
+[IMAGE: thermal_p26_97.png]
+
+[IMAGE: thermal_p26_104.png]
+
+[IMAGE: thermal_p26_110.png]
+
+[IMAGE: thermal_p26_111.png]
+
+[IMAGE: thermal_p26_117.png]
+
+[IMAGE: thermal_p26_123.png]
+
+[IMAGE: thermal_p26_130.png]
+
+[IMAGE: thermal_p26_136.png]
+
+[IMAGE: thermal_p26_144.png]
+
+[IMAGE: thermal_p26_150.png]
+
+[IMAGE: thermal_p26_156.png]
+
+[IMAGE: thermal_p26_162.png]
+
+[IMAGE: thermal_p26_168.png]
+
+[IMAGE: thermal_p26_174.png]
+
+[IMAGE: thermal_p26_180.png]
+
+Coldspot : 
+21.9 °C
+
+[IMAGE: thermal_p26_1.png]
+
+[IMAGE: thermal_p26_7.png]
+
+[IMAGE: thermal_p26_13.png]
+
+[IMAGE: thermal_p26_19.png]
+
+[IMAGE: thermal_p26_25.png]
+
+[IMAGE: thermal_p26_31.png]
+
+[IMAGE: thermal_p26_37.png]
+
+[IMAGE: thermal_p26_43.png]
+
+[IMAGE: thermal_p26_49.png]
+
+[IMAGE: thermal_p26_55.png]
+
+[IMAGE: thermal_p26_61.png]
+
+[IMAGE: thermal_p26_67.png]
+
+[IMAGE: thermal_p26_73.png]
+
+[IMAGE: thermal_p26_79.png]
+
+[IMAGE: thermal_p26_85.png]
+
+[IMAGE: thermal_p26_92.png]
+
+[IMAGE: thermal_p26_99.png]
+
+[IMAGE: thermal_p26_105.png]
+
+[IMAGE: thermal_p26_112.png]
+
+[IMAGE: thermal_p26_118.png]
+
+[IMAGE: thermal_p26_124.png]
+
+[IMAGE: thermal_p26_125.png]
+
+[IMAGE: thermal_p26_131.png]
+
+[IMAGE: thermal_p26_138.png]
+
+[IMAGE: thermal_p26_145.png]
+
+[IMAGE: thermal_p26_151.png]
+
+[IMAGE: thermal_p26_157.png]
+
+[IMAGE: thermal_p26_163.png]
+
+[IMAGE: thermal_p26_169.png]
+
+[IMAGE: thermal_p26_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.9 °C
+
+[IMAGE: thermal_p26_109.jpeg]
+
+26
+
+
+--- Page 27 ---
+[IMAGE: thermal_p27_4.jpeg]
+
+[IMAGE: thermal_p27_5.jpeg]
+
+[IMAGE: thermal_p27_10.jpeg]
+
+[IMAGE: thermal_p27_11.jpeg]
+
+[IMAGE: thermal_p27_16.jpeg]
+
+[IMAGE: thermal_p27_17.jpeg]
+
+[IMAGE: thermal_p27_22.jpeg]
+
+[IMAGE: thermal_p27_23.jpeg]
+
+[IMAGE: thermal_p27_28.jpeg]
+
+[IMAGE: thermal_p27_29.jpeg]
+
+[IMAGE: thermal_p27_34.jpeg]
+
+[IMAGE: thermal_p27_35.jpeg]
+
+[IMAGE: thermal_p27_40.jpeg]
+
+[IMAGE: thermal_p27_41.jpeg]
+
+[IMAGE: thermal_p27_46.jpeg]
+
+[IMAGE: thermal_p27_47.jpeg]
+
+[IMAGE: thermal_p27_52.jpeg]
+
+[IMAGE: thermal_p27_53.jpeg]
+
+[IMAGE: thermal_p27_58.jpeg]
+
+[IMAGE: thermal_p27_59.jpeg]
+
+[IMAGE: thermal_p27_64.jpeg]
+
+[IMAGE: thermal_p27_65.jpeg]
+
+[IMAGE: thermal_p27_70.jpeg]
+
+[IMAGE: thermal_p27_71.jpeg]
+
+[IMAGE: thermal_p27_76.jpeg]
+
+[IMAGE: thermal_p27_77.jpeg]
+
+[IMAGE: thermal_p27_82.jpeg]
+
+[IMAGE: thermal_p27_83.jpeg]
+
+[IMAGE: thermal_p27_88.jpeg]
+
+[IMAGE: thermal_p27_89.jpeg]
+
+[IMAGE: thermal_p27_91.jpeg]
+
+[IMAGE: thermal_p27_95.jpeg]
+
+[IMAGE: thermal_p27_96.jpeg]
+
+[IMAGE: thermal_p27_98.jpeg]
+
+[IMAGE: thermal_p27_102.jpeg]
+
+[IMAGE: thermal_p27_103.jpeg]
+
+[IMAGE: thermal_p27_108.jpeg]
+
+[IMAGE: thermal_p27_109.jpeg]
+
+[IMAGE: thermal_p27_121.jpeg]
+
+[IMAGE: thermal_p27_122.jpeg]
+
+[IMAGE: thermal_p27_128.jpeg]
+
+[IMAGE: thermal_p27_129.jpeg]
+
+[IMAGE: thermal_p27_134.jpeg]
+
+[IMAGE: thermal_p27_135.jpeg]
+
+[IMAGE: thermal_p27_142.jpeg]
+
+[IMAGE: thermal_p27_143.jpeg]
+
+[IMAGE: thermal_p27_148.jpeg]
+
+[IMAGE: thermal_p27_149.jpeg]
+
+[IMAGE: thermal_p27_154.jpeg]
+
+[IMAGE: thermal_p27_155.jpeg]
+
+[IMAGE: thermal_p27_160.jpeg]
+
+[IMAGE: thermal_p27_161.jpeg]
+
+[IMAGE: thermal_p27_166.jpeg]
+
+[IMAGE: thermal_p27_167.jpeg]
+
+[IMAGE: thermal_p27_172.jpeg]
+
+[IMAGE: thermal_p27_173.jpeg]
+
+[IMAGE: thermal_p27_178.jpeg]
+
+[IMAGE: thermal_p27_179.jpeg]
+
+Thermal image : RB02391X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+25.6 °C
+
+[IMAGE: thermal_p27_115.jpeg]
+
+27/09/22
+
+Hotspot : 
+25.6 °C
+
+[IMAGE: thermal_p27_6.png]
+
+[IMAGE: thermal_p27_12.png]
+
+[IMAGE: thermal_p27_18.png]
+
+[IMAGE: thermal_p27_24.png]
+
+[IMAGE: thermal_p27_30.png]
+
+[IMAGE: thermal_p27_36.png]
+
+[IMAGE: thermal_p27_42.png]
+
+[IMAGE: thermal_p27_48.png]
+
+[IMAGE: thermal_p27_54.png]
+
+[IMAGE: thermal_p27_60.png]
+
+[IMAGE: thermal_p27_66.png]
+
+[IMAGE: thermal_p27_72.png]
+
+[IMAGE: thermal_p27_78.png]
+
+[IMAGE: thermal_p27_84.png]
+
+[IMAGE: thermal_p27_90.png]
+
+[IMAGE: thermal_p27_97.png]
+
+[IMAGE: thermal_p27_104.png]
+
+[IMAGE: thermal_p27_110.png]
+
+[IMAGE: thermal_p27_111.png]
+
+[IMAGE: thermal_p27_117.png]
+
+[IMAGE: thermal_p27_123.png]
+
+[IMAGE: thermal_p27_130.png]
+
+[IMAGE: thermal_p27_136.png]
+
+[IMAGE: thermal_p27_144.png]
+
+[IMAGE: thermal_p27_150.png]
+
+[IMAGE: thermal_p27_156.png]
+
+[IMAGE: thermal_p27_162.png]
+
+[IMAGE: thermal_p27_168.png]
+
+[IMAGE: thermal_p27_174.png]
+
+[IMAGE: thermal_p27_180.png]
+
+Coldspot : 
+20.6 °C
+
+[IMAGE: thermal_p27_1.png]
+
+[IMAGE: thermal_p27_7.png]
+
+[IMAGE: thermal_p27_13.png]
+
+[IMAGE: thermal_p27_19.png]
+
+[IMAGE: thermal_p27_25.png]
+
+[IMAGE: thermal_p27_31.png]
+
+[IMAGE: thermal_p27_37.png]
+
+[IMAGE: thermal_p27_43.png]
+
+[IMAGE: thermal_p27_49.png]
+
+[IMAGE: thermal_p27_55.png]
+
+[IMAGE: thermal_p27_61.png]
+
+[IMAGE: thermal_p27_67.png]
+
+[IMAGE: thermal_p27_73.png]
+
+[IMAGE: thermal_p27_79.png]
+
+[IMAGE: thermal_p27_85.png]
+
+[IMAGE: thermal_p27_92.png]
+
+[IMAGE: thermal_p27_99.png]
+
+[IMAGE: thermal_p27_105.png]
+
+[IMAGE: thermal_p27_112.png]
+
+[IMAGE: thermal_p27_118.png]
+
+[IMAGE: thermal_p27_124.png]
+
+[IMAGE: thermal_p27_125.png]
+
+[IMAGE: thermal_p27_131.png]
+
+[IMAGE: thermal_p27_138.png]
+
+[IMAGE: thermal_p27_145.png]
+
+[IMAGE: thermal_p27_151.png]
+
+[IMAGE: thermal_p27_157.png]
+
+[IMAGE: thermal_p27_163.png]
+
+[IMAGE: thermal_p27_169.png]
+
+[IMAGE: thermal_p27_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+20.6 °C
+
+[IMAGE: thermal_p27_116.jpeg]
+
+27
+
+
+--- Page 28 ---
+[IMAGE: thermal_p28_4.jpeg]
+
+[IMAGE: thermal_p28_5.jpeg]
+
+[IMAGE: thermal_p28_10.jpeg]
+
+[IMAGE: thermal_p28_11.jpeg]
+
+[IMAGE: thermal_p28_16.jpeg]
+
+[IMAGE: thermal_p28_17.jpeg]
+
+[IMAGE: thermal_p28_22.jpeg]
+
+[IMAGE: thermal_p28_23.jpeg]
+
+[IMAGE: thermal_p28_28.jpeg]
+
+[IMAGE: thermal_p28_29.jpeg]
+
+[IMAGE: thermal_p28_34.jpeg]
+
+[IMAGE: thermal_p28_35.jpeg]
+
+[IMAGE: thermal_p28_40.jpeg]
+
+[IMAGE: thermal_p28_41.jpeg]
+
+[IMAGE: thermal_p28_46.jpeg]
+
+[IMAGE: thermal_p28_47.jpeg]
+
+[IMAGE: thermal_p28_52.jpeg]
+
+[IMAGE: thermal_p28_53.jpeg]
+
+[IMAGE: thermal_p28_58.jpeg]
+
+[IMAGE: thermal_p28_59.jpeg]
+
+[IMAGE: thermal_p28_64.jpeg]
+
+[IMAGE: thermal_p28_65.jpeg]
+
+[IMAGE: thermal_p28_70.jpeg]
+
+[IMAGE: thermal_p28_71.jpeg]
+
+[IMAGE: thermal_p28_76.jpeg]
+
+[IMAGE: thermal_p28_77.jpeg]
+
+[IMAGE: thermal_p28_82.jpeg]
+
+[IMAGE: thermal_p28_83.jpeg]
+
+[IMAGE: thermal_p28_88.jpeg]
+
+[IMAGE: thermal_p28_89.jpeg]
+
+[IMAGE: thermal_p28_91.jpeg]
+
+[IMAGE: thermal_p28_95.jpeg]
+
+[IMAGE: thermal_p28_96.jpeg]
+
+[IMAGE: thermal_p28_98.jpeg]
+
+[IMAGE: thermal_p28_102.jpeg]
+
+[IMAGE: thermal_p28_103.jpeg]
+
+[IMAGE: thermal_p28_108.jpeg]
+
+[IMAGE: thermal_p28_109.jpeg]
+
+[IMAGE: thermal_p28_115.jpeg]
+
+[IMAGE: thermal_p28_116.jpeg]
+
+[IMAGE: thermal_p28_128.jpeg]
+
+[IMAGE: thermal_p28_129.jpeg]
+
+[IMAGE: thermal_p28_134.jpeg]
+
+[IMAGE: thermal_p28_135.jpeg]
+
+[IMAGE: thermal_p28_142.jpeg]
+
+[IMAGE: thermal_p28_143.jpeg]
+
+[IMAGE: thermal_p28_148.jpeg]
+
+[IMAGE: thermal_p28_149.jpeg]
+
+[IMAGE: thermal_p28_154.jpeg]
+
+[IMAGE: thermal_p28_155.jpeg]
+
+[IMAGE: thermal_p28_160.jpeg]
+
+[IMAGE: thermal_p28_161.jpeg]
+
+[IMAGE: thermal_p28_166.jpeg]
+
+[IMAGE: thermal_p28_167.jpeg]
+
+[IMAGE: thermal_p28_172.jpeg]
+
+[IMAGE: thermal_p28_173.jpeg]
+
+[IMAGE: thermal_p28_178.jpeg]
+
+[IMAGE: thermal_p28_179.jpeg]
+
+Thermal image : RB02377X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.9 °C
+
+[IMAGE: thermal_p28_121.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.9 °C
+
+[IMAGE: thermal_p28_6.png]
+
+[IMAGE: thermal_p28_12.png]
+
+[IMAGE: thermal_p28_18.png]
+
+[IMAGE: thermal_p28_24.png]
+
+[IMAGE: thermal_p28_30.png]
+
+[IMAGE: thermal_p28_36.png]
+
+[IMAGE: thermal_p28_42.png]
+
+[IMAGE: thermal_p28_48.png]
+
+[IMAGE: thermal_p28_54.png]
+
+[IMAGE: thermal_p28_60.png]
+
+[IMAGE: thermal_p28_66.png]
+
+[IMAGE: thermal_p28_72.png]
+
+[IMAGE: thermal_p28_78.png]
+
+[IMAGE: thermal_p28_84.png]
+
+[IMAGE: thermal_p28_90.png]
+
+[IMAGE: thermal_p28_97.png]
+
+[IMAGE: thermal_p28_104.png]
+
+[IMAGE: thermal_p28_110.png]
+
+[IMAGE: thermal_p28_111.png]
+
+[IMAGE: thermal_p28_117.png]
+
+[IMAGE: thermal_p28_123.png]
+
+[IMAGE: thermal_p28_130.png]
+
+[IMAGE: thermal_p28_136.png]
+
+[IMAGE: thermal_p28_144.png]
+
+[IMAGE: thermal_p28_150.png]
+
+[IMAGE: thermal_p28_156.png]
+
+[IMAGE: thermal_p28_162.png]
+
+[IMAGE: thermal_p28_168.png]
+
+[IMAGE: thermal_p28_174.png]
+
+[IMAGE: thermal_p28_180.png]
+
+Coldspot : 
+21.9 °C
+
+[IMAGE: thermal_p28_1.png]
+
+[IMAGE: thermal_p28_7.png]
+
+[IMAGE: thermal_p28_13.png]
+
+[IMAGE: thermal_p28_19.png]
+
+[IMAGE: thermal_p28_25.png]
+
+[IMAGE: thermal_p28_31.png]
+
+[IMAGE: thermal_p28_37.png]
+
+[IMAGE: thermal_p28_43.png]
+
+[IMAGE: thermal_p28_49.png]
+
+[IMAGE: thermal_p28_55.png]
+
+[IMAGE: thermal_p28_61.png]
+
+[IMAGE: thermal_p28_67.png]
+
+[IMAGE: thermal_p28_73.png]
+
+[IMAGE: thermal_p28_79.png]
+
+[IMAGE: thermal_p28_85.png]
+
+[IMAGE: thermal_p28_92.png]
+
+[IMAGE: thermal_p28_99.png]
+
+[IMAGE: thermal_p28_105.png]
+
+[IMAGE: thermal_p28_112.png]
+
+[IMAGE: thermal_p28_118.png]
+
+[IMAGE: thermal_p28_124.png]
+
+[IMAGE: thermal_p28_125.png]
+
+[IMAGE: thermal_p28_131.png]
+
+[IMAGE: thermal_p28_138.png]
+
+[IMAGE: thermal_p28_145.png]
+
+[IMAGE: thermal_p28_151.png]
+
+[IMAGE: thermal_p28_157.png]
+
+[IMAGE: thermal_p28_163.png]
+
+[IMAGE: thermal_p28_169.png]
+
+[IMAGE: thermal_p28_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.9 °C
+
+[IMAGE: thermal_p28_122.jpeg]
+
+28
+
+
+--- Page 29 ---
+[IMAGE: thermal_p29_4.jpeg]
+
+[IMAGE: thermal_p29_5.jpeg]
+
+[IMAGE: thermal_p29_10.jpeg]
+
+[IMAGE: thermal_p29_11.jpeg]
+
+[IMAGE: thermal_p29_16.jpeg]
+
+[IMAGE: thermal_p29_17.jpeg]
+
+[IMAGE: thermal_p29_22.jpeg]
+
+[IMAGE: thermal_p29_23.jpeg]
+
+[IMAGE: thermal_p29_28.jpeg]
+
+[IMAGE: thermal_p29_29.jpeg]
+
+[IMAGE: thermal_p29_34.jpeg]
+
+[IMAGE: thermal_p29_35.jpeg]
+
+[IMAGE: thermal_p29_40.jpeg]
+
+[IMAGE: thermal_p29_41.jpeg]
+
+[IMAGE: thermal_p29_46.jpeg]
+
+[IMAGE: thermal_p29_47.jpeg]
+
+[IMAGE: thermal_p29_52.jpeg]
+
+[IMAGE: thermal_p29_53.jpeg]
+
+[IMAGE: thermal_p29_58.jpeg]
+
+[IMAGE: thermal_p29_59.jpeg]
+
+[IMAGE: thermal_p29_64.jpeg]
+
+[IMAGE: thermal_p29_65.jpeg]
+
+[IMAGE: thermal_p29_70.jpeg]
+
+[IMAGE: thermal_p29_71.jpeg]
+
+[IMAGE: thermal_p29_76.jpeg]
+
+[IMAGE: thermal_p29_77.jpeg]
+
+[IMAGE: thermal_p29_82.jpeg]
+
+[IMAGE: thermal_p29_83.jpeg]
+
+[IMAGE: thermal_p29_88.jpeg]
+
+[IMAGE: thermal_p29_89.jpeg]
+
+[IMAGE: thermal_p29_91.jpeg]
+
+[IMAGE: thermal_p29_95.jpeg]
+
+[IMAGE: thermal_p29_96.jpeg]
+
+[IMAGE: thermal_p29_98.jpeg]
+
+[IMAGE: thermal_p29_102.jpeg]
+
+[IMAGE: thermal_p29_103.jpeg]
+
+[IMAGE: thermal_p29_108.jpeg]
+
+[IMAGE: thermal_p29_109.jpeg]
+
+[IMAGE: thermal_p29_115.jpeg]
+
+[IMAGE: thermal_p29_116.jpeg]
+
+[IMAGE: thermal_p29_121.jpeg]
+
+[IMAGE: thermal_p29_122.jpeg]
+
+[IMAGE: thermal_p29_134.jpeg]
+
+[IMAGE: thermal_p29_135.jpeg]
+
+[IMAGE: thermal_p29_142.jpeg]
+
+[IMAGE: thermal_p29_143.jpeg]
+
+[IMAGE: thermal_p29_148.jpeg]
+
+[IMAGE: thermal_p29_149.jpeg]
+
+[IMAGE: thermal_p29_154.jpeg]
+
+[IMAGE: thermal_p29_155.jpeg]
+
+[IMAGE: thermal_p29_160.jpeg]
+
+[IMAGE: thermal_p29_161.jpeg]
+
+[IMAGE: thermal_p29_166.jpeg]
+
+[IMAGE: thermal_p29_167.jpeg]
+
+[IMAGE: thermal_p29_172.jpeg]
+
+[IMAGE: thermal_p29_173.jpeg]
+
+[IMAGE: thermal_p29_178.jpeg]
+
+[IMAGE: thermal_p29_179.jpeg]
+
+Thermal image : RB02378X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+26.4 °C
+
+[IMAGE: thermal_p29_128.jpeg]
+
+27/09/22
+
+Hotspot : 
+26.4 °C
+
+[IMAGE: thermal_p29_6.png]
+
+[IMAGE: thermal_p29_12.png]
+
+[IMAGE: thermal_p29_18.png]
+
+[IMAGE: thermal_p29_24.png]
+
+[IMAGE: thermal_p29_30.png]
+
+[IMAGE: thermal_p29_36.png]
+
+[IMAGE: thermal_p29_42.png]
+
+[IMAGE: thermal_p29_48.png]
+
+[IMAGE: thermal_p29_54.png]
+
+[IMAGE: thermal_p29_60.png]
+
+[IMAGE: thermal_p29_66.png]
+
+[IMAGE: thermal_p29_72.png]
+
+[IMAGE: thermal_p29_78.png]
+
+[IMAGE: thermal_p29_84.png]
+
+[IMAGE: thermal_p29_90.png]
+
+[IMAGE: thermal_p29_97.png]
+
+[IMAGE: thermal_p29_104.png]
+
+[IMAGE: thermal_p29_110.png]
+
+[IMAGE: thermal_p29_111.png]
+
+[IMAGE: thermal_p29_117.png]
+
+[IMAGE: thermal_p29_123.png]
+
+[IMAGE: thermal_p29_130.png]
+
+[IMAGE: thermal_p29_136.png]
+
+[IMAGE: thermal_p29_144.png]
+
+[IMAGE: thermal_p29_150.png]
+
+[IMAGE: thermal_p29_156.png]
+
+[IMAGE: thermal_p29_162.png]
+
+[IMAGE: thermal_p29_168.png]
+
+[IMAGE: thermal_p29_174.png]
+
+[IMAGE: thermal_p29_180.png]
+
+Coldspot : 
+21.4 °C
+
+[IMAGE: thermal_p29_1.png]
+
+[IMAGE: thermal_p29_7.png]
+
+[IMAGE: thermal_p29_13.png]
+
+[IMAGE: thermal_p29_19.png]
+
+[IMAGE: thermal_p29_25.png]
+
+[IMAGE: thermal_p29_31.png]
+
+[IMAGE: thermal_p29_37.png]
+
+[IMAGE: thermal_p29_43.png]
+
+[IMAGE: thermal_p29_49.png]
+
+[IMAGE: thermal_p29_55.png]
+
+[IMAGE: thermal_p29_61.png]
+
+[IMAGE: thermal_p29_67.png]
+
+[IMAGE: thermal_p29_73.png]
+
+[IMAGE: thermal_p29_79.png]
+
+[IMAGE: thermal_p29_85.png]
+
+[IMAGE: thermal_p29_92.png]
+
+[IMAGE: thermal_p29_99.png]
+
+[IMAGE: thermal_p29_105.png]
+
+[IMAGE: thermal_p29_112.png]
+
+[IMAGE: thermal_p29_118.png]
+
+[IMAGE: thermal_p29_124.png]
+
+[IMAGE: thermal_p29_125.png]
+
+[IMAGE: thermal_p29_131.png]
+
+[IMAGE: thermal_p29_138.png]
+
+[IMAGE: thermal_p29_145.png]
+
+[IMAGE: thermal_p29_151.png]
+
+[IMAGE: thermal_p29_157.png]
+
+[IMAGE: thermal_p29_163.png]
+
+[IMAGE: thermal_p29_169.png]
+
+[IMAGE: thermal_p29_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+21.4 °C
+
+[IMAGE: thermal_p29_129.jpeg]
+
+29
+
+
+--- Page 30 ---
+[IMAGE: thermal_p30_4.jpeg]
+
+[IMAGE: thermal_p30_5.jpeg]
+
+[IMAGE: thermal_p30_10.jpeg]
+
+[IMAGE: thermal_p30_11.jpeg]
+
+[IMAGE: thermal_p30_16.jpeg]
+
+[IMAGE: thermal_p30_17.jpeg]
+
+[IMAGE: thermal_p30_22.jpeg]
+
+[IMAGE: thermal_p30_23.jpeg]
+
+[IMAGE: thermal_p30_28.jpeg]
+
+[IMAGE: thermal_p30_29.jpeg]
+
+[IMAGE: thermal_p30_34.jpeg]
+
+[IMAGE: thermal_p30_35.jpeg]
+
+[IMAGE: thermal_p30_40.jpeg]
+
+[IMAGE: thermal_p30_41.jpeg]
+
+[IMAGE: thermal_p30_46.jpeg]
+
+[IMAGE: thermal_p30_47.jpeg]
+
+[IMAGE: thermal_p30_52.jpeg]
+
+[IMAGE: thermal_p30_53.jpeg]
+
+[IMAGE: thermal_p30_58.jpeg]
+
+[IMAGE: thermal_p30_59.jpeg]
+
+[IMAGE: thermal_p30_64.jpeg]
+
+[IMAGE: thermal_p30_65.jpeg]
+
+[IMAGE: thermal_p30_70.jpeg]
+
+[IMAGE: thermal_p30_71.jpeg]
+
+[IMAGE: thermal_p30_76.jpeg]
+
+[IMAGE: thermal_p30_77.jpeg]
+
+[IMAGE: thermal_p30_82.jpeg]
+
+[IMAGE: thermal_p30_83.jpeg]
+
+[IMAGE: thermal_p30_88.jpeg]
+
+[IMAGE: thermal_p30_89.jpeg]
+
+[IMAGE: thermal_p30_91.jpeg]
+
+[IMAGE: thermal_p30_95.jpeg]
+
+[IMAGE: thermal_p30_96.jpeg]
+
+[IMAGE: thermal_p30_98.jpeg]
+
+[IMAGE: thermal_p30_102.jpeg]
+
+[IMAGE: thermal_p30_103.jpeg]
+
+[IMAGE: thermal_p30_108.jpeg]
+
+[IMAGE: thermal_p30_109.jpeg]
+
+[IMAGE: thermal_p30_115.jpeg]
+
+[IMAGE: thermal_p30_116.jpeg]
+
+[IMAGE: thermal_p30_121.jpeg]
+
+[IMAGE: thermal_p30_122.jpeg]
+
+[IMAGE: thermal_p30_128.jpeg]
+
+[IMAGE: thermal_p30_129.jpeg]
+
+[IMAGE: thermal_p30_142.jpeg]
+
+[IMAGE: thermal_p30_143.jpeg]
+
+[IMAGE: thermal_p30_148.jpeg]
+
+[IMAGE: thermal_p30_149.jpeg]
+
+[IMAGE: thermal_p30_154.jpeg]
+
+[IMAGE: thermal_p30_155.jpeg]
+
+[IMAGE: thermal_p30_160.jpeg]
+
+[IMAGE: thermal_p30_161.jpeg]
+
+[IMAGE: thermal_p30_166.jpeg]
+
+[IMAGE: thermal_p30_167.jpeg]
+
+[IMAGE: thermal_p30_172.jpeg]
+
+[IMAGE: thermal_p30_173.jpeg]
+
+[IMAGE: thermal_p30_178.jpeg]
+
+[IMAGE: thermal_p30_179.jpeg]
+
+Thermal image : RB02379X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+
+27.8 °C
+
+[IMAGE: thermal_p30_134.jpeg]
+
+27/09/22
+
+Hotspot : 
+27.8 °C
+
+[IMAGE: thermal_p30_6.png]
+
+[IMAGE: thermal_p30_12.png]
+
+[IMAGE: thermal_p30_18.png]
+
+[IMAGE: thermal_p30_24.png]
+
+[IMAGE: thermal_p30_30.png]
+
+[IMAGE: thermal_p30_36.png]
+
+[IMAGE: thermal_p30_42.png]
+
+[IMAGE: thermal_p30_48.png]
+
+[IMAGE: thermal_p30_54.png]
+
+[IMAGE: thermal_p30_60.png]
+
+[IMAGE: thermal_p30_66.png]
+
+[IMAGE: thermal_p30_72.png]
+
+[IMAGE: thermal_p30_78.png]
+
+[IMAGE: thermal_p30_84.png]
+
+[IMAGE: thermal_p30_90.png]
+
+[IMAGE: thermal_p30_97.png]
+
+[IMAGE: thermal_p30_104.png]
+
+[IMAGE: thermal_p30_110.png]
+
+[IMAGE: thermal_p30_111.png]
+
+[IMAGE: thermal_p30_117.png]
+
+[IMAGE: thermal_p30_123.png]
+
+[IMAGE: thermal_p30_130.png]
+
+[IMAGE: thermal_p30_136.png]
+
+[IMAGE: thermal_p30_144.png]
+
+[IMAGE: thermal_p30_150.png]
+
+[IMAGE: thermal_p30_156.png]
+
+[IMAGE: thermal_p30_162.png]
+
+[IMAGE: thermal_p30_168.png]
+
+[IMAGE: thermal_p30_174.png]
+
+[IMAGE: thermal_p30_180.png]
+
+Coldspot : 
+22.8 °C
+
+[IMAGE: thermal_p30_1.png]
+
+[IMAGE: thermal_p30_7.png]
+
+[IMAGE: thermal_p30_13.png]
+
+[IMAGE: thermal_p30_19.png]
+
+[IMAGE: thermal_p30_25.png]
+
+[IMAGE: thermal_p30_31.png]
+
+[IMAGE: thermal_p30_37.png]
+
+[IMAGE: thermal_p30_43.png]
+
+[IMAGE: thermal_p30_49.png]
+
+[IMAGE: thermal_p30_55.png]
+
+[IMAGE: thermal_p30_61.png]
+
+[IMAGE: thermal_p30_67.png]
+
+[IMAGE: thermal_p30_73.png]
+
+[IMAGE: thermal_p30_79.png]
+
+[IMAGE: thermal_p30_85.png]
+
+[IMAGE: thermal_p30_92.png]
+
+[IMAGE: thermal_p30_99.png]
+
+[IMAGE: thermal_p30_105.png]
+
+[IMAGE: thermal_p30_112.png]
+
+[IMAGE: thermal_p30_118.png]
+
+[IMAGE: thermal_p30_124.png]
+
+[IMAGE: thermal_p30_125.png]
+
+[IMAGE: thermal_p30_131.png]
+
+[IMAGE: thermal_p30_138.png]
+
+[IMAGE: thermal_p30_145.png]
+
+[IMAGE: thermal_p30_151.png]
+
+[IMAGE: thermal_p30_157.png]
+
+[IMAGE: thermal_p30_163.png]
+
+[IMAGE: thermal_p30_169.png]
+
+[IMAGE: thermal_p30_175.png]
+
+Emissivity : 
+0.94
+
+Reflected temperature : 
+23 °C
+
+22.8 °C
+
+[IMAGE: thermal_p30_135.jpeg]
+
+30
+

@@ -1,0 +1,6 @@
+PyMuPDF
+google-genai
+xhtml2pdf
+jinja2
+pydantic
+python-dotenv

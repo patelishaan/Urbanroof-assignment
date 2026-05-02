@@ -1,0 +1,60 @@
+{
+    "summary": "The property, Flat No. 103, exhibits widespread dampness issues in multiple internal areas including the hall, common bedroom, master bedroom, and kitchen, primarily at skirting levels and on walls. Bathrooms (Common and Master Bedroom) show signs of tile hollowness, open/gapped tile joints, and plumbing issues, leading to constant leakage. The external wall of the building near the Master Bedroom has visible cracks, duct issues, and moderately leaked external plumbing pipes, along with biological growth. Seepage is also noted in the parking area ceiling below Flat No. 103. Furthermore, Flat No. 203 has issues with open tile joints and outlet leakage in its bathrooms, which may be related.",
+    "observations": [
+        {
+            "area": "Hall (Flat No. 103)",
+            "finding": "Skirting level dampness observed.",
+            "image_filename": "sample_p3_2.jpeg"
+        },
+        {
+            "area": "Common Bathroom (Flat No. 103)",
+            "finding": "Tile hollowness, gaps between tile joints, and plumbing issues including gaps around Nahani Trap Joints and loose/rusted plumbing joints, leading to constant leakage.",
+            "image_filename": "sample_p3_9.jpeg"
+        },
+        {
+            "area": "Common Bedroom (Flat No. 103)",
+            "finding": "Skirting level dampness observed.",
+            "image_filename": "sample_p3_13.jpeg"
+        },
+        {
+            "area": "Master Bedroom (Flat No. 103)",
+            "finding": "Skirting level dampness and efflorescence observed on the wall surface.",
+            "image_filename": "sample_p4_7.jpeg"
+        },
+        {
+            "area": "Master Bedroom Bathroom (Flat No. 103)",
+            "finding": "Tile hollowness and gaps between tile joints observed.",
+            "image_filename": "sample_p4_14.jpeg"
+        },
+        {
+            "area": "Kitchen (Flat No. 103)",
+            "finding": "Skirting level dampness observed.",
+            "image_filename": "sample_p4_18.jpeg"
+        },
+        {
+            "area": "External Wall (near Master Bedroom of Flat No. 103)",
+            "finding": "Cracks on the external wall, RCC columns and beams, and moderately cracked/leaked external plumbing pipes. Moderate algae, fungus, and moss growth are also present.",
+            "image_filename": "sample_p5_11.jpeg"
+        },
+        {
+            "area": "Parking Area (below Flat No. 103)",
+            "finding": "Seepage/leakage observed at the ceiling.",
+            "image_filename": "sample_p6_3.jpeg"
+        },
+        {
+            "area": "Common Bathroom Ceiling (Flat No. 103)",
+            "finding": "Mild dampness observed.",
+            "image_filename": "sample_p6_17.jpeg"
+        },
+        {
+            "area": "Common & Master Bedroom Bathrooms (Flat No. 203)",
+            "finding": "Open tile joints and outlet leakage observed.",
+            "image_filename": "sample_p6_11.jpeg"
+        }
+    ],
+    "root_cause": "The probable root cause is a combination of internal plumbing defects (concealed plumbing leakage, damaged Nahani trap/brickbat coba, loose plumbing joints) within the bathrooms of Flat No. 103 and potentially Flat No. 203, leading to constant internal leakages. Additionally, external factors such as wall cracks, duct issues, and compromised external plumbing contribute to water ingress, causing dampness, efflorescence on interior walls and ceilings, and seepage in the parking area.",
+    "severity": "Moderate to High. The issues are widespread, affecting multiple rooms and the parking area, indicating ongoing water ingress and potential long-term damage to finishes and possibly structural elements. The involvement of concealed plumbing suggests more complex repairs, and the issues extending to an adjacent flat highlight a broader building-level concern.",
+    "recommended_actions": "1. Conduct a thorough inspection and repair of all identified plumbing issues in the Common and Master Bedroom bathrooms of Flat No. 103, including concealed plumbing lines, Nahani trap/brickbat coba, and loose plumbing joints. 2. Rework bathroom tile joints and address tile hollowness in both Common and Master Bedroom bathrooms of Flat No. 103. 3. Repair cracks on the external wall, RCC columns and beams, and the duct issue near the Master Bedroom. 4. Repair or replace all cracked and leaking external plumbing pipes. 5. Apply appropriate waterproofing solutions to affected external walls and internal wet areas to prevent future water ingress. 6. Treat dampness and efflorescence on interior walls and ceilings, followed by replastering and repainting of affected areas in the hall, bedrooms, and kitchen. 7. Investigate and repair the source of seepage in the parking area ceiling. 8. Coordinate with Flat No. 203 to address open tile joints and outlet leakage in their bathrooms, as this may be contributing to the overall problem.",
+    "additional_notes": "The inspection was conducted on 27.09.2022 by Krushna & Mahesh. The property is a flat located in a building with 11 floors. No previous structural audit or repair work was reported. Thermal imaging reports (e.g., RB02380X.JPG, RB02386X.JPG) were generated, providing temperature data that likely confirms areas of moisture or thermal bridging.",
+    "missing_info": "Customer Name, Mobile, Email, Address, Property Age, Existing type of paint and manufacturer, Sealants condition on window frame joints, Condition of wall mounted AC Frames/holes/drain pipes, Openings around pipes in external wall grouting condition, Vegetation growth/dish antennas on parapet wall, Corrosion on metal rods/MS window grills, Patchwork plaster required, Entire replaster required, Separation cracks at beam-column junction, Leakage from overhead water tank."
+}

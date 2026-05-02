@@ -1,0 +1,27 @@
+# Environment variables (Crucial: Prevents API keys from being uploaded)
+.env
+.env.local
+
+# Virtual environments
+.venv
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary/Generated Data
+# (Uncomment below if you don't want to commit the generated outputs)
+# images/
+# Generated_Main_DDR.pdf
+# extracted_data.txt
+# report_data.json
+# assignment_text.txt
+# extract_pdf.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
