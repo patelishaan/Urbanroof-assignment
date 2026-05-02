@@ -4,3 +4,6 @@ xhtml2pdf
 jinja2
 pydantic
 python-dotenv
+flask
+werkzeug
+gunicorn
